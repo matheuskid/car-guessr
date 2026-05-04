@@ -9,6 +9,10 @@ import carsData from './data/cars.json'
 const gameState = ref('MENU') // 'MENU' or 'PLAYING'
 const targetCar = ref(null)
 
+const resolveAsset = (path) => {
+  return import.meta.env.BASE_URL + path.replace(/^\//, '')
+}
+
 const guesses = ref([])
 const maxGuesses = 5
 const isGameOver = ref(false)
@@ -128,7 +132,7 @@ const handleGuess = (guessInput) => {
           <CarImageReveal 
             v-if="targetCar"
             :key="targetCar.imageUrl"
-            :image-url="targetCar.imageUrl"
+            :image-url="resolveAsset(targetCar.imageUrl)"
             :revealed="isVictory || isGameOver" 
             :attempts="guesses.length"
             :max-attempts="maxGuesses"
