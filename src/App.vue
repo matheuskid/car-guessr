@@ -10,7 +10,7 @@ const gameState = ref('MENU') // 'MENU' or 'PLAYING'
 const targetCar = ref(null)
 
 const resolveAsset = (path) => {
-  return import.meta.env.BASE_URL + path.replace(/^\//, '')
+  return import.meta.env.BASE_URL + "car-guessr/" + path.replace(/^\//, '')
 }
 
 const guesses = ref([])
