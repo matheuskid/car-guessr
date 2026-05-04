@@ -6,7 +6,7 @@ import GuessInput from './components/GuessInput.vue'
 import GuessGrid from './components/GuessGrid.vue'
 import carsData from './data/cars.json'
 
-const gameState = ref('MENU') // 'MENU' or 'PLAYING'
+const gameState = ref('MENU')
 const targetCar = ref(null)
 
 const resolveAsset = (path) => {
