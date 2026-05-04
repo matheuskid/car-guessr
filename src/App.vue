@@ -39,7 +39,6 @@ const handleGiveUp = () => {
 const handleGuess = (guessInput) => {
   if (isGameOver.value) return
 
-  // Compare guess with target
   const makeStatus = guessInput.make === targetCar.value.make ? 'correct' : 'incorrect'
   const modelStatus = guessInput.model === targetCar.value.model ? 'correct' : 'incorrect'
   let countryStatus = 'incorrect'
@@ -61,7 +60,6 @@ const handleGuess = (guessInput) => {
 
   guesses.value.push(newGuess)
 
-  // Check win condition
   if (makeStatus === 'correct' && modelStatus === 'correct' && countryStatus === 'correct') {
     isGameOver.value = true
     isVictory.value = true
