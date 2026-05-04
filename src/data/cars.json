@@ -1,0 +1,74 @@
+[
+  {
+    "make": "Toyota",
+    "model": "Corolla",
+    "country": "Japan",
+    "imageUrl": "/images/Toyota_Corolla_E180_sedan.jpg"
+  },
+  {
+    "make": "Honda",
+    "model": "Civic",
+    "country": "Japan",
+    "imageUrl": "/images/Honda_CIVIC_TYPE_R_EK9.JPG"
+  },
+  {
+    "make": "Volkswagen",
+    "model": "Golf",
+    "country": "Germany",
+    "imageUrl": "/images/2017_Volkswagen_Golf_2017.jpg"
+  },
+  {
+    "make": "Ford",
+    "model": "Mustang",
+    "country": "USA",
+    "imageUrl": "/images/1968_Ford_Mustang.jpg"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Camaro",
+    "country": "USA",
+    "imageUrl": "/images/CHEVROLET_CAMARO_FIFTH_GENERATION.jpg"
+  },
+  {
+    "make": "Porsche",
+    "model": "911",
+    "country": "Germany",
+    "imageUrl": "/images/2014_Porsche_911_Carrera_4_GTS.jpg"
+  },
+  {
+    "make": "BMW",
+    "model": "M3",
+    "country": "Germany",
+    "imageUrl": "/images/2003_BMW_M3_CSL.jpg"
+  },
+  {
+    "make": "Audi",
+    "model": "A4",
+    "country": "Germany",
+    "imageUrl": "/images/AUDI_A4_SEDAN_(B6).jpg"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "country": "Germany",
+    "imageUrl": "/images/2016_Mercedes-Benz_C-Class.jpg"
+  },
+  {
+    "make": "Mini",
+    "model": "Cooper",
+    "country": "UK",
+    "imageUrl": "/images/1990_Mini_Cooper.jpg"
+  },
+  {
+    "make": "Hyundai",
+    "model": "Veloster",
+    "country": "South Korea",
+    "imageUrl": "/images/2012_Hyundai_Veloster.jpg"
+  },
+  {
+    "make": "Nissan",
+    "model": "GT-R",
+    "country": "Japan",
+    "imageUrl": "/images/Nissan_GT-R_02.JPG"
+  }
+]
