@@ -17,7 +17,16 @@ const resolveAsset = (path) => {
 }
 
 const startGame = () => {
-  const randomIndex = Math.floor(Math.random() * vehiclesData.length)
+  if (!vehiclesData || vehiclesData.length === 0) return
+
+  let randomIndex
+  // Evita pegar o mesmo carro duas vezes seguidas se houver mais de um carro disponível
+  do {
+    randomIndex = Math.floor(Math.random() * vehiclesData.length)
+  } while (vehiclesData.length > 1 && targetCar.value && 
+           vehiclesData[randomIndex].make === targetCar.value.make && 
+           vehiclesData[randomIndex].model === targetCar.value.model)
+
   const car = vehiclesData[randomIndex]
   const randomImageUrl = car.imageUrls[Math.floor(Math.random() * car.imageUrls.length)]
   
