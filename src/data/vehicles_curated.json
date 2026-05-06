@@ -3,7 +3,7 @@
     "make": "ATS",
     "model": "GT",
     "year": 2018,
-    "country": "",
+    "country": "Germany",
     "imageUrls": [
       "https://upload.wikimedia.org/wikipedia/commons/5/55/ATS_GT_1X7A7944.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "https://upload.wikimedia.org/wikipedia/commons/4/48/ATS_GT_1X7A7946.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
@@ -13,7 +13,7 @@
     "make": "Abarth",
     "model": "595 Esseesse",
     "year": 1968,
-    "country": "",
+    "country": "Italy",
     "imageUrls": [
       "https://upload.wikimedia.org/wikipedia/commons/3/3f/Fiat_Abarth_595_esseesse_IMG_3014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "https://upload.wikimedia.org/wikipedia/commons/2/21/Fiat_Abarth_595_esseesse_IMG_3017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
@@ -23,7 +23,7 @@
     "make": "Abarth",
     "model": "Fiat 131",
     "year": 1980,
-    "country": "",
+    "country": "Italy",
     "imageUrls": [
       "https://upload.wikimedia.org/wikipedia/commons/c/c8/Langenburg_Jul_2012_34_%28Deutsches_Automuseum_-_1980_Fiat_131_Rallye%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "https://upload.wikimedia.org/wikipedia/commons/b/b9/Fiat_131_Abarth_of_Walter_R%C3%B6hrl_at_1980_Rallye_Sanremo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
@@ -33,7 +33,7 @@
     "make": "Abarth",
     "model": "695 Biposto",
     "year": 2016,
-    "country": "",
+    "country": "Italy",
     "imageUrls": [
       "https://upload.wikimedia.org/wikipedia/commons/3/37/2016_Abarth_695_Biposto_Officine_Ferrari.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "https://upload.wikimedia.org/wikipedia/commons/1/14/2016_Abarth_695_Biposto_220_Dog_Ring_Gearbox.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
@@ -43,7 +43,7 @@
     "make": "Abarth",
     "model": "124 Spider",
     "year": 2017,
-    "country": "",
+    "country": "Italy",
     "imageUrls": [
       "https://upload.wikimedia.org/wikipedia/commons/e/e4/2017_Abarth_124_Spider_2.10.17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "https://upload.wikimedia.org/wikipedia/commons/d/d3/2017_Abarth_124_Spider_rear_2.10.17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -54,7 +54,7 @@
     "make": "Acura",
     "model": "Integra Type-R",
     "year": 2001,
-    "country": "",
+    "country": "Japan",
     "imageUrls": [
       "https://upload.wikimedia.org/wikipedia/commons/e/ed/2001_Acura_Integra_Type-R_in_Phoenix_Yellow%2C_Front_Right_%28St._Ignace_2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "https://upload.wikimedia.org/wikipedia/commons/7/71/Acura_Integra_Type_R_%282001%29_%2853766562535%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -66,7 +66,7 @@
     "make": "Acura",
     "model": "RSX Type-S",
     "year": 2002,
-    "country": "",
+    "country": "Japan",
     "imageUrls": [
       "https://upload.wikimedia.org/wikipedia/commons/8/8c/2002_Honda_Integra_Type_R.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
     ]
@@ -75,7 +75,7 @@
     "make": "Acura",
     "model": "NSX",
     "year": 2017,
-    "country": "",
+    "country": "Japan",
     "imageUrls": [
       "https://upload.wikimedia.org/wikipedia/commons/c/ce/2017_Acura_NSX_Prototype_%2826705737033%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "https://upload.wikimedia.org/wikipedia/commons/2/23/2017_Acura_NSX_Prototype_%2827406942395%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
@@ -85,7 +85,7 @@
     "make": "Alfa Romeo",
     "model": "P3",
     "year": 1934,
-    "country": "",
+    "country": "Italy",
     "imageUrls": [
       "https://upload.wikimedia.org/wikipedia/commons/9/99/Alfa_Romeo_P3_%2881118%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "https://upload.wikimedia.org/wikipedia/commons/d/dd/1934_Alfa_Romeo_P3_Tipo_B.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
@@ -95,7 +95,7 @@
     "make": "Alfa Romeo",
     "model": "Giulia Sprint GTA Stradale",
     "year": 1965,
-    "country": "",
+    "country": "Italy",
     "imageUrls": [
       "https://upload.wikimedia.org/wikipedia/commons/c/cb/1967_Alfa_Romeo_Giulia_GTA_-_white_-_fvr.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
     ]
@@ -104,7 +104,7 @@
     "make": "Alfa Romeo",
     "model": "Giulia TZ2",
     "year": 1965,
-    "country": "",
+    "country": "Italy",
     "imageUrls": [
       "https://upload.wikimedia.org/wikipedia/commons/b/bc/1966_Alfa_Romeo_Giulia_TZ2_Red.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "https://upload.wikimedia.org/wikipedia/commons/c/c5/Alfa_Romeo_Giulia_TZ2_%281965%29_1X7A7939.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -115,7 +115,7 @@
     "make": "Alfa Romeo",
     "model": "33 Stradale",
     "year": 1968,
-    "country": "",
+    "country": "Italy",
     "imageUrls": [
       "https://upload.wikimedia.org/wikipedia/commons/e/ed/1968_Alfa_Romeo_33_Stradale%2C_front_right_%28Miller%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "https://upload.wikimedia.org/wikipedia/commons/4/45/1968_Alfa_Romeo_Tipo_33_Stradale_-_Flickr_-_edvvc.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -127,7 +127,7 @@
     "make": "Alfa Romeo",
     "model": "8C Competizione",
     "year": 2008,
-    "country": "",
+    "country": "Italy",
     "imageUrls": [
       "https://upload.wikimedia.org/wikipedia/commons/3/37/Alfa_Romeo_8C_2008_Competizione_RSideFront_CECF_9April2011_%2814600912005%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "https://upload.wikimedia.org/wikipedia/commons/4/48/Alfa_Romeo_8C_2008_Competizione_LRear_CECF_9April2011_%2814414333789%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
@@ -137,7 +137,7 @@
     "make": "Alfa Romeo",
     "model": "4C",
     "year": 2014,
-    "country": "",
+    "country": "Italy",
     "imageUrls": [
       "https://upload.wikimedia.org/wikipedia/commons/3/3a/2014_Alfa_Romeo_4C_7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
     ]
@@ -146,7 +146,7 @@
     "make": "Alfa Romeo",
     "model": "Giulia Quadrifoglio",
     "year": 2017,
-    "country": "",
+    "country": "Italy",
     "imageUrls": [
       "https://upload.wikimedia.org/wikipedia/commons/d/d8/2017_Alfa_Romeo_Giulia_Quadrifoglio_2.9_V6_Bi-Turbo_%2848694703601%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "https://upload.wikimedia.org/wikipedia/commons/a/a9/2017_Alfa_Romeo_Giulia_V6_Biturbo_Quadrifoglio_2.9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -157,7 +157,7 @@
     "make": "Alfa Romeo",
     "model": "Stelvio Quadrifoglio",
     "year": 2018,
-    "country": "",
+    "country": "Italy",
     "imageUrls": [
       "https://upload.wikimedia.org/wikipedia/commons/2/25/Alfa_Romeo_Stelvio_Quadrifoglio_at_Legendy_2018_in_Prague.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "https://upload.wikimedia.org/wikipedia/commons/b/b9/R%C3%A9tromobile_2018_-_Alfa_Romeo_Stelvio_Quadrifoglio_-_002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
@@ -167,7 +167,7 @@
     "make": "Alpine",
     "model": "A110",
     "year": 2017,
-    "country": "",
+    "country": "France",
     "imageUrls": [
       "https://upload.wikimedia.org/wikipedia/commons/4/4d/Alpine_A110_en_Angleterre_Aout_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
     ]
@@ -176,7 +176,7 @@
     "make": "Apollo",
     "model": "Intensa Emozione",
     "year": 2018,
-    "country": "",
+    "country": "Germany",
     "imageUrls": [
       "https://upload.wikimedia.org/wikipedia/commons/3/3c/Apollo_IE_on_track_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "https://upload.wikimedia.org/wikipedia/commons/9/9d/Apollo_IE_on_track_1_%28resized%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -184,31 +184,10 @@
     ]
   },
   {
-    "make": "Ariel",
-    "model": "Atom 500 V8",
-    "year": 2013,
-    "country": "",
-    "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/9/9f/Ariel_Atom_9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "https://upload.wikimedia.org/wikipedia/commons/8/8a/ArielAtomGoodwood.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "https://upload.wikimedia.org/wikipedia/commons/1/12/2019_Ariel_Atom_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
-    ]
-  },
-  {
-    "make": "Ariel",
-    "model": "Nomad",
-    "year": 2016,
-    "country": "",
-    "imageUrls": [
-      "https://upload.wikimedia.org/wikipedia/commons/6/63/2016_Ariel_Nomad_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "https://upload.wikimedia.org/wikipedia/commons/b/b3/2016_Ariel_Nomad_Tactical%2C_rear_right_%28New_Canaan%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
-    ]
-  },
-  {
     "make": "Ascari",
     "model": "KZ1R",
     "year": 2012,
-    "country": "",
+    "country": "UK",
     "imageUrls": [
       "https://upload.wikimedia.org/wikipedia/commons/e/ec/Ascari_KZ1_II.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
     ]
@@ -217,7 +196,7 @@
     "make": "Aston Martin",
     "model": "DBR1",
     "year": 1958,
-    "country": "",
+    "country": "UK",
     "imageUrls": [
       "https://upload.wikimedia.org/wikipedia/commons/3/38/1958_Aston_Martin_DBR1-3_%28Simeone%29_01.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "https://upload.wikimedia.org/wikipedia/commons/a/a3/1958-03-28_Sebring_Aston_DBR1-1_Shelby.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
@@ -227,7 +206,7 @@
     "make": "Aston Martin",
     "model": "DB4 GT Zagato",
     "year": 1960,
-    "country": "",
+    "country": "UK",
     "imageUrls": [
       "https://upload.wikimedia.org/wikipedia/commons/2/29/1960_Aston_Martin_DB4_GT_Zagato_FOS19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "https://upload.wikimedia.org/wikipedia/commons/a/a8/Aston_Martin_DB4_GT_Zagato_%28Ank_kumar%2C_Infosys_Limited%29_17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
@@ -237,7 +216,7 @@
     "make": "Aston Martin",
     "model": "DB5",
     "year": 1964,
-    "country": "",
+    "country": "UK",
     "imageUrls": [
       "https://upload.wikimedia.org/wikipedia/commons/f/f8/1964_Aston_Martin_DB5_Vantage_Rev.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "https://upload.wikimedia.org/wikipedia/commons/b/b3/1964_Aston_Martin_DB5_LC24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -250,7 +229,7 @@
     "make": "Aston Martin",
     "model": "One-77",
     "year": 2010,
-    "country": "",
+    "country": "UK",
     "imageUrls": [
       "https://upload.wikimedia.org/wikipedia/commons/5/5d/Aston_Martin_One-77_%282010%29_%2852561028469%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
     ]
@@ -259,7 +238,7 @@
     "make": "Aston Martin",
     "model": "Vanquish",
     "year": 2012,
-    "country": "",
+    "country": "UK",
     "imageUrls": [
       "https://upload.wikimedia.org/wikipedia/commons/0/05/2012_Aston_Martin_Vanquish_Auto_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "https://upload.wikimedia.org/wikipedia/commons/8/86/2014_Aston_Martin_Vanquish_HCC22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -270,7 +249,7 @@
     "make": "Aston Martin",
     "model": "V12 Vantage S",
     "year": 2013,
-    "country": "",
+    "country": "UK",
     "imageUrls": [
       "https://upload.wikimedia.org/wikipedia/commons/0/0e/2013_Aston_Martin_V12_Vantage_S_Automatic_5.9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
     ]
@@ -279,7 +258,7 @@
     "make": "Aston Martin",
     "model": "Vantage GT12",
     "year": 2016,
-    "country": "",
+    "country": "UK",
     "imageUrls": [
       "https://upload.wikimedia.org/wikipedia/commons/0/06/2016_Aston_Martin_Vantage_GT12_SP22_low.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "https://upload.wikimedia.org/wikipedia/commons/9/96/2016_Aston_Martin_Vantage_GT12_SCD24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -290,7 +269,7 @@
     "make": "Aston Martin",
     "model": "Vulcan",
     "year": 2016,
-    "country": "",
+    "country": "UK",
     "imageUrls": [
       "https://upload.wikimedia.org/wikipedia/commons/4/4d/2016_Aston_Martin_Vulcan_SCD23.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "https://upload.wikimedia.org/wikipedia/commons/d/db/Aston_Martin_Vulcan_%2827701406352%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
@@ -300,7 +279,7 @@
     "make": "Aston Martin",
     "model": "DB11",
     "year": 2017,
-    "country": "",
+    "country": "UK",
     "imageUrls": [
       "https://upload.wikimedia.org/wikipedia/commons/9/93/2017_Aston_Martin_DB11_V12_Auto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "https://upload.wikimedia.org/wikipedia/commons/8/89/2017_Aston_Martin_DB11_SCD_24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
