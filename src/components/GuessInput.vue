@@ -3,11 +3,11 @@ import { ref, computed } from 'vue'
 
 const emit = defineEmits(['submit-guess', 'give-up'])
 
-import carsData from '../data/cars.json'
+import vehiclesData from '../data/vehicles_curated.json'
 
-const makes = [...new Set(carsData.map(car => car.make))].sort()
-const models = [...new Set(carsData.map(car => car.model))].sort()
-const countries = [...new Set(carsData.map(car => car.country))].sort()
+const makes = [...new Set(vehiclesData.map(car => car.make))].sort()
+const models = [...new Set(vehiclesData.map(car => car.model))].sort()
+const countries = [...new Set(vehiclesData.filter(car => car.country).map(car => car.country))].sort()
 
 const selectedMake = ref('')
 const selectedModel = ref('')

@@ -17,6 +17,10 @@ const props = defineProps({
   maxAttempts: {
     type: Number,
     default: 5
+  },
+  zoomEnabled: {
+    type: Boolean,
+    default: true
   }
 })
 
@@ -35,13 +39,15 @@ onMounted(() => {
 const transformOrigin = computed(() => `${focalX.value}% ${focalY.value}%`)
 
 const zoomLevel = computed(() => {
-  if (props.revealed) return 1
+  if (props.revealed || !props.zoomEnabled) return 1
   
+  /* Logica antiga de zoom (comentada conforme solicitado)
   const baseZoom = 4 // Starting high zoom
   const step = (baseZoom - 1) / props.maxAttempts
-  
-  // Calculate current zoom, ensuring it doesn't go below 1
   return Math.max(1, baseZoom - (props.attempts * step))
+  */
+  
+  return 1 // Retornando 1 pois o zoom está desativado para este modo
 })
 </script>
 

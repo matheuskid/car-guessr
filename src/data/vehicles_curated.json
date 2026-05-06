@@ -1,0 +1,103 @@
+[
+  {
+    "make": "ATS",
+    "model": "GT",
+    "year": 2018,
+    "country": "Germany",
+    "imageUrls": [
+      "https://upload.wikimedia.org/wikipedia/commons/5/55/ATS_GT_1X7A7944.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "https://upload.wikimedia.org/wikipedia/commons/4/48/ATS_GT_1X7A7946.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    ]
+  },
+  {
+    "make": "Abarth",
+    "model": "595 Esseesse",
+    "year": 1968,
+    "country": "Italy",
+    "imageUrls": [
+      "https://upload.wikimedia.org/wikipedia/commons/3/3f/Fiat_Abarth_595_esseesse_IMG_3014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "https://upload.wikimedia.org/wikipedia/commons/2/21/Fiat_Abarth_595_esseesse_IMG_3017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    ]
+  },
+  {
+    "make": "Abarth",
+    "model": "Fiat 131",
+    "year": 1980,
+    "country": "Italy",
+    "imageUrls": [
+      "https://upload.wikimedia.org/wikipedia/commons/c/c8/Langenburg_Jul_2012_34_%28Deutsches_Automuseum_-_1980_Fiat_131_Rallye%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "https://upload.wikimedia.org/wikipedia/commons/b/b9/Fiat_131_Abarth_of_Walter_R%C3%B6hrl_at_1980_Rallye_Sanremo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    ]
+  },
+  {
+    "make": "Abarth",
+    "model": "695 Biposto",
+    "year": 2016,
+    "country": "Italy",
+    "imageUrls": [
+      "https://upload.wikimedia.org/wikipedia/commons/3/37/2016_Abarth_695_Biposto_Officine_Ferrari.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "https://upload.wikimedia.org/wikipedia/commons/1/14/2016_Abarth_695_Biposto_220_Dog_Ring_Gearbox.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    ]
+  },
+  {
+    "make": "Abarth",
+    "model": "124 Spider",
+    "year": 2017,
+    "country": "Italy",
+    "imageUrls": [
+      "https://upload.wikimedia.org/wikipedia/commons/e/e4/2017_Abarth_124_Spider_2.10.17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "https://upload.wikimedia.org/wikipedia/commons/d/d3/2017_Abarth_124_Spider_rear_2.10.17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "https://upload.wikimedia.org/wikipedia/commons/9/96/2017_Abarth_124_Spider_Multiair_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    ]
+  },
+  {
+    "make": "Acura",
+    "model": "Integra Type-R",
+    "year": 2001,
+    "country": "Japan",
+    "imageUrls": [
+      "https://upload.wikimedia.org/wikipedia/commons/e/ed/2001_Acura_Integra_Type-R_in_Phoenix_Yellow%2C_Front_Right_%28St._Ignace_2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "https://upload.wikimedia.org/wikipedia/commons/7/71/Acura_Integra_Type_R_%282001%29_%2853766562535%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "https://upload.wikimedia.org/wikipedia/commons/6/63/Acura_Integra_Type_R_%281997%29_%2853766146601%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "https://upload.wikimedia.org/wikipedia/commons/4/47/Acura_Integra_Type_R_%281997%29_%2853766562465%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    ]
+  },
+  {
+    "make": "Acura",
+    "model": "RSX Type-S",
+    "year": 2002,
+    "country": "Japan",
+    "imageUrls": [
+      "https://upload.wikimedia.org/wikipedia/commons/8/8c/2002_Honda_Integra_Type_R.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    ]
+  },
+  {
+    "make": "Acura",
+    "model": "NSX",
+    "year": 2017,
+    "country": "Japan",
+    "imageUrls": [
+      "https://upload.wikimedia.org/wikipedia/commons/c/ce/2017_Acura_NSX_Prototype_%2826705737033%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "https://upload.wikimedia.org/wikipedia/commons/2/23/2017_Acura_NSX_Prototype_%2827406942395%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    ]
+  },
+  {
+    "make": "Alfa Romeo",
+    "model": "P3",
+    "year": 1934,
+    "country": "Italy",
+    "imageUrls": [
+      "https://upload.wikimedia.org/wikipedia/commons/9/99/Alfa_Romeo_P3_%2881118%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "https://upload.wikimedia.org/wikipedia/commons/d/dd/1934_Alfa_Romeo_P3_Tipo_B.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    ]
+  },
+  {
+    "make": "Alfa Romeo",
+    "model": "Giulia Sprint GTA Stradale",
+    "year": 1965,
+    "country": "Italy",
+    "imageUrls": [
+      "https://upload.wikimedia.org/wikipedia/commons/c/cb/1967_Alfa_Romeo_Giulia_GTA_-_white_-_fvr.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    ]
+  }
+]
