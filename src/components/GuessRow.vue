@@ -15,6 +15,7 @@ const getStatusClass = (status) => {
     case 'correct':
       return 'bg-green-500 text-white border-green-600'
     case 'partial':
+    case 'partial_group':
       return 'bg-yellow-500 text-white border-yellow-600'
     case 'incorrect':
     default:
@@ -38,7 +39,7 @@ const getStatusClass = (status) => {
       class="flex-1 flex items-center justify-center p-3 text-sm md:text-base font-bold rounded-lg border shadow-sm transition-colors duration-500 delay-100"
       :class="getStatusClass(guess.modelStatus)"
     >
-      {{ guess.model }}
+      {{ guess.model }}{{ guess.gen ? ` (${guess.gen})` : '' }}
     </div>
 
     <!-- Country -->

@@ -3,7 +3,7 @@ import { ref, onMounted } from 'vue'
 import CarImageReveal from '../components/CarImageReveal.vue'
 import GuessInput from '../components/GuessInput.vue'
 import GuessGrid from '../components/GuessGrid.vue'
-import vehiclesData from '../data/vehicles_curated.json'
+import { playableVehicles as vehiclesData } from '../utils/vehicleData'
 
 const targetCar = ref(null)
 const guesses = ref([])
@@ -53,9 +53,20 @@ const handleGuess = (guessInput) => {
   if (isGameOver.value) return
 
   const makeStatus = guessInput.make.toLowerCase() === targetCar.value.make.toLowerCase() ? 'correct' : 'incorrect'
-  const modelStatus = guessInput.model.toLowerCase() === targetCar.value.model.toLowerCase() ? 'correct' : 'incorrect'
-  let countryStatus = 'incorrect'
   
+  let modelStatus = 'incorrect'
+  if (guessInput.model.toLowerCase() === targetCar.value.model.toLowerCase()) {
+    if ((guessInput.gen || '').toLowerCase() === (targetCar.value.gen || '').toLowerCase()) {
+      modelStatus = 'correct'
+    } else {
+      modelStatus = 'partial'
+    }
+  } else if (guessInput.groupName && targetCar.value.groupName && 
+             guessInput.groupName.toLowerCase() === targetCar.value.groupName.toLowerCase()) {
+    modelStatus = 'partial_group'
+  }
+
+  let countryStatus = 'incorrect'
   if (guessInput.country.toLowerCase() === targetCar.value.country.toLowerCase()) {
     countryStatus = 'correct'
   }
@@ -63,6 +74,7 @@ const handleGuess = (guessInput) => {
   const newGuess = {
     make: guessInput.make,
     model: guessInput.model,
+    gen: guessInput.gen,
     country: guessInput.country,
     makeStatus,
     modelStatus,

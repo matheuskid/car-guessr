@@ -3,7 +3,7 @@ import { ref, computed } from 'vue'
 
 const emit = defineEmits(['submit-guess', 'give-up'])
 
-import vehiclesData from '../data/vehicles_curated.json'
+import { allVehicles as vehiclesData } from '../utils/vehicleData'
 
 // ---------- Utilitários ----------
 
@@ -53,6 +53,7 @@ const selectedCountry = ref('')
 const selectedMake = ref('')
 const selectedModel = ref('')   // valor real do modelo
 const selectedGen = ref('')     // geração selecionada
+const selectedGroupName = ref('') // grupo selecionado
 
 const countryQuery = ref('')
 const makeQuery = ref('')
@@ -90,7 +91,7 @@ const availableModelItems = computed(() => {
     const key = `${m}||${mod}||${g}`.toLowerCase()
     if (!seen.has(key)) {
       seen.add(key)
-      items.push({ model: mod, make: m, gen: g })
+      items.push({ model: mod, make: m, gen: g, groupName: (car.groupName || '').trim() })
     }
   }
   
@@ -187,6 +188,7 @@ const selectedModelDisplayLabel = ref('')
 const selectModel = (item) => {
   selectedModel.value = item.model
   selectedGen.value = item.gen
+  selectedGroupName.value = item.groupName
   
   modelQuery.value = item.label
   selectedModelDisplayLabel.value = item.label
@@ -244,12 +246,14 @@ const submitGuess = () => {
       model: selectedModel.value,
       country: selectedCountry.value,
       gen: selectedGen.value,
+      groupName: selectedGroupName.value,
     })
     // Reset
     selectedCountry.value = ''
     selectedMake.value = ''
     selectedModel.value = ''
     selectedGen.value = ''
+    selectedGroupName.value = ''
     selectedModelDisplayLabel.value = ''
     countryQuery.value = ''
     makeQuery.value = ''
