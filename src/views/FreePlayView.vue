@@ -3,6 +3,7 @@ import { ref, onMounted } from 'vue'
 import CarImageReveal from '../components/CarImageReveal.vue'
 import GuessInput from '../components/GuessInput.vue'
 import GuessGrid from '../components/GuessGrid.vue'
+import VehicleTechnicalInfo from '../components/VehicleTechnicalInfo.vue'
 import { playableVehicles as vehiclesData } from '../utils/vehicleData'
 
 const targetCar = ref(null)
@@ -111,18 +112,10 @@ const handleGuess = (guessInput) => {
       </div>
 
       <!-- Car Info (Visible on Game Over) -->
-      <div v-if="isGameOver && targetCar" class="w-full mt-6 p-6 bg-white dark:bg-slate-950 rounded-2xl shadow-sm border border-slate-200 dark:border-slate-800 animate-fade-in shrink-0">
-        <h2 class="text-3xl font-black text-slate-900 dark:text-white mb-1">
-          {{ targetCar.make }} {{ targetCar.model }}
-        </h2>
-        <p class="text-lg font-bold text-blue-600 dark:text-blue-400 mb-4 flex items-center gap-2">
-          📍 {{ targetCar.country }}
-        </p>
-        <div class="text-slate-600 dark:text-slate-400 text-sm leading-relaxed">
-          <p>Ano: {{ targetCar.year }}</p>
-          <p class="mt-2 text-xs opacity-50 italic">Descrição técnica disponível em breve.</p>
-        </div>
-      </div>
+      <VehicleTechnicalInfo 
+        :vehicle="targetCar" 
+        :is-visible="isGameOver" 
+      />
     </div>
 
     <!-- Right Column: Info and Input Panel -->
