@@ -4,7 +4,16 @@ import CarImageReveal from '../components/CarImageReveal.vue'
 import GuessInput from '../components/GuessInput.vue'
 import GuessGrid from '../components/GuessGrid.vue'
 import VehicleTechnicalInfo from '../components/VehicleTechnicalInfo.vue'
-import { playableVehicles as vehiclesData } from '../utils/vehicleData'
+const props = defineProps({
+  difficulty: {
+    type: Number,
+    default: null
+  }
+})
+
+import { playableVehicles, getVehiclesByDifficulty } from '../utils/vehicleData'
+
+const vehiclesData = props.difficulty ? getVehiclesByDifficulty(props.difficulty) : playableVehicles
 
 const targetCar = ref(null)
 const guesses = ref([])
@@ -76,6 +85,7 @@ const handleGuess = (guessInput) => {
     make: guessInput.make,
     model: guessInput.model,
     gen: guessInput.gen,
+    year: guessInput.year,
     country: guessInput.country,
     makeStatus,
     modelStatus,
@@ -103,7 +113,7 @@ const handleGuess = (guessInput) => {
         <CarImageReveal 
           v-if="targetCar"
           :key="targetCar.imageUrl"
-          :image-url="resolveAsset(targetCar.imageUrl)"
+          :image-url="resolveAsset(targetCar.imageUrl.url)"
           :revealed="isVictory || isGameOver" 
           :attempts="guesses.length"
           :max-attempts="maxGuesses"

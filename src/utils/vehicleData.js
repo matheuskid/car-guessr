@@ -28,6 +28,7 @@ const flattenVehicles = () => {
           year: variant.year,
           gen: variant.gen || '',
           country: variant.country || makeCountry || 'Desconhecido',
+          difficulty: variant.difficulty || 1,
           imageUrls: variant.imageUrls || []
         })
       })
@@ -44,3 +45,11 @@ export const allVehicles = flattenVehicles()
  * These are the ones that can be selected as the "target" car.
  */
 export const playableVehicles = allVehicles.filter(v => v.imageUrls && v.imageUrls.length > 0)
+
+/**
+ * Returns vehicles for a specific difficulty level.
+ * @param {number} level - 1 (Easy), 2 (Medium), 3 (Hard)
+ */
+export const getVehiclesByDifficulty = (level) => {
+  return playableVehicles.filter(v => v.difficulty === level)
+}

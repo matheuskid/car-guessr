@@ -36,10 +36,14 @@ const getStatusClass = (status) => {
 
     <!-- Model -->
     <div 
-      class="flex-1 flex items-center justify-center p-3 text-sm md:text-base font-bold rounded-lg border shadow-sm transition-colors duration-500 delay-100"
+      class="flex-1 flex flex-col items-center justify-center p-2 text-sm md:text-base font-bold rounded-lg border shadow-sm transition-all duration-500 delay-100 gap-1"
       :class="getStatusClass(guess.modelStatus)"
     >
-      {{ guess.model }}{{ guess.gen ? ` (${guess.gen})` : '' }}
+      <span class="text-center leading-tight">{{ guess.model }}</span>
+      <div class="flex gap-1 flex-wrap justify-center">
+        <span v-if="guess.gen" class="tag tag-gen">{{ guess.gen }}</span>
+        <span v-if="guess.year" class="tag tag-year">{{ guess.year }}</span>
+      </div>
     </div>
 
     <!-- Country -->
@@ -51,3 +55,40 @@ const getStatusClass = (status) => {
     </div>
   </div>
 </template>
+
+<style scoped>
+.tag {
+  font-size: 9px;
+  font-weight: 800;
+  padding: 1px 5px;
+  border-radius: 4px;
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+  line-height: 1;
+}
+
+.tag-year {
+  background: rgba(255, 255, 255, 0.2);
+  color: white;
+  border: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+.tag-gen {
+  background: rgba(0, 0, 0, 0.2);
+  color: white;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+/* Se a linha for neutra (incorreta), as tags podem ter cores mais vivas */
+.bg-slate-200 .tag-year, .bg-slate-700 .tag-year {
+  background: rgba(59, 130, 246, 0.2);
+  color: #60a5fa;
+  border-color: rgba(59, 130, 246, 0.3);
+}
+
+.bg-slate-200 .tag-gen, .bg-slate-700 .tag-gen {
+  background: rgba(168, 85, 247, 0.2);
+  color: #a78bfa;
+  border-color: rgba(168, 85, 247, 0.3);
+}
+</style>

@@ -12,7 +12,7 @@ const gameModes = [
     description: 'Carros populares e marcas conhecidas. Imagens mais claras.',
     color: 'from-green-500 to-emerald-600',
     path: '/easy',
-    wip: true
+    wip: false
   },
   { 
     id: 'medium', 
@@ -20,7 +20,7 @@ const gameModes = [
     description: 'Uma mistura de clássicos e modernos com detalhes desafiadores.',
     color: 'from-blue-500 to-indigo-600',
     path: '/medium',
-    wip: true
+    wip: false
   },
   { 
     id: 'hard', 
@@ -28,7 +28,7 @@ const gameModes = [
     description: 'Apenas para especialistas. Modelos raros e protótipos.',
     color: 'from-purple-600 to-pink-600',
     path: '/hard',
-    wip: true
+    wip: false
   },
   { 
     id: 'daily', 
