@@ -36,7 +36,7 @@ const gameModes = [
     description: 'Um desafio novo a cada 24 horas. Teste sua constância.',
     color: 'from-amber-400 to-orange-500',
     path: '/daily',
-    wip: true
+    wip: false
   },
   { 
     id: 'free', 

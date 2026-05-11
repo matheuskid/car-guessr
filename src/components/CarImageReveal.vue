@@ -49,18 +49,25 @@ const zoomLevel = computed(() => {
   
   return 1 // Retornando 1 pois o zoom está desativado para este modo
 })
+const emit = defineEmits(['zoom'])
+
+const handleImageClick = () => {
+  emit('zoom')
+}
 </script>
 
 <template>
-  <div class="relative w-full h-full bg-slate-200 dark:bg-slate-800 rounded-xl lg:rounded-3xl overflow-hidden shadow-xl border border-slate-200 dark:border-slate-800">
+  <div 
+    class="relative w-full h-full bg-slate-200 dark:bg-slate-800 rounded-xl lg:rounded-3xl overflow-hidden shadow-xl border border-slate-200 dark:border-slate-800 cursor-zoom-in"
+    @click="handleImageClick"
+  >
     <!-- Image -->
     <img 
       :src="imageUrl" 
       alt="Car to guess" 
       draggable="false"
       :class="[
-        'w-full h-full transition-transform duration-1000 ease-in-out pointer-events-none select-none',
-        revealed ? 'object-contain' : 'object-cover'
+        'w-full h-full transition-transform duration-1000 ease-in-out select-none object-contain',
       ]"
       :style="{
         transform: `scale(${zoomLevel})`,
@@ -68,6 +75,9 @@ const zoomLevel = computed(() => {
       }"
     />
     
-    <!-- Optional: a small subtle crosshair icon could go here if you wanted to show where the focus is, but keeping it clean is better -->
+    <!-- Info overlay (tap to zoom hint) -->
+    <div class="absolute bottom-3 right-3 p-1.5 rounded-lg bg-black/30 backdrop-blur-sm text-white/70 lg:hidden">
+      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line><line x1="11" y1="8" x2="11" y2="14"></line><line x1="8" y1="11" x2="14" y2="11"></line></svg>
+    </div>
   </div>
 </template>

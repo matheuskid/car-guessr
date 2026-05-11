@@ -14,7 +14,7 @@ const returnToMenu = () => {
 </script>
 
 <template>
-  <div class="h-screen h-[100dvh] flex flex-col bg-slate-100 dark:bg-slate-900 transition-colors duration-300 font-sans overflow-hidden">
+  <div class="min-h-screen flex flex-col bg-slate-100 dark:bg-slate-900 transition-colors duration-300 font-sans lg:h-screen lg:overflow-hidden">
     <!-- Header -->
     <header class="w-full h-16 flex justify-between items-center px-6 bg-white dark:bg-slate-950 shadow-sm z-20 shrink-0">
       <div class="flex items-center gap-4">

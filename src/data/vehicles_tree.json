@@ -325,11 +325,11 @@
         "name": "Giulia",
         "variants": [
           {
-            "model": "Giulia Quadrifoglio",
+            "model": "Giulia",
             "year": 2017,
-            "gen": "",
+            "gen": "2nd Gen",
             "country": "Italy",
-            "difficulty": 1,
+            "difficulty": 2,
             "imageUrls": [
               {
                 "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/2017_Alfa_Romeo_Giulia_Quadrifoglio_2.9_V6_Bi-Turbo_%2848694703601%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -372,16 +372,11 @@
                 "license": "CC BY-SA 4.0"
               }
             ]
-          }
-        ]
-      },
-      {
-        "name": "Giulia Sprint GTA",
-        "variants": [
+          },
           {
             "model": "Giulia Sprint GTA Stradale",
             "year": 1965,
-            "gen": "",
+            "gen": "1st Gen",
             "country": "Italy",
             "difficulty": 3,
             "imageUrls": [
@@ -406,11 +401,6 @@
                 "license": "CC BY 2.0"
               },
               {
-                "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Alfa_Romeo_Giulia_Sprint_GTA_1965_%2836093926756%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-                "author": "Falcon® Photography from France",
-                "license": "CC BY-SA 2.0"
-              },
-              {
                 "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Alfa_Romeo_Giulia_Sprint_GTA_%289297034612%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
                 "author": "BiTurbo228",
                 "license": "CC BY 2.0"
@@ -419,14 +409,14 @@
                 "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Alfa_Romeo_Giulia_Sprint_GTA_1966_%2810932130053%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
                 "author": "Andrew Bone from Weymouth, England",
                 "license": "CC BY 2.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Alfa_Romeo_Giulia_Sprint_GTA_1965_%2836093926756%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Falcon® Photography from France",
+                "license": "CC BY-SA 2.0"
               }
             ]
-          }
-        ]
-      },
-      {
-        "name": "Giulia TZ2",
-        "variants": [
+          },
           {
             "model": "Giulia TZ2",
             "year": 1965,
@@ -450,8 +440,74 @@
                 "license": "CC BY 2.0"
               }
             ]
+          },
+          {
+            "model": "Giulia Sprint GT",
+            "year": 1965,
+            "gen": "1st Gen",
+            "country": "",
+            "difficulty": 3,
+            "imageUrls": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Bolinas%2C_California_-_USA_%288733424030%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Mic from Reading - Berkshire, United Kingdom",
+                "license": "CC BY 2.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Saalbach-Classic-2015-Nr.46-AlfaRomeo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "SchiDD",
+                "license": "CC BY-SA 4.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Detmold_-_2017-08-26_-_Alfa_Romeo_Giulia_Sprint_GT_BJ_1965_%2805%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Tsungam",
+                "license": "CC BY-SA 4.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/1965_Alfa_Romeo_Giulia_Sprint_GT_1600_NL_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Rutger van der Maar",
+                "license": "CC BY 2.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/1970_Alfa_Romeo_Giulia_105_115_%28green%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Calreyn88",
+                "license": "CC BY 4.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/1965_Alfa_Romeo_Giulia_Sprint_GT_1600_NL_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Rutger van der Maar",
+                "license": "CC BY 2.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/1965_Alfa_Romeo_Giulia_Sprint_GT_1600_NL_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Rutger van der Maar",
+                "license": "CC BY 2.0"
+              }
+            ]
+          },
+          {
+            "model": "Giulia GTA",
+            "year": 2026,
+            "gen": "2nd Gen",
+            "country": "",
+            "difficulty": 3,
+            "imageUrls": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Alfa_Rome_Giulia_GTA_%287BA-95229%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Tokumeigakarinoaoshima",
+                "license": "CC BY-SA 4.0"
+              }
+            ]
           }
         ]
+      },
+      {
+        "name": "Giulia Sprint GTA",
+        "variants": []
+      },
+      {
+        "name": "Giulia TZ2",
+        "variants": []
       },
       {
         "name": "P3",
@@ -14121,40 +14177,11 @@
     "groups": [
       {
         "name": "242 Turbo Evolution",
-        "variants": [
-          {
-            "model": "242 Turbo Evolution",
-            "year": 1983,
-            "gen": "",
-            "country": "Sweden",
-            "difficulty": 2,
-            "imageUrls": []
-          }
-        ]
+        "variants": []
       },
       {
         "name": "850 R",
-        "variants": [
-          {
-            "model": "850 R",
-            "year": 1997,
-            "gen": "",
-            "country": "Sweden",
-            "difficulty": 2,
-            "imageUrls": [
-              {
-                "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/1997_Volvo_850_R%3F_Estate_%2814047300132%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-                "author": "Kieran White from Manchester, England",
-                "license": "CC BY 2.0"
-              },
-              {
-                "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Volvo_850_T5_Estate_1997_%2814826992197%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-                "author": "order_242 from Chile",
-                "license": "CC BY-SA 2.0"
-              }
-            ]
-          }
-        ]
+        "variants": []
       },
       {
         "name": "Iron Knight",
@@ -14188,6 +14215,43 @@
                 "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Volvo_V60_Polestar_%2814181705777%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
                 "author": "nakhon100",
                 "license": "CC BY 2.0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "242 Turbo",
+        "variants": [
+          {
+            "model": "242 Turbo",
+            "year": 1983,
+            "gen": "",
+            "country": "Sweden",
+            "difficulty": 2,
+            "imageUrls": []
+          }
+        ]
+      },
+      {
+        "name": "850",
+        "variants": [
+          {
+            "model": "850",
+            "year": 1997,
+            "gen": "",
+            "country": "Sweden",
+            "difficulty": 2,
+            "imageUrls": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/1997_Volvo_850_R%3F_Estate_%2814047300132%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Kieran White from Manchester, England",
+                "license": "CC BY 2.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Volvo_850_T5_Estate_1997_%2814826992197%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "order_242 from Chile",
+                "license": "CC BY-SA 2.0"
               }
             ]
           }

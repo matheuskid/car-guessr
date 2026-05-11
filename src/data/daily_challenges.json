@@ -1,0 +1,42 @@
+[
+  {
+    "id": 3,
+    "date": "2026-05-12",
+    "description": "Mercedes-Benz Sprinter\n\n12 de Maio - Dia Internacional da Enfermagem",
+    "vehicle": {
+      "id": 2499,
+      "make": "Mercedes-Benz",
+      "model": "Sprinter",
+      "groupName": "Sprinter",
+      "year": 2020,
+      "gen": "",
+      "country": "",
+      "difficulty": 1,
+      "imageUrl": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Mercedes_Benz_Sprinter_-_49516240867.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "author": "Samson Ng . D201@EAL",
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  },
+  {
+    "id": 2,
+    "date": "2026-05-11",
+    "description": "Como hoje é o dia Nacional do Raggae (no Brasil), o carro de hoje é uma Land Rover Series III.\n\nEsse veículo se tornou um ícone por ser utilizado pelo cantor para circular por sua terra natal, a Jamaica, e também por estar ligado à sua imagem de simplicidade e conexão com a natureza.",
+    "vehicle": {
+      "id": 2282,
+      "make": "Land Rover",
+      "model": "Series III",
+      "groupName": "Series III",
+      "year": 1972,
+      "gen": "",
+      "country": "UK",
+      "difficulty": 2,
+      "imageUrl": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Land_Rover_Series_III_SWB_%281972%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "author": "SG2012",
+        "license": "CC BY 2.0"
+      }
+    }
+  }
+]
