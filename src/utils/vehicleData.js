@@ -2,32 +2,24 @@ import vehiclesTree from '../data/vehicles_tree.json'
 
 /**
  * Flattens the vehicle tree into a flat list of variants.
+ * Expects canonical format: { make, country, models: [{ name, variants: [{ name, ... }] }] }
  */
 const flattenVehicles = () => {
   const flattened = []
   
   vehiclesTree.forEach(makeEntry => {
     const make = makeEntry.make
-    
-    // Tentamos encontrar o país da marca a partir de qualquer variante que o tenha
-    let makeCountry = ''
-    makeEntry.groups?.forEach(group => {
-      group.variants?.forEach(variant => {
-        if (variant.country && !makeCountry) {
-          makeCountry = variant.country
-        }
-      })
-    })
+    const makeCountry = makeEntry.country || ''
 
-    makeEntry.groups?.forEach(group => {
+    makeEntry.models.forEach(group => {
       group.variants?.forEach(variant => {
         flattened.push({
           make: make,
           groupName: group.name,
-          model: variant.model,
+          model: variant.name,
           year: variant.year,
           gen: variant.gen || '',
-          country: variant.country || makeCountry || 'Desconhecido',
+          country: makeCountry || 'Desconhecido',
           difficulty: variant.difficulty || 1,
           imageUrls: variant.imageUrls || []
         })
