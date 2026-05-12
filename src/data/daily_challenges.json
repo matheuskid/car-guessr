@@ -10,6 +10,7 @@
       "groupName": "BRM P160B",
       "year": 1972,
       "gen": "",
+      "country": "",
       "difficulty": 3,
       "imageUrl": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/1972_French_Grand_Prix_Wisell_%285225628691%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -29,6 +30,7 @@
       "groupName": "158",
       "year": 1937,
       "gen": "",
+      "country": "Italy",
       "difficulty": 3,
       "imageUrl": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Alfa_Romeo_Alfetta_159.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -48,6 +50,7 @@
       "groupName": "Sprinter",
       "year": 2020,
       "gen": "",
+      "country": "Germany",
       "difficulty": 1,
       "imageUrl": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Mercedes_Benz_Sprinter_-_49516240867.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -67,6 +70,7 @@
       "groupName": "Series III",
       "year": 1972,
       "gen": "",
+      "country": "UK",
       "difficulty": 2,
       "imageUrl": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Land_Rover_Series_III_SWB_%281972%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",

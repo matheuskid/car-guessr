@@ -1,15 +1,16 @@
 [
   {
     "make": "ATS",
-    "groups": [
+    "country": "Italy",
+    "models": [
       {
         "name": "GT",
         "variants": [
           {
-            "model": "GT",
+            "name": "GT",
             "year": 2018,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 3,
             "imageUrls": [
               {
@@ -30,15 +31,16 @@
   },
   {
     "make": "Abarth",
-    "groups": [
+    "country": "Italy",
+    "models": [
       {
         "name": "124",
         "variants": [
           {
-            "model": "124 Spider",
+            "name": "124 Spider",
             "year": 2017,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -64,10 +66,10 @@
         "name": "595",
         "variants": [
           {
-            "model": "595 Esseesse",
+            "name": "595 Esseesse",
             "year": 1968,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -88,10 +90,10 @@
         "name": "695",
         "variants": [
           {
-            "model": "695 Biposto",
+            "name": "695 Biposto",
             "year": 2016,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -112,10 +114,10 @@
         "name": "Fiat 131",
         "variants": [
           {
-            "model": "Fiat 131",
+            "name": "Fiat 131",
             "year": 1980,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 3,
             "imageUrls": [
               {
@@ -136,15 +138,16 @@
   },
   {
     "make": "Acura",
-    "groups": [
+    "country": "Japan",
+    "models": [
       {
         "name": "Integra",
         "variants": [
           {
-            "model": "Integra Type-R",
+            "name": "Integra Type-R",
             "year": 2001,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -175,10 +178,10 @@
         "name": "NSX",
         "variants": [
           {
-            "model": "NSX",
+            "name": "NSX",
             "year": 2017,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -199,10 +202,10 @@
         "name": "RSX",
         "variants": [
           {
-            "model": "RSX Type-S",
+            "name": "RSX Type-S",
             "year": 2002,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -243,15 +246,16 @@
   },
   {
     "make": "Alfa Romeo",
-    "groups": [
+    "country": "Italy",
+    "models": [
       {
         "name": "33",
         "variants": [
           {
-            "model": "33 Stradale",
+            "name": "33 Stradale",
             "year": 1968,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 3,
             "imageUrls": [
               {
@@ -282,10 +286,10 @@
         "name": "4C",
         "variants": [
           {
-            "model": "4C",
+            "name": "4C",
             "year": 2014,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -301,10 +305,10 @@
         "name": "8C",
         "variants": [
           {
-            "model": "8C Competizione",
+            "name": "8C Competizione",
             "year": 2008,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -325,10 +329,10 @@
         "name": "Giulia",
         "variants": [
           {
-            "model": "Giulia",
+            "name": "Giulia",
             "year": 2017,
             "gen": "2nd Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -374,10 +378,10 @@
             ]
           },
           {
-            "model": "Giulia Sprint GTA Stradale",
+            "name": "Giulia Sprint GTA Stradale",
             "year": 1965,
             "gen": "1st Gen",
-            "country": "",
+            "market": "",
             "difficulty": 3,
             "imageUrls": [
               {
@@ -418,10 +422,10 @@
             ]
           },
           {
-            "model": "Giulia TZ2",
+            "name": "Giulia TZ2",
             "year": 1965,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 3,
             "imageUrls": [
               {
@@ -442,10 +446,10 @@
             ]
           },
           {
-            "model": "Giulia Sprint GT",
+            "name": "Giulia Sprint GT",
             "year": 1965,
             "gen": "1st Gen",
-            "country": "",
+            "market": "",
             "difficulty": 3,
             "imageUrls": [
               {
@@ -486,10 +490,10 @@
             ]
           },
           {
-            "model": "Giulia GTA",
+            "name": "Giulia GTA",
             "year": 2026,
             "gen": "2nd Gen",
-            "country": "",
+            "market": "",
             "difficulty": 3,
             "imageUrls": [
               {
@@ -513,10 +517,10 @@
         "name": "P3",
         "variants": [
           {
-            "model": "P3",
+            "name": "P3",
             "year": 1934,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 3,
             "imageUrls": [
               {
@@ -537,10 +541,10 @@
         "name": "Stelvio",
         "variants": [
           {
-            "model": "Stelvio Quadrifoglio",
+            "name": "Stelvio Quadrifoglio",
             "year": 2018,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -556,20 +560,50 @@
             ]
           }
         ]
+      },
+      {
+        "name": "158",
+        "variants": [
+          {
+            "name": "158",
+            "year": 1937,
+            "gen": "",
+            "market": "",
+            "difficulty": 3,
+            "imageUrls": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Alfa_Romeo_Alfetta_159.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Unknown",
+                "license": "CC BY-SA 2.0 de"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Alfetta_-_Cesana-Sestriere_2014_%2814459941930%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "raffaele sergi from Pinerolo, Italia",
+                "license": "CC BY 2.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Alfa_Romeo_158_fr_MOD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "User:Herranderssvensson / Retusche von Auge=mit",
+                "license": "CC BY-SA 4.0"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
   {
     "make": "Alpine",
-    "groups": [
+    "country": "France",
+    "models": [
       {
         "name": "A110",
         "variants": [
           {
-            "model": "A110",
+            "name": "A110",
             "year": 2017,
             "gen": "2st gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -590,15 +624,16 @@
   },
   {
     "make": "Apollo",
-    "groups": [
+    "country": "Germany",
+    "models": [
       {
         "name": "Intensa Emozione",
         "variants": [
           {
-            "model": "Intensa Emozione",
+            "name": "Intensa Emozione",
             "year": 2018,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 3,
             "imageUrls": [
               {
@@ -624,15 +659,16 @@
   },
   {
     "make": "Ascari",
-    "groups": [
+    "country": "UK",
+    "models": [
       {
         "name": "KZ1R",
         "variants": [
           {
-            "model": "KZ1R",
+            "name": "KZ1R",
             "year": 2012,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 3,
             "imageUrls": [
               {
@@ -653,15 +689,16 @@
   },
   {
     "make": "Aston Martin",
-    "groups": [
+    "country": "UK",
+    "models": [
       {
         "name": "DB11",
         "variants": [
           {
-            "model": "DB11",
+            "name": "DB11",
             "year": 2017,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -692,10 +729,10 @@
         "name": "DB4",
         "variants": [
           {
-            "model": "DB4 GT Zagato",
+            "name": "DB4 GT Zagato",
             "year": 1960,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 3,
             "imageUrls": [
               {
@@ -721,10 +758,10 @@
         "name": "DB5",
         "variants": [
           {
-            "model": "DB5",
+            "name": "DB5",
             "year": 1964,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -760,10 +797,10 @@
         "name": "DBR1",
         "variants": [
           {
-            "model": "DBR1",
+            "name": "DBR1",
             "year": 1958,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -789,10 +826,10 @@
         "name": "DBS Superleggera",
         "variants": [
           {
-            "model": "DBS Superleggera",
+            "name": "DBS Superleggera",
             "year": 2019,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -813,10 +850,10 @@
         "name": "One-77",
         "variants": [
           {
-            "model": "One-77",
+            "name": "One-77",
             "year": 2010,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 3,
             "imageUrls": [
               {
@@ -837,10 +874,10 @@
         "name": "V12 Vantage S",
         "variants": [
           {
-            "model": "V12 Vantage S",
+            "name": "V12 Vantage S",
             "year": 2013,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -856,10 +893,10 @@
         "name": "Vanquish",
         "variants": [
           {
-            "model": "Vanquish",
+            "name": "Vanquish",
             "year": 2012,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -890,10 +927,10 @@
         "name": "Vanquish Zagato",
         "variants": [
           {
-            "model": "Vanquish Zagato Coupe",
+            "name": "Vanquish Zagato Coupe",
             "year": 2017,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -924,10 +961,10 @@
         "name": "Vantage",
         "variants": [
           {
-            "model": "Vantage",
+            "name": "Vantage",
             "year": 2018,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -948,10 +985,10 @@
         "name": "Vantage GT12",
         "variants": [
           {
-            "model": "Vantage GT12",
+            "name": "Vantage GT12",
             "year": 2016,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 3,
             "imageUrls": [
               {
@@ -987,10 +1024,10 @@
         "name": "Vulcan",
         "variants": [
           {
-            "model": "Vulcan",
+            "name": "Vulcan",
             "year": 2016,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 3,
             "imageUrls": [
               {
@@ -1025,15 +1062,16 @@
   },
   {
     "make": "Audi",
-    "groups": [
+    "country": "Germany",
+    "models": [
       {
         "name": "R8 Coupe V10",
         "variants": [
           {
-            "model": "R8 Coupe V10",
+            "name": "R8 Coupe V10",
             "year": 2013,
             "gen": "1st Gen",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -1054,10 +1092,10 @@
             ]
           },
           {
-            "model": "R8 V10 Plus",
+            "name": "R8 V10 Plus",
             "year": 2016,
             "gen": "2nd Gen",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -1087,10 +1125,10 @@
         "name": "RS 3",
         "variants": [
           {
-            "model": "RS 3 Sportback",
+            "name": "RS 3 Sportback",
             "year": 2011,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -1121,10 +1159,10 @@
         "name": "RS 4",
         "variants": [
           {
-            "model": "RS 4 Avant",
+            "name": "RS 4 Avant",
             "year": 2001,
             "gen": "1st Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -1150,10 +1188,10 @@
             ]
           },
           {
-            "model": "RS 4",
+            "name": "RS 4",
             "year": 2006,
             "gen": "2nd Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -1169,10 +1207,10 @@
             ]
           },
           {
-            "model": "RS 4 Avant",
+            "name": "RS 4 Avant",
             "year": 2013,
             "gen": "3rd Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -1188,10 +1226,10 @@
         "name": "RS 5",
         "variants": [
           {
-            "model": "RS 5 Coupe",
+            "name": "RS 5 Coupe",
             "year": 2011,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -1212,10 +1250,10 @@
         "name": "RS 6",
         "variants": [
           {
-            "model": "RS 6",
+            "name": "RS 6",
             "year": 2003,
             "gen": "1st Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -1226,10 +1264,10 @@
             ]
           },
           {
-            "model": "RS 6",
+            "name": "RS 6",
             "year": 2009,
             "gen": "2nd Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -1250,10 +1288,10 @@
             ]
           },
           {
-            "model": "RS 6 Avant",
+            "name": "RS 6 Avant",
             "year": 2015,
             "gen": "3rd Gen",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -1274,10 +1312,10 @@
         "name": "RS7",
         "variants": [
           {
-            "model": "RS 7 Sportback",
+            "name": "RS 7 Sportback",
             "year": 2013,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -1293,10 +1331,10 @@
         "name": "S1",
         "variants": [
           {
-            "model": "S1",
+            "name": "S1",
             "year": 2015,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -1317,10 +1355,10 @@
         "name": "TT",
         "variants": [
           {
-            "model": "TT",
+            "name": "TT",
             "year": 2010,
             "gen": "2nd Gen",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -1376,10 +1414,10 @@
             ]
           },
           {
-            "model": "TT",
+            "name": "TT",
             "year": 2015,
             "gen": "3rd Gen",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -1420,10 +1458,10 @@
             ]
           },
           {
-            "model": "TT",
+            "name": "TT",
             "year": 2002,
             "gen": "1st Gen",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -1459,10 +1497,10 @@
         "name": "Sport Quattro",
         "variants": [
           {
-            "model": "Sport Quattro",
+            "name": "Sport Quattro",
             "year": 1983,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -1478,15 +1516,16 @@
   },
   {
     "make": "Austin-Healey",
-    "groups": [
+    "country": "UK",
+    "models": [
       {
         "name": "3000 MKIII",
         "variants": [
           {
-            "model": "3000 MKIII",
+            "name": "3000 MKIII",
             "year": 1965,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 3,
             "imageUrls": [
               {
@@ -1522,10 +1561,10 @@
         "name": "Sprite MKI",
         "variants": [
           {
-            "model": "Sprite MKI",
+            "name": "Sprite MKI",
             "year": 1958,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 3,
             "imageUrls": [
               {
@@ -1551,15 +1590,16 @@
   },
   {
     "make": "BMW",
-    "groups": [
+    "country": "Germany",
+    "models": [
       {
         "name": "1 Series M",
         "variants": [
           {
-            "model": "1 Series M Coupe",
+            "name": "1 Series M Coupe",
             "year": 2011,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -1590,10 +1630,10 @@
         "name": "2002 Turbo",
         "variants": [
           {
-            "model": "2002 Turbo",
+            "name": "2002 Turbo",
             "year": 1973,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -1624,10 +1664,10 @@
         "name": "323ti",
         "variants": [
           {
-            "model": "323ti",
+            "name": "323ti",
             "year": 2000,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 3,
             "imageUrls": [
               {
@@ -1663,10 +1703,10 @@
         "name": "I8",
         "variants": [
           {
-            "model": "I8",
+            "name": "I8",
             "year": 2016,
             "gen": "1st Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -1687,10 +1727,10 @@
             ]
           },
           {
-            "model": "I8 Roadster",
+            "name": "I8 Roadster",
             "year": 2018,
             "gen": "1st Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -1721,10 +1761,10 @@
         "name": "ISetta 300 Export",
         "variants": [
           {
-            "model": "ISetta 300 Export",
+            "name": "ISetta 300 Export",
             "year": 1957,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 3,
             "imageUrls": [
               {
@@ -1745,10 +1785,10 @@
         "name": "M1",
         "variants": [
           {
-            "model": "M1",
+            "name": "M1",
             "year": 1981,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -1779,10 +1819,10 @@
         "name": "M2",
         "variants": [
           {
-            "model": "M2 Coupe",
+            "name": "M2 Coupe",
             "year": 2016,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -1813,10 +1853,10 @@
         "name": "M3",
         "variants": [
           {
-            "model": "M3",
+            "name": "M3",
             "year": 1991,
             "gen": "1st Gen",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -1842,10 +1882,10 @@
             ]
           },
           {
-            "model": "M3",
+            "name": "M3",
             "year": 1997,
             "gen": "2nd Gen",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -1871,10 +1911,10 @@
             ]
           },
           {
-            "model": "M3-GTR",
+            "name": "M3-GTR",
             "year": 2002,
             "gen": "3rd Gen",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -1890,10 +1930,10 @@
             ]
           },
           {
-            "model": "M3",
+            "name": "M3",
             "year": 2005,
             "gen": "3rd Gen",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -1914,10 +1954,10 @@
             ]
           },
           {
-            "model": "M3",
+            "name": "M3",
             "year": 2008,
             "gen": "4th Gen",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -1938,10 +1978,10 @@
             ]
           },
           {
-            "model": "M3 GTS",
+            "name": "M3 GTS",
             "year": 2010,
             "gen": "4th Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -1982,10 +2022,10 @@
         "name": "M4",
         "variants": [
           {
-            "model": "M4 Coupe",
+            "name": "M4 Coupe",
             "year": 2014,
             "gen": "1st Gen",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -2006,10 +2046,10 @@
             ]
           },
           {
-            "model": "M4 GTS",
+            "name": "M4 GTS",
             "year": 2016,
             "gen": "1st Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -2040,10 +2080,10 @@
         "name": "M5",
         "variants": [
           {
-            "model": "M5",
+            "name": "M5",
             "year": 1988,
             "gen": "1st Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -2059,10 +2099,10 @@
             ]
           },
           {
-            "model": "M5",
+            "name": "M5",
             "year": 1995,
             "gen": "2nd Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -2088,10 +2128,10 @@
             ]
           },
           {
-            "model": "M5",
+            "name": "M5",
             "year": 2003,
             "gen": "3rd Gen",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -2117,10 +2157,10 @@
             ]
           },
           {
-            "model": "M5",
+            "name": "M5",
             "year": 2009,
             "gen": "4th Gen",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -2136,10 +2176,10 @@
             ]
           },
           {
-            "model": "M5",
+            "name": "M5",
             "year": 2012,
             "gen": "5th Gen",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -2160,10 +2200,10 @@
             ]
           },
           {
-            "model": "M5",
+            "name": "M5",
             "year": 2018,
             "gen": "6th Gen",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -2194,10 +2234,10 @@
         "name": "M6",
         "variants": [
           {
-            "model": "M6 Coupe",
+            "name": "M6 Coupe",
             "year": 2013,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -2233,10 +2273,10 @@
         "name": "X5 M",
         "variants": [
           {
-            "model": "X5 M",
+            "name": "X5 M",
             "year": 2011,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -2262,10 +2302,10 @@
         "name": "X6 M",
         "variants": [
           {
-            "model": "X6 M",
+            "name": "X6 M",
             "year": 2015,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -2286,10 +2326,10 @@
         "name": "Z3 M",
         "variants": [
           {
-            "model": "Z3 M Coupe",
+            "name": "Z3 M Coupe",
             "year": 2002,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -2305,10 +2345,10 @@
         "name": "Z4",
         "variants": [
           {
-            "model": "Z4",
+            "name": "Z4",
             "year": 2019,
             "gen": "3rd Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -2329,10 +2369,10 @@
             ]
           },
           {
-            "model": "Z4",
+            "name": "Z4",
             "year": 2008,
             "gen": "1st Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -2373,10 +2413,10 @@
             ]
           },
           {
-            "model": "Z4",
+            "name": "Z4",
             "year": 2011,
             "gen": "2nd Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -2417,10 +2457,10 @@
         "name": "2002",
         "variants": [
           {
-            "model": "2002 Turbo",
+            "name": "2002 Turbo",
             "year": 1973,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -2431,10 +2471,10 @@
             ]
           },
           {
-            "model": "2002",
+            "name": "2002",
             "year": 1968,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -2475,15 +2515,16 @@
   },
   {
     "make": "Bentley",
-    "groups": [
+    "country": "UK",
+    "models": [
       {
         "name": "Bentayga",
         "variants": [
           {
-            "model": "Bentayga",
+            "name": "Bentayga",
             "year": 2016,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -2514,10 +2555,10 @@
         "name": "Continental",
         "variants": [
           {
-            "model": "Continental GT Speed",
+            "name": "Continental GT Speed",
             "year": 2013,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -2548,10 +2589,10 @@
         "name": "Continental Supersports",
         "variants": [
           {
-            "model": "Continental Supersports",
+            "name": "Continental Supersports",
             "year": 2017,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -2582,10 +2623,10 @@
         "name": "Turbo R",
         "variants": [
           {
-            "model": "Turbo R",
+            "name": "Turbo R",
             "year": 1992,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -2621,15 +2662,16 @@
   },
   {
     "make": "Bugatti",
-    "groups": [
+    "country": "France",
+    "models": [
       {
         "name": "Chiron",
         "variants": [
           {
-            "model": "Chiron",
+            "name": "Chiron",
             "year": 2018,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -2650,10 +2692,10 @@
         "name": "Divo",
         "variants": [
           {
-            "model": "Divo",
+            "name": "Divo",
             "year": 2019,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -2674,10 +2716,10 @@
         "name": "EB110 Super",
         "variants": [
           {
-            "model": "EB110 Super Sport",
+            "name": "EB110 Super Sport",
             "year": 1992,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -2693,10 +2735,10 @@
         "name": "Veyron Super",
         "variants": [
           {
-            "model": "Veyron Super Sport",
+            "name": "Veyron Super Sport",
             "year": 2011,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -2722,15 +2764,16 @@
   },
   {
     "make": "Buick",
-    "groups": [
+    "country": "USA",
+    "models": [
       {
         "name": "GSX",
         "variants": [
           {
-            "model": "GSX",
+            "name": "GSX",
             "year": 1970,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -2776,10 +2819,10 @@
         "name": "Regal GNX",
         "variants": [
           {
-            "model": "Regal GNX",
+            "name": "Regal GNX",
             "year": 1987,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -2795,15 +2838,16 @@
   },
   {
     "make": "Cadillac",
-    "groups": [
+    "country": "USA",
+    "models": [
       {
         "name": "ATS-V",
         "variants": [
           {
-            "model": "ATS-V",
+            "name": "ATS-V",
             "year": 2016,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -2829,10 +2873,10 @@
         "name": "CTS-V",
         "variants": [
           {
-            "model": "CTS-V Sedan",
+            "name": "CTS-V Sedan",
             "year": 2016,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -2863,10 +2907,10 @@
         "name": "Eldorado Biarritz",
         "variants": [
           {
-            "model": "Eldorado Biarritz Convertible",
+            "name": "Eldorado Biarritz Convertible",
             "year": 1959,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -2897,10 +2941,10 @@
         "name": "Escalade ESV",
         "variants": [
           {
-            "model": "Escalade ESV",
+            "name": "Escalade ESV",
             "year": 2012,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -2921,15 +2965,16 @@
   },
   {
     "make": "Chevrolet",
-    "groups": [
+    "country": "USA",
+    "models": [
       {
         "name": "Bel Air",
         "variants": [
           {
-            "model": "Bel Air",
+            "name": "Bel Air",
             "year": 1957,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -2960,10 +3005,10 @@
         "name": "Camaro",
         "variants": [
           {
-            "model": "Camaro",
+            "name": "Camaro",
             "year": 1970,
             "gen": "2nd Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -2994,10 +3039,10 @@
             ]
           },
           {
-            "model": "Camaro ZL1",
+            "name": "Camaro ZL1",
             "year": 2017,
             "gen": "6th Gen",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -3018,10 +3063,10 @@
             ]
           },
           {
-            "model": "Camaro ZL1 1LE",
+            "name": "Camaro ZL1 1LE",
             "year": 2018,
             "gen": "6th Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -3037,10 +3082,10 @@
             ]
           },
           {
-            "model": "Camaro",
+            "name": "Camaro",
             "year": 1967,
             "gen": "1st Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -3051,10 +3096,10 @@
             ]
           },
           {
-            "model": "Camaro Super Sport",
+            "name": "Camaro Super Sport",
             "year": 1969,
             "gen": "1st Gen",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -3065,10 +3110,10 @@
             ]
           },
           {
-            "model": "Camaro",
+            "name": "Camaro",
             "year": 2015,
             "gen": "5th Gen",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -3084,10 +3129,10 @@
         "name": "Chevelle Super Sport",
         "variants": [
           {
-            "model": "Chevelle Super Sport",
+            "name": "Chevelle Super Sport",
             "year": 1967,
             "gen": "1st Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -3123,10 +3168,10 @@
             ]
           },
           {
-            "model": "Chevelle Super Sport",
+            "name": "Chevelle Super Sport",
             "year": 1970,
             "gen": "2nd Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -3167,10 +3212,10 @@
         "name": "Colorado",
         "variants": [
           {
-            "model": "Colorado",
+            "name": "Colorado",
             "year": 2017,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -3206,10 +3251,10 @@
         "name": "Corvette",
         "variants": [
           {
-            "model": "Corvette",
+            "name": "Corvette",
             "year": 1953,
             "gen": "53'",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -3235,10 +3280,10 @@
             ]
           },
           {
-            "model": "Corvette",
+            "name": "Corvette",
             "year": 1960,
             "gen": "1st Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -3269,10 +3314,10 @@
             ]
           },
           {
-            "model": "Corvette",
+            "name": "Corvette",
             "year": 1967,
             "gen": "2nd Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -3308,10 +3353,10 @@
             ]
           },
           {
-            "model": "Corvette",
+            "name": "Corvette",
             "year": 2002,
             "gen": "5th Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -3362,10 +3407,10 @@
             ]
           },
           {
-            "model": "Corvette",
+            "name": "Corvette",
             "year": 2009,
             "gen": "6th Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -3421,10 +3466,10 @@
             ]
           },
           {
-            "model": "Corvette",
+            "name": "Corvette",
             "year": 2019,
             "gen": "7th Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -3465,10 +3510,10 @@
             ]
           },
           {
-            "model": "Corvette",
+            "name": "Corvette",
             "year": 1970,
             "gen": "3rd Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -3509,10 +3554,10 @@
             ]
           },
           {
-            "model": "Corvette",
+            "name": "Corvette",
             "year": 1995,
             "gen": "4th Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -3558,10 +3603,10 @@
         "name": "El Camino Super Sport",
         "variants": [
           {
-            "model": "El Camino Super Sport",
+            "name": "El Camino Super Sport",
             "year": 1970,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -3602,10 +3647,10 @@
         "name": "Impala",
         "variants": [
           {
-            "model": "Impala SS",
+            "name": "Impala SS",
             "year": 1999,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -3641,10 +3686,10 @@
         "name": "Impala Super Sport",
         "variants": [
           {
-            "model": "Impala Super Sport",
+            "name": "Impala Super Sport",
             "year": 1964,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -3675,10 +3720,10 @@
         "name": "Monte Carlo Super",
         "variants": [
           {
-            "model": "Monte Carlo Super Sport",
+            "name": "Monte Carlo Super Sport",
             "year": 1988,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -3724,10 +3769,10 @@
         "name": "Nova Super",
         "variants": [
           {
-            "model": "Nova Super Sport",
+            "name": "Nova Super Sport",
             "year": 1966,
             "gen": "1st Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -3753,10 +3798,10 @@
             ]
           },
           {
-            "model": "Nova Super Sport",
+            "name": "Nova Super Sport",
             "year": 1969,
             "gen": "2nd Gen",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -3792,15 +3837,16 @@
   },
   {
     "make": "Dodge",
-    "groups": [
+    "country": "USA",
+    "models": [
       {
         "name": "Challenger",
         "variants": [
           {
-            "model": "Challenger R/T",
+            "name": "Challenger R/T",
             "year": 1970,
             "gen": "1st Gen",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -3831,10 +3877,10 @@
             ]
           },
           {
-            "model": "Challenger SRT Hellcat",
+            "name": "Challenger SRT Hellcat",
             "year": 2015,
             "gen": "3rd Gen",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -3865,10 +3911,10 @@
         "name": "Charger",
         "variants": [
           {
-            "model": "Charger R/T",
+            "name": "Charger R/T",
             "year": 1969,
             "gen": "2nd Gen",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -3899,10 +3945,10 @@
             ]
           },
           {
-            "model": "Charger Daytona Hemi",
+            "name": "Charger Daytona Hemi",
             "year": 1969,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -3928,10 +3974,10 @@
             ]
           },
           {
-            "model": "Charger SRT Hellcat",
+            "name": "Charger SRT Hellcat",
             "year": 2015,
             "gen": "7th Gen",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -3957,10 +4003,10 @@
         "name": "Dart",
         "variants": [
           {
-            "model": "Dart",
+            "name": "Dart",
             "year": 1968,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -4016,10 +4062,10 @@
         "name": "Durango SRT",
         "variants": [
           {
-            "model": "Durango SRT",
+            "name": "Durango SRT",
             "year": 2018,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -4040,10 +4086,10 @@
         "name": "Viper",
         "variants": [
           {
-            "model": "Viper ACR",
+            "name": "Viper ACR",
             "year": 2016,
             "gen": "5th Gen",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -4069,10 +4115,10 @@
             ]
           },
           {
-            "model": "Viper GTS",
+            "name": "Viper GTS",
             "year": 2013,
             "gen": "5th Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -4093,10 +4139,10 @@
             ]
           },
           {
-            "model": "Viper GTS",
+            "name": "Viper GTS",
             "year": 1999,
             "gen": "2nd Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -4117,10 +4163,10 @@
             ]
           },
           {
-            "model": "Viper SRT10 ACR",
+            "name": "Viper SRT10 ACR",
             "year": 2008,
             "gen": "4th Gen",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -4151,15 +4197,16 @@
   },
   {
     "make": "Ferrari",
-    "groups": [
+    "country": "Italy",
+    "models": [
       {
         "name": "166MM Barchetta",
         "variants": [
           {
-            "model": "166MM Barchetta",
+            "name": "166MM Barchetta",
             "year": 1948,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -4185,10 +4232,10 @@
         "name": "250",
         "variants": [
           {
-            "model": "250 GT Berlinetta Lusso",
+            "name": "250 GT Berlinetta Lusso",
             "year": 1962,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -4219,10 +4266,10 @@
         "name": "250 California",
         "variants": [
           {
-            "model": "250 California",
+            "name": "250 California",
             "year": 1957,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -4253,10 +4300,10 @@
         "name": "250 GTO",
         "variants": [
           {
-            "model": "250 GTO",
+            "name": "250 GTO",
             "year": 1962,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -4287,10 +4334,10 @@
         "name": "250 Testa Rossa",
         "variants": [
           {
-            "model": "250 Testa Rossa",
+            "name": "250 Testa Rossa",
             "year": 1957,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -4320,10 +4367,10 @@
         "name": "288 GTO",
         "variants": [
           {
-            "model": "288 GTO",
+            "name": "288 GTO",
             "year": 1984,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -4359,10 +4406,10 @@
         "name": "360",
         "variants": [
           {
-            "model": "360",
+            "name": "360",
             "year": 2003,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -4383,10 +4430,10 @@
         "name": "365 GTB/4",
         "variants": [
           {
-            "model": "365 GTB/4",
+            "name": "365 GTB/4",
             "year": 1968,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -4422,10 +4469,10 @@
         "name": "430",
         "variants": [
           {
-            "model": "430",
+            "name": "430",
             "year": 2007,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -4466,10 +4513,10 @@
         "name": "458 Italia",
         "variants": [
           {
-            "model": "458 Italia",
+            "name": "458 Italia",
             "year": 2009,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -4490,10 +4537,10 @@
         "name": "458 Speciale",
         "variants": [
           {
-            "model": "458 Speciale",
+            "name": "458 Speciale",
             "year": 2013,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -4529,10 +4576,10 @@
         "name": "488 GTB",
         "variants": [
           {
-            "model": "488 GTB",
+            "name": "488 GTB",
             "year": 2015,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -4558,10 +4605,10 @@
         "name": "488 Pista",
         "variants": [
           {
-            "model": "488 Pista",
+            "name": "488 Pista",
             "year": 2019,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -4597,10 +4644,10 @@
         "name": "500 Mondial",
         "variants": [
           {
-            "model": "500 Mondial",
+            "name": "500 Mondial",
             "year": 1953,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -4641,10 +4688,10 @@
         "name": "512 S",
         "variants": [
           {
-            "model": "512 S",
+            "name": "512 S",
             "year": 1970,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -4680,10 +4727,10 @@
         "name": "512 TR",
         "variants": [
           {
-            "model": "512 TR",
+            "name": "512 TR",
             "year": 1992,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -4714,10 +4761,10 @@
         "name": "575M Maranello",
         "variants": [
           {
-            "model": "575M Maranello",
+            "name": "575M Maranello",
             "year": 2002,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -4753,10 +4800,10 @@
         "name": "599 GTO",
         "variants": [
           {
-            "model": "599 GTO",
+            "name": "599 GTO",
             "year": 2010,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -4787,10 +4834,10 @@
         "name": "599XX",
         "variants": [
           {
-            "model": "599XX",
+            "name": "599XX",
             "year": 2010,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 3,
             "imageUrls": [
               {
@@ -4810,10 +4857,10 @@
         "name": "812 Superfast",
         "variants": [
           {
-            "model": "812 Superfast",
+            "name": "812 Superfast",
             "year": 2017,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -4839,10 +4886,10 @@
         "name": "California T",
         "variants": [
           {
-            "model": "California T",
+            "name": "California T",
             "year": 2014,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -4873,10 +4920,10 @@
         "name": "Dino 246",
         "variants": [
           {
-            "model": "Dino 246 GT",
+            "name": "Dino 246 GT",
             "year": 1969,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -4907,10 +4954,10 @@
         "name": "Enzo Ferrari",
         "variants": [
           {
-            "model": "Enzo Ferrari",
+            "name": "Enzo Ferrari",
             "year": 2002,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -4946,10 +4993,10 @@
         "name": "F12Berlinetta",
         "variants": [
           {
-            "model": "F12Berlinetta",
+            "name": "F12Berlinetta",
             "year": 2012,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -4970,10 +5017,10 @@
         "name": "F12TDF",
         "variants": [
           {
-            "model": "F12TDF",
+            "name": "F12TDF",
             "year": 2015,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 3,
             "imageUrls": [
               {
@@ -5004,10 +5051,10 @@
         "name": "F355 Berlinetta",
         "variants": [
           {
-            "model": "F355 Berlinetta",
+            "name": "F355 Berlinetta",
             "year": 1994,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -5043,10 +5090,10 @@
         "name": "F40",
         "variants": [
           {
-            "model": "F40",
+            "name": "F40",
             "year": 1987,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -5072,10 +5119,10 @@
             ]
           },
           {
-            "model": "F40 Competizione",
+            "name": "F40 Competizione",
             "year": 1989,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 3,
             "imageUrls": [
               {
@@ -5096,10 +5143,10 @@
         "name": "F50",
         "variants": [
           {
-            "model": "F50",
+            "name": "F50",
             "year": 1995,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -5125,10 +5172,10 @@
             ]
           },
           {
-            "model": "F50 GT",
+            "name": "F50 GT",
             "year": 1996,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 3,
             "imageUrls": [
               {
@@ -5149,10 +5196,10 @@
         "name": "FF",
         "variants": [
           {
-            "model": "FF",
+            "name": "FF",
             "year": 2011,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -5183,10 +5230,10 @@
         "name": "FXX",
         "variants": [
           {
-            "model": "FXX",
+            "name": "FXX",
             "year": 2005,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -5212,10 +5259,10 @@
         "name": "FXX K",
         "variants": [
           {
-            "model": "FXX K",
+            "name": "FXX K",
             "year": 2014,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 3,
             "imageUrls": [
               {
@@ -5246,10 +5293,10 @@
         "name": "GTC4Lusso",
         "variants": [
           {
-            "model": "GTC4Lusso",
+            "name": "GTC4Lusso",
             "year": 2017,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 3,
             "imageUrls": [
               {
@@ -5275,10 +5322,10 @@
         "name": "LaFerrari",
         "variants": [
           {
-            "model": "LaFerrari",
+            "name": "LaFerrari",
             "year": 2013,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -5304,10 +5351,10 @@
         "name": "Portofino",
         "variants": [
           {
-            "model": "Portofino",
+            "name": "Portofino",
             "year": 2018,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 3,
             "imageUrls": [
               {
@@ -5338,15 +5385,16 @@
   },
   {
     "make": "Fiat",
-    "groups": [
+    "country": "Italy",
+    "models": [
       {
         "name": "124",
         "variants": [
           {
-            "model": "124 Sport Spider",
+            "name": "124 Sport Spider",
             "year": 1980,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 3,
             "imageUrls": [
               {
@@ -5382,10 +5430,10 @@
         "name": "Dino 2.4",
         "variants": [
           {
-            "model": "Dino 2.4 Coupe",
+            "name": "Dino 2.4 Coupe",
             "year": 1969,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 3,
             "imageUrls": [
               {
@@ -5416,10 +5464,10 @@
         "name": "Uno",
         "variants": [
           {
-            "model": "Uno",
+            "name": "Uno",
             "year": 2010,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -5450,15 +5498,16 @@
   },
   {
     "make": "Ford",
-    "groups": [
+    "country": "USA",
+    "models": [
       {
         "name": "Anglia 105E",
         "variants": [
           {
-            "model": "Anglia 105E",
+            "name": "Anglia 105E",
             "year": 1959,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -5494,10 +5543,10 @@
         "name": "Bronco",
         "variants": [
           {
-            "model": "Bronco",
+            "name": "Bronco",
             "year": 1975,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -5523,10 +5572,10 @@
         "name": "Capri RS3100",
         "variants": [
           {
-            "model": "Capri RS3100",
+            "name": "Capri RS3100",
             "year": 1973,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 3,
             "imageUrls": [
               {
@@ -5557,10 +5606,10 @@
         "name": "Escort",
         "variants": [
           {
-            "model": "Escort RS Turbo",
+            "name": "Escort RS Turbo",
             "year": 1986,
             "gen": "1st Gen",
-            "country": "",
+            "market": "",
             "difficulty": 3,
             "imageUrls": [
               {
@@ -5591,10 +5640,10 @@
             ]
           },
           {
-            "model": "Escort RS Cosworth",
+            "name": "Escort RS Cosworth",
             "year": 1992,
             "gen": "2nd Gen",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -5615,10 +5664,10 @@
             ]
           },
           {
-            "model": "Escort RS1600",
+            "name": "Escort RS1600",
             "year": 1973,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 3,
             "imageUrls": [
               {
@@ -5634,10 +5683,10 @@
             ]
           },
           {
-            "model": "Escort RS1800",
+            "name": "Escort RS1800",
             "year": 1977,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -5668,10 +5717,10 @@
         "name": "F-100",
         "variants": [
           {
-            "model": "F-100",
+            "name": "F-100",
             "year": 1956,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 3,
             "imageUrls": [
               {
@@ -5697,10 +5746,10 @@
         "name": "Falcon",
         "variants": [
           {
-            "model": "Falcon XA GT",
+            "name": "Falcon XA GT",
             "year": 1972,
             "gen": "3rd Gen",
-            "country": "",
+            "market": "Australia",
             "difficulty": 3,
             "imageUrls": [
               {
@@ -5726,10 +5775,10 @@
         "name": "Focus",
         "variants": [
           {
-            "model": "Focus RS",
+            "name": "Focus RS",
             "year": 2003,
             "gen": "1st Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -5750,10 +5799,10 @@
             ]
           },
           {
-            "model": "Focus RS",
+            "name": "Focus RS",
             "year": 2009,
             "gen": "2nd Gen",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -5789,10 +5838,10 @@
             ]
           },
           {
-            "model": "Focus RS",
+            "name": "Focus RS",
             "year": 2017,
             "gen": "3rd Gen",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -5828,10 +5877,10 @@
         "name": "GT",
         "variants": [
           {
-            "model": "GT",
+            "name": "GT",
             "year": 2005,
             "gen": "1st Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -5852,10 +5901,10 @@
             ]
           },
           {
-            "model": "GT",
+            "name": "GT",
             "year": 2017,
             "gen": "2nd Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -5881,10 +5930,10 @@
             ]
           },
           {
-            "model": "GT40 MK I",
+            "name": "GT40 MK I",
             "year": 1964,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -5924,10 +5973,10 @@
         "name": "Lotus Cortina",
         "variants": [
           {
-            "model": "Lotus Cortina",
+            "name": "Lotus Cortina",
             "year": 1966,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -5963,10 +6012,10 @@
         "name": "Mustang",
         "variants": [
           {
-            "model": "Mustang GT Coupe",
+            "name": "Mustang GT Coupe",
             "year": 1965,
             "gen": "1st Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -5987,10 +6036,10 @@
             ]
           },
           {
-            "model": "Mustang GT 2+2 Fastback",
+            "name": "Mustang GT 2+2 Fastback",
             "year": 1968,
             "gen": "1st Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -6021,10 +6070,10 @@
             ]
           },
           {
-            "model": "Mustang Mach 1",
+            "name": "Mustang Mach 1",
             "year": 1971,
             "gen": "1st Gen",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -6055,10 +6104,10 @@
             ]
           },
           {
-            "model": "Mustang Shelby GT500",
+            "name": "Mustang Shelby GT500",
             "year": 2013,
             "gen": "5th Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -6084,10 +6133,10 @@
             ]
           },
           {
-            "model": "Mustang Shelby GT350R",
+            "name": "Mustang Shelby GT350R",
             "year": 2016,
             "gen": "6th Gen",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -6103,10 +6152,10 @@
             ]
           },
           {
-            "model": "Mustang GT",
+            "name": "Mustang GT",
             "year": 2018,
             "gen": "6th Gen",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -6132,10 +6181,10 @@
             ]
           },
           {
-            "model": "Mustang SVT Cobra R",
+            "name": "Mustang SVT Cobra R",
             "year": 1993,
             "gen": "3rd Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -6156,10 +6205,10 @@
             ]
           },
           {
-            "model": "Mustang SVT Cobra R",
+            "name": "Mustang SVT Cobra R",
             "year": 2000,
             "gen": "4th Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -6185,10 +6234,10 @@
             ]
           },
           {
-            "model": "Mustang Boss 302",
+            "name": "Mustang Boss 302",
             "year": 1969,
             "gen": "1st Gen",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -6229,10 +6278,10 @@
         "name": "RS200 Evolution",
         "variants": [
           {
-            "model": "RS200 Evolution",
+            "name": "RS200 Evolution",
             "year": 1985,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -6258,10 +6307,10 @@
         "name": "Racing Puma",
         "variants": [
           {
-            "model": "Puma",
+            "name": "Puma",
             "year": 1999,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 3,
             "imageUrls": [
               {
@@ -6287,10 +6336,10 @@
         "name": "Ranger Raptor",
         "variants": [
           {
-            "model": "Ranger Raptor",
+            "name": "Ranger Raptor",
             "year": 2019,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -6311,10 +6360,10 @@
         "name": "Sierra Cosworth RS500",
         "variants": [
           {
-            "model": "Sierra Cosworth RS500",
+            "name": "Sierra Cosworth RS500",
             "year": 1987,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -6340,10 +6389,10 @@
         "name": "XB Falcon",
         "variants": [
           {
-            "model": "Falcon XB GT",
+            "name": "Falcon XB GT",
             "year": 1973,
             "gen": "3rd Gen",
-            "country": "",
+            "market": "Australia",
             "difficulty": 3,
             "imageUrls": [
               {
@@ -6384,10 +6433,10 @@
         "name": "F-150",
         "variants": [
           {
-            "model": "F-150 Raptor",
+            "name": "F-150 Raptor",
             "year": 2017,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -6413,10 +6462,10 @@
             ]
           },
           {
-            "model": "F-150 SVT Raptor",
+            "name": "F-150 SVT Raptor",
             "year": 2011,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -6447,10 +6496,10 @@
         "name": "Fiesta",
         "variants": [
           {
-            "model": "Fiesta ST",
+            "name": "Fiesta ST",
             "year": 2014,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -6476,10 +6525,10 @@
             ]
           },
           {
-            "model": "Fiesta XR2",
+            "name": "Fiesta XR2",
             "year": 1981,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -6515,15 +6564,16 @@
   },
   {
     "make": "HDT",
-    "groups": [
+    "country": "Australia",
+    "models": [
       {
         "name": "VK Commodore Group A",
         "variants": [
           {
-            "model": "VK Commodore Group A",
+            "name": "VK Commodore Group A",
             "year": 1985,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -6554,15 +6604,16 @@
   },
   {
     "make": "HSV",
-    "groups": [
+    "country": "Australia",
+    "models": [
       {
         "name": "GTS",
         "variants": [
           {
-            "model": "GTS",
+            "name": "GTS",
             "year": 2011,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -6588,10 +6639,10 @@
         "name": "GTSR",
         "variants": [
           {
-            "model": "GTSR",
+            "name": "GTSR",
             "year": 1996,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -6607,10 +6658,10 @@
         "name": "Gen-F GTS",
         "variants": [
           {
-            "model": "Gen-F GTS",
+            "name": "Gen-F GTS",
             "year": 2014,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -6641,15 +6692,16 @@
   },
   {
     "make": "Hennessey",
-    "groups": [
+    "country": "USA",
+    "models": [
       {
         "name": "Venom",
         "variants": [
           {
-            "model": "Venom GT",
+            "name": "Venom GT",
             "year": 2012,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -6665,15 +6717,16 @@
   },
   {
     "make": "Holden",
-    "groups": [
+    "country": "Australia",
+    "models": [
       {
         "name": "HQ Monaro GTS 350",
         "variants": [
           {
-            "model": "HQ Monaro GTS 350",
+            "name": "HQ Monaro GTS 350",
             "year": 1973,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -6709,10 +6762,10 @@
         "name": "Sandman HQ Panel Van",
         "variants": [
           {
-            "model": "Sandman HQ Panel Van",
+            "name": "Sandman HQ Panel Van",
             "year": 1974,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -6743,10 +6796,10 @@
         "name": "Torana A9X",
         "variants": [
           {
-            "model": "Torana A9X",
+            "name": "Torana A9X",
             "year": 1977,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -6777,10 +6830,10 @@
         "name": "VL Commodore Group A SV",
         "variants": [
           {
-            "model": "VL Commodore Group A SV",
+            "name": "VL Commodore Group A SV",
             "year": 1988,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -6806,15 +6859,16 @@
   },
   {
     "make": "Honda",
-    "groups": [
+    "country": "Japan",
+    "models": [
       {
         "name": "CR-X SiR",
         "variants": [
           {
-            "model": "CR-X SiR",
+            "name": "CR-X SiR",
             "year": 1991,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -6845,10 +6899,10 @@
         "name": "Civic",
         "variants": [
           {
-            "model": "Civic RS",
+            "name": "Civic RS",
             "year": 1974,
             "gen": "1st Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -6874,10 +6928,10 @@
             ]
           },
           {
-            "model": "Civic Type R",
+            "name": "Civic Type R",
             "year": 1997,
             "gen": "6th Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -6923,10 +6977,10 @@
             ]
           },
           {
-            "model": "Civic Type-R",
+            "name": "Civic Type-R",
             "year": 2004,
             "gen": "7th Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -6957,10 +7011,10 @@
             ]
           },
           {
-            "model": "Civic Type-R",
+            "name": "Civic Type-R",
             "year": 2007,
             "gen": "8th Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -6981,10 +7035,10 @@
             ]
           },
           {
-            "model": "Civic Type R",
+            "name": "Civic Type R",
             "year": 2015,
             "gen": "9th Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -7020,10 +7074,10 @@
             ]
           },
           {
-            "model": "Civic Type R",
+            "name": "Civic Type R",
             "year": 2018,
             "gen": "10th Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -7069,10 +7123,10 @@
         "name": "NSX",
         "variants": [
           {
-            "model": "NSX-R",
+            "name": "NSX-R",
             "year": 1992,
             "gen": "1st Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -7098,10 +7152,10 @@
             ]
           },
           {
-            "model": "NSX-R GT",
+            "name": "NSX-R GT",
             "year": 2005,
             "gen": "2nd Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -7117,10 +7171,10 @@
             ]
           },
           {
-            "model": "NSX",
+            "name": "NSX",
             "year": 2005,
             "gen": "2nd Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -7141,10 +7195,10 @@
         "name": "Prelude SI",
         "variants": [
           {
-            "model": "Prelude",
+            "name": "Prelude",
             "year": 1994,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -7180,10 +7234,10 @@
         "name": "S2000",
         "variants": [
           {
-            "model": "S2000",
+            "name": "S2000",
             "year": 2003,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -7219,10 +7273,10 @@
         "name": "S2000 CR",
         "variants": [
           {
-            "model": "S2000 CR",
+            "name": "S2000 CR",
             "year": 2009,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -7238,15 +7292,16 @@
   },
   {
     "make": "Hudson",
-    "groups": [
+    "country": "USA",
+    "models": [
       {
         "name": "Hornet",
         "variants": [
           {
-            "model": "Hornet",
+            "name": "Hornet",
             "year": 1952,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -7277,15 +7332,16 @@
   },
   {
     "make": "Hummer",
-    "groups": [
+    "country": "USA",
+    "models": [
       {
         "name": "H1",
         "variants": [
           {
-            "model": "H1 Alpha",
+            "name": "H1 Alpha",
             "year": 2006,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -7301,15 +7357,16 @@
   },
   {
     "make": "Hyundai",
-    "groups": [
+    "country": "South Korea",
+    "models": [
       {
         "name": "Veloster N",
         "variants": [
           {
-            "model": "Veloster",
+            "name": "Veloster",
             "year": 2012,
             "gen": "1st Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -7340,15 +7397,16 @@
   },
   {
     "make": "Jaguar",
-    "groups": [
+    "country": "UK",
+    "models": [
       {
         "name": "C-Type",
         "variants": [
           {
-            "model": "C-Type",
+            "name": "C-Type",
             "year": 1953,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -7369,10 +7427,10 @@
         "name": "D-Type",
         "variants": [
           {
-            "model": "D-Type",
+            "name": "D-Type",
             "year": 1956,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -7398,10 +7456,10 @@
         "name": "E-Type S1",
         "variants": [
           {
-            "model": "E-Type S1",
+            "name": "E-Type S1",
             "year": 1961,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -7422,10 +7480,10 @@
         "name": "F",
         "variants": [
           {
-            "model": "F-Type R Coupe",
+            "name": "F-Type R Coupe",
             "year": 2015,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -7456,10 +7514,10 @@
         "name": "F-Pace S",
         "variants": [
           {
-            "model": "F-Pace S",
+            "name": "F-Pace S",
             "year": 2017,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -7480,10 +7538,10 @@
         "name": "F-Type Project 7",
         "variants": [
           {
-            "model": "F-Type Project 7",
+            "name": "F-Type Project 7",
             "year": 2016,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -7514,10 +7572,10 @@
         "name": "I-Pace",
         "variants": [
           {
-            "model": "I-Pace",
+            "name": "I-Pace",
             "year": 2020,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -7548,10 +7606,10 @@
         "name": "MK II 3.8",
         "variants": [
           {
-            "model": "MK II 3.8",
+            "name": "MK II 3.8",
             "year": 1959,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -7587,10 +7645,10 @@
         "name": "XE-S",
         "variants": [
           {
-            "model": "XE-S",
+            "name": "XE-S",
             "year": 2015,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -7616,10 +7674,10 @@
         "name": "XFR-S",
         "variants": [
           {
-            "model": "XFR-S",
+            "name": "XFR-S",
             "year": 2015,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -7650,10 +7708,10 @@
         "name": "XJ-S",
         "variants": [
           {
-            "model": "XJ-S",
+            "name": "XJ-S",
             "year": 1990,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -7689,10 +7747,10 @@
         "name": "XJ220",
         "variants": [
           {
-            "model": "XJ220",
+            "name": "XJ220",
             "year": 1993,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -7723,10 +7781,10 @@
         "name": "XK120 SE",
         "variants": [
           {
-            "model": "XK120 SE",
+            "name": "XK120 SE",
             "year": 1954,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -7752,10 +7810,10 @@
         "name": "XKR-S",
         "variants": [
           {
-            "model": "XKR-S",
+            "name": "XKR-S",
             "year": 2012,
             "gen": "1st Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -7776,10 +7834,10 @@
             ]
           },
           {
-            "model": "XKR-S GT",
+            "name": "XKR-S GT",
             "year": 2015,
             "gen": "2nd Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -7810,15 +7868,16 @@
   },
   {
     "make": "Koenigsegg",
-    "groups": [
+    "country": "Sweden",
+    "models": [
       {
         "name": "Agera",
         "variants": [
           {
-            "model": "Agera",
+            "name": "Agera",
             "year": 2011,
             "gen": "1st Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -7844,10 +7903,10 @@
             ]
           },
           {
-            "model": "Agera RS",
+            "name": "Agera RS",
             "year": 2017,
             "gen": "2nd Gen",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -7873,10 +7932,10 @@
         "name": "CC8S",
         "variants": [
           {
-            "model": "CC8S",
+            "name": "CC8S",
             "year": 2002,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -7907,10 +7966,10 @@
         "name": "CCGT",
         "variants": [
           {
-            "model": "CCGT",
+            "name": "CCGT",
             "year": 2008,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -7931,10 +7990,10 @@
         "name": "CCX",
         "variants": [
           {
-            "model": "CCX",
+            "name": "CCX",
             "year": 2007,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -7965,10 +8024,10 @@
         "name": "One:1",
         "variants": [
           {
-            "model": "One:1",
+            "name": "One:1",
             "year": 2015,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -7989,10 +8048,10 @@
         "name": "Regera",
         "variants": [
           {
-            "model": "Regera",
+            "name": "Regera",
             "year": 2016,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -8018,15 +8077,16 @@
   },
   {
     "make": "Lamborghini",
-    "groups": [
+    "country": "Italy",
+    "models": [
       {
         "name": "Aventador",
         "variants": [
           {
-            "model": "Aventador J",
+            "name": "Aventador J",
             "year": 2012,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -8042,10 +8102,10 @@
             ]
           },
           {
-            "model": "Aventador LP700-4",
+            "name": "Aventador LP700-4",
             "year": 2012,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -8076,10 +8136,10 @@
             ]
           },
           {
-            "model": "Aventador LP750-4 SV",
+            "name": "Aventador LP750-4 SV",
             "year": 2016,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -8105,10 +8165,10 @@
         "name": "Centenario LP 770-4",
         "variants": [
           {
-            "model": "Centenario LP 770-4",
+            "name": "Centenario LP 770-4",
             "year": 2016,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -8124,10 +8184,10 @@
         "name": "Countach LP5000 QV",
         "variants": [
           {
-            "model": "Countach LP5000 QV",
+            "name": "Countach LP5000 QV",
             "year": 1988,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -8143,10 +8203,10 @@
         "name": "Diablo",
         "variants": [
           {
-            "model": "Diablo GTR",
+            "name": "Diablo GTR",
             "year": 1999,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -8172,10 +8232,10 @@
             ]
           },
           {
-            "model": "Diablo SV",
+            "name": "Diablo SV",
             "year": 1997,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -8211,10 +8271,10 @@
         "name": "Gallardo",
         "variants": [
           {
-            "model": "Gallardo LP 570-4 Superleggera",
+            "name": "Gallardo LP 570-4 Superleggera",
             "year": 2011,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -8240,10 +8300,10 @@
             ]
           },
           {
-            "model": "Gallardo LP570-4 Spyder Performante",
+            "name": "Gallardo LP570-4 Spyder Performante",
             "year": 2012,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -8274,10 +8334,10 @@
         "name": "Huracan",
         "variants": [
           {
-            "model": "Huracan LP 610-4",
+            "name": "Huracan LP 610-4",
             "year": 2014,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -8303,10 +8363,10 @@
             ]
           },
           {
-            "model": "Huracan Performante",
+            "name": "Huracan Performante",
             "year": 2018,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -8337,10 +8397,10 @@
         "name": "Jarama S",
         "variants": [
           {
-            "model": "Jarama S",
+            "name": "Jarama S",
             "year": 1972,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -8376,10 +8436,10 @@
         "name": "LM 002",
         "variants": [
           {
-            "model": "LM 002",
+            "name": "LM 002",
             "year": 1986,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -8420,10 +8480,10 @@
         "name": "Miura P400",
         "variants": [
           {
-            "model": "Miura P400",
+            "name": "Miura P400",
             "year": 1967,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -8454,10 +8514,10 @@
         "name": "Murcielago",
         "variants": [
           {
-            "model": "Murcielago SV",
+            "name": "Murcielago SV",
             "year": 2010,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -8483,10 +8543,10 @@
             ]
           },
           {
-            "model": "Murcielago",
+            "name": "Murcielago",
             "year": 2010,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -8517,10 +8577,10 @@
         "name": "Reventon",
         "variants": [
           {
-            "model": "Reventon",
+            "name": "Reventon",
             "year": 2008,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -8541,10 +8601,10 @@
         "name": "Sesto Elemento",
         "variants": [
           {
-            "model": "Sesto Elemento",
+            "name": "Sesto Elemento",
             "year": 2011,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -8570,10 +8630,10 @@
         "name": "Urus",
         "variants": [
           {
-            "model": "Urus",
+            "name": "Urus",
             "year": 2019,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -8599,10 +8659,10 @@
         "name": "Veneno",
         "variants": [
           {
-            "model": "Veneno",
+            "name": "Veneno",
             "year": 2013,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -8628,15 +8688,16 @@
   },
   {
     "make": "Lancia",
-    "groups": [
+    "country": "Italy",
+    "models": [
       {
         "name": "037",
         "variants": [
           {
-            "model": "037 Stradale",
+            "name": "037 Stradale",
             "year": 1982,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -8662,10 +8723,10 @@
         "name": "Delta HF Integrale Evo",
         "variants": [
           {
-            "model": "Delta HF Integrale Evo",
+            "name": "Delta HF Integrale Evo",
             "year": 1992,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -8701,10 +8762,10 @@
         "name": "Delta S4",
         "variants": [
           {
-            "model": "Delta S4",
+            "name": "Delta S4",
             "year": 1986,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -8730,10 +8791,10 @@
         "name": "Fulvia",
         "variants": [
           {
-            "model": "Fulvia Coupe Rallye 1.6 HF",
+            "name": "Fulvia Coupe Rallye 1.6 HF",
             "year": 1968,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -8779,10 +8840,10 @@
         "name": "Stratos HF",
         "variants": [
           {
-            "model": "Stratos HF Stradale",
+            "name": "Stratos HF Stradale",
             "year": 1974,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -8813,15 +8874,16 @@
   },
   {
     "make": "Land Rover",
-    "groups": [
+    "country": "UK",
+    "models": [
       {
         "name": "Defender 90",
         "variants": [
           {
-            "model": "Defender 90",
+            "name": "Defender 90",
             "year": 1997,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -8847,10 +8909,10 @@
         "name": "Range Rover",
         "variants": [
           {
-            "model": "Range Rover",
+            "name": "Range Rover",
             "year": 1973,
             "gen": "1st Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -8871,10 +8933,10 @@
             ]
           },
           {
-            "model": "Range Rover Sport SVR",
+            "name": "Range Rover Sport SVR",
             "year": 2015,
             "gen": "2nd Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -8895,10 +8957,10 @@
         "name": "Series III",
         "variants": [
           {
-            "model": "Series III",
+            "name": "Series III",
             "year": 1972,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -8934,15 +8996,16 @@
   },
   {
     "make": "Lexus",
-    "groups": [
+    "country": "Japan",
+    "models": [
       {
         "name": "IS F",
         "variants": [
           {
-            "model": "IS F",
+            "name": "IS F",
             "year": 2009,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -8968,10 +9031,10 @@
         "name": "LFA",
         "variants": [
           {
-            "model": "LFA",
+            "name": "LFA",
             "year": 2010,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -8992,10 +9055,10 @@
         "name": "RC F",
         "variants": [
           {
-            "model": "RC F",
+            "name": "RC F",
             "year": 2015,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -9026,7 +9089,8 @@
   },
   {
     "make": "Lotus",
-    "groups": [
+    "country": "UK",
+    "models": [
       {
         "name": "2-Eleven",
         "variants": []
@@ -9043,10 +9107,10 @@
         "name": "Elan Sprint",
         "variants": [
           {
-            "model": "Elan Sprint",
+            "name": "Elan Sprint",
             "year": 1971,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -9072,10 +9136,10 @@
         "name": "Eleven",
         "variants": [
           {
-            "model": "Eleven",
+            "name": "Eleven",
             "year": 1956,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -9096,10 +9160,10 @@
         "name": "Elise 111S",
         "variants": [
           {
-            "model": "Elise 111S",
+            "name": "Elise 111S",
             "year": 2005,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -9130,10 +9194,10 @@
         "name": "Elise GT1",
         "variants": [
           {
-            "model": "Elise GT1",
+            "name": "Elise GT1",
             "year": 1997,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -9154,10 +9218,10 @@
         "name": "Elise Series 1",
         "variants": [
           {
-            "model": "Elise Series 1 Sport 190",
+            "name": "Elise Series 1 Sport 190",
             "year": 1999,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -9193,10 +9257,10 @@
         "name": "Esprit V8",
         "variants": [
           {
-            "model": "Esprit V8",
+            "name": "Esprit V8",
             "year": 2002,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -9227,10 +9291,10 @@
         "name": "Evora S",
         "variants": [
           {
-            "model": "Evora S",
+            "name": "Evora S",
             "year": 2011,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -9256,10 +9320,10 @@
         "name": "Exige S",
         "variants": [
           {
-            "model": "Exige S",
+            "name": "Exige S",
             "year": 2012,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -9280,15 +9344,16 @@
   },
   {
     "make": "MG",
-    "groups": [
+    "country": "UK",
+    "models": [
       {
         "name": "MGA Twin-Cam",
         "variants": [
           {
-            "model": "MGA Twin-Cam",
+            "name": "MGA Twin-Cam",
             "year": 1958,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -9314,10 +9379,10 @@
         "name": "MGB",
         "variants": [
           {
-            "model": "MGB GT",
+            "name": "MGB GT",
             "year": 1966,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -9348,10 +9413,10 @@
         "name": "Metro 6R4",
         "variants": [
           {
-            "model": "Metro 6R4",
+            "name": "Metro 6R4",
             "year": 1986,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -9372,15 +9437,16 @@
   },
   {
     "make": "Maserati",
-    "groups": [
+    "country": "Italy",
+    "models": [
       {
         "name": "300 S",
         "variants": [
           {
-            "model": "300 S",
+            "name": "300 S",
             "year": 1957,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -9406,10 +9472,10 @@
         "name": "8CTF",
         "variants": [
           {
-            "model": "8CTF",
+            "name": "8CTF",
             "year": 1939,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -9430,10 +9496,10 @@
         "name": "Ghibli S Q4",
         "variants": [
           {
-            "model": "Ghibli S Q4",
+            "name": "Ghibli S Q4",
             "year": 2014,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -9454,10 +9520,10 @@
         "name": "Gran Turismo S",
         "variants": [
           {
-            "model": "Gran Turismo S",
+            "name": "Gran Turismo S",
             "year": 2010,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -9497,10 +9563,10 @@
         "name": "MC12",
         "variants": [
           {
-            "model": "MC12",
+            "name": "MC12",
             "year": 2004,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -9521,10 +9587,10 @@
         "name": "MC12 Versione Corsa",
         "variants": [
           {
-            "model": "MC12 Versione Corsa",
+            "name": "MC12 Versione Corsa",
             "year": 2008,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -9550,15 +9616,16 @@
   },
   {
     "make": "Mazda",
-    "groups": [
+    "country": "Japan",
+    "models": [
       {
         "name": "MX-5",
         "variants": [
           {
-            "model": "MX-5",
+            "name": "MX-5",
             "year": 2013,
             "gen": "1st Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -9574,10 +9641,10 @@
             ]
           },
           {
-            "model": "MX-5",
+            "name": "MX-5",
             "year": 2016,
             "gen": "2nd Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -9598,10 +9665,10 @@
             ]
           },
           {
-            "model": "MX-5 Miata",
+            "name": "MX-5 Miata",
             "year": 1994,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -9617,10 +9684,10 @@
             ]
           },
           {
-            "model": "Mazdaspeed MX-5",
+            "name": "Mazdaspeed MX-5",
             "year": 2005,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -9640,10 +9707,10 @@
         "name": "RX-8",
         "variants": [
           {
-            "model": "RX-8",
+            "name": "RX-8",
             "year": 2011,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -9669,10 +9736,10 @@
         "name": "RX-7",
         "variants": [
           {
-            "model": "RX-7",
+            "name": "RX-7",
             "year": 1997,
             "gen": "3nd Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -9693,10 +9760,10 @@
             ]
           },
           {
-            "model": "RX-7",
+            "name": "RX-7",
             "year": 1980,
             "gen": "1st Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -9732,10 +9799,10 @@
             ]
           },
           {
-            "model": "RX-7 Spirit R",
+            "name": "RX-7 Spirit R",
             "year": 2002,
             "gen": "3rd Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -9771,10 +9838,10 @@
             ]
           },
           {
-            "model": "RX-7",
+            "name": "RX-7",
             "year": 1992,
             "gen": "2nd Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -9815,15 +9882,16 @@
   },
   {
     "make": "McLaren",
-    "groups": [
+    "country": "UK",
+    "models": [
       {
         "name": "12c",
         "variants": [
           {
-            "model": "12c Coupe",
+            "name": "12c Coupe",
             "year": 2011,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -9853,10 +9921,10 @@
         "name": "600LT",
         "variants": [
           {
-            "model": "600LT Coupe",
+            "name": "600LT Coupe",
             "year": 2018,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -9872,10 +9940,10 @@
         "name": "650S",
         "variants": [
           {
-            "model": "650S Coupe",
+            "name": "650S Coupe",
             "year": 2015,
             "gen": "2nd Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -9901,10 +9969,10 @@
         "name": "720S",
         "variants": [
           {
-            "model": "720S Spider",
+            "name": "720S Spider",
             "year": 2019,
             "gen": "2nd Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -9925,10 +9993,10 @@
         "name": "F1",
         "variants": [
           {
-            "model": "F1",
+            "name": "F1",
             "year": 1993,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -9949,10 +10017,10 @@
             ]
           },
           {
-            "model": "F1 LM",
+            "name": "F1 LM",
             "year": 1995,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -9968,10 +10036,10 @@
         "name": "P1",
         "variants": [
           {
-            "model": "P1",
+            "name": "P1",
             "year": 2013,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -9992,10 +10060,10 @@
         "name": "Senna",
         "variants": [
           {
-            "model": "Senna",
+            "name": "Senna",
             "year": 2018,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -10016,15 +10084,16 @@
   },
   {
     "make": "Mercedes-AMG",
-    "groups": [
+    "country": "Germany",
+    "models": [
       {
         "name": "C 63 A",
         "variants": [
           {
-            "model": "C 63 A Coupe",
+            "name": "C 63 A Coupe",
             "year": 2016,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -10055,10 +10124,10 @@
         "name": "E 63 S",
         "variants": [
           {
-            "model": "E 63 S",
+            "name": "E 63 S",
             "year": 2018,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -10084,10 +10153,10 @@
         "name": "GT",
         "variants": [
           {
-            "model": "GT S",
+            "name": "GT S",
             "year": 2015,
             "gen": "1st Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -10108,10 +10177,10 @@
             ]
           },
           {
-            "model": "GT R",
+            "name": "GT R",
             "year": 2017,
             "gen": "2nd Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -10142,10 +10211,10 @@
             ]
           },
           {
-            "model": "GT R Safety Car",
+            "name": "GT R Safety Car",
             "year": 2017,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -10176,15 +10245,16 @@
   },
   {
     "make": "Mercedes-Benz",
-    "groups": [
+    "country": "Germany",
+    "models": [
       {
         "name": "190E 1.5-16 Evolution II",
         "variants": [
           {
-            "model": "190E 1.5-16 Evolution II",
+            "name": "190E 1.5-16 Evolution II",
             "year": 1990,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -10205,10 +10275,10 @@
         "name": "280 SL",
         "variants": [
           {
-            "model": "280 SL",
+            "name": "280 SL",
             "year": 1967,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -10234,10 +10304,10 @@
         "name": "300 SL",
         "variants": [
           {
-            "model": "300 SL Coupe",
+            "name": "300 SL Coupe",
             "year": 1954,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -10268,10 +10338,10 @@
         "name": "300 SLR",
         "variants": [
           {
-            "model": "300 SLR",
+            "name": "300 SLR",
             "year": 1955,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -10302,10 +10372,10 @@
         "name": "A 45 AMG",
         "variants": [
           {
-            "model": "A-Class",
+            "name": "A-Class",
             "year": 2012,
             "gen": "3rd Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -10346,10 +10416,10 @@
         "name": "AMG CLK",
         "variants": [
           {
-            "model": "AMG CLK GTR",
+            "name": "AMG CLK GTR",
             "year": 1998,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -10385,10 +10455,10 @@
         "name": "C 63 AMG",
         "variants": [
           {
-            "model": "C 63 AMG Coupe Black Series",
+            "name": "C 63 AMG Coupe Black Series",
             "year": 2012,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -10423,10 +10493,10 @@
         "name": "G 63 AMG 6X6",
         "variants": [
           {
-            "model": "G 63 AMG 6X6",
+            "name": "G 63 AMG 6X6",
             "year": 2014,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -10447,10 +10517,10 @@
         "name": "G 65 AMG",
         "variants": [
           {
-            "model": "G 65 AMG",
+            "name": "G 65 AMG",
             "year": 2013,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -10471,10 +10541,10 @@
         "name": "SL 65 AMG Black Series",
         "variants": [
           {
-            "model": "SL 65 AMG Black Series",
+            "name": "SL 65 AMG Black Series",
             "year": 2009,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -10505,10 +10575,10 @@
         "name": "SLK 55 AMG",
         "variants": [
           {
-            "model": "SLK 55 AMG",
+            "name": "SLK 55 AMG",
             "year": 2012,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -10539,10 +10609,10 @@
         "name": "SLS AMG",
         "variants": [
           {
-            "model": "SLS AMG",
+            "name": "SLS AMG",
             "year": 2011,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -10577,10 +10647,10 @@
         "name": "X-Class",
         "variants": [
           {
-            "model": "X-Class",
+            "name": "X-Class",
             "year": 2018,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -10596,10 +10666,10 @@
         "name": "Sprinter",
         "variants": [
           {
-            "model": "Sprinter",
+            "name": "Sprinter",
             "year": 2020,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -10635,15 +10705,16 @@
   },
   {
     "make": "Mini",
-    "groups": [
+    "country": "UK",
+    "models": [
       {
         "name": "Cooper S",
         "variants": [
           {
-            "model": "Cooper S",
+            "name": "Cooper S",
             "year": 1965,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -10674,10 +10745,10 @@
         "name": "John Cooper Works",
         "variants": [
           {
-            "model": "John Cooper Works",
+            "name": "John Cooper Works",
             "year": 2009,
             "gen": "1st Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -10713,10 +10784,10 @@
         "name": "John Cooper Works All4 Countryman",
         "variants": [
           {
-            "model": "John Cooper Works All4 Countryman",
+            "name": "John Cooper Works All4 Countryman",
             "year": 2018,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -10732,15 +10803,16 @@
   },
   {
     "make": "Mitsubishi",
-    "groups": [
+    "country": "Japan",
+    "models": [
       {
         "name": "Eclipse GSX",
         "variants": [
           {
-            "model": "Eclipse GSX",
+            "name": "Eclipse GSX",
             "year": 1995,
             "gen": "2nd Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -10771,10 +10843,10 @@
         "name": "GTO",
         "variants": [
           {
-            "model": "GTO",
+            "name": "GTO",
             "year": 1997,
             "gen": "3rd Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -10795,10 +10867,10 @@
         "name": "Galant VR-4",
         "variants": [
           {
-            "model": "Galant VR-4",
+            "name": "Galant VR-4",
             "year": 1992,
             "gen": "7th Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -10814,10 +10886,10 @@
         "name": "Lancer Evolution",
         "variants": [
           {
-            "model": "Lancer Evolution VI GSR",
+            "name": "Lancer Evolution VI GSR",
             "year": 1999,
             "gen": "6th Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -10833,10 +10905,10 @@
             ]
           },
           {
-            "model": "Lancer Evolution VIII MR",
+            "name": "Lancer Evolution VIII MR",
             "year": 2004,
             "gen": "8th Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -10857,10 +10929,10 @@
             ]
           },
           {
-            "model": "Lancer Evolution IX MR",
+            "name": "Lancer Evolution IX MR",
             "year": 2006,
             "gen": "9th Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -10896,10 +10968,10 @@
             ]
           },
           {
-            "model": "Lancer Evolution X GSR",
+            "name": "Lancer Evolution X GSR",
             "year": 2008,
             "gen": "10th Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -10925,10 +10997,10 @@
         "name": "Starion ESI-R",
         "variants": [
           {
-            "model": "Starion",
+            "name": "Starion",
             "year": 1988,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -10964,7 +11036,8 @@
   },
   {
     "make": "Morgan",
-    "groups": [
+    "country": "UK",
+    "models": [
       {
         "name": "Aero",
         "variants": []
@@ -10973,10 +11046,10 @@
         "name": "Aero Supersports",
         "variants": [
           {
-            "model": "Aero Supersports",
+            "name": "Aero Supersports",
             "year": 2010,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -11012,15 +11085,16 @@
   },
   {
     "make": "Mosler",
-    "groups": [
+    "country": "USA",
+    "models": [
       {
         "name": "MT900S",
         "variants": [
           {
-            "model": "MT900S",
+            "name": "MT900S",
             "year": 2010,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -11061,15 +11135,16 @@
   },
   {
     "make": "Nissan",
-    "groups": [
+    "country": "Japan",
+    "models": [
       {
         "name": "Silvia",
         "variants": [
           {
-            "model": "Silvia Club K's",
+            "name": "Silvia Club K's",
             "year": 1992,
             "gen": "5th Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -11095,10 +11170,10 @@
             ]
           },
           {
-            "model": "240SX SE",
+            "name": "240SX SE",
             "year": 1993,
             "gen": "5th Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -11114,10 +11189,10 @@
             ]
           },
           {
-            "model": "Silvia K's",
+            "name": "Silvia K's",
             "year": 1994,
             "gen": "6th Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -11128,10 +11203,10 @@
             ]
           },
           {
-            "model": "Silvia K's Aero",
+            "name": "Silvia K's Aero",
             "year": 1998,
             "gen": "6th Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -11152,10 +11227,10 @@
             ]
           },
           {
-            "model": "Silvia Spec-R",
+            "name": "Silvia Spec-R",
             "year": 2000,
             "gen": "7th Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -11176,10 +11251,10 @@
         "name": "370Z",
         "variants": [
           {
-            "model": "370Z",
+            "name": "370Z",
             "year": 2010,
             "gen": "6th Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -11215,10 +11290,10 @@
         "name": "Fairlady",
         "variants": [
           {
-            "model": "Fairlady Z",
+            "name": "Fairlady Z",
             "year": 1969,
             "gen": "1st Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -11249,10 +11324,10 @@
             ]
           },
           {
-            "model": "Fairlady Z",
+            "name": "Fairlady Z",
             "year": 1994,
             "gen": "4th Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -11283,10 +11358,10 @@
             ]
           },
           {
-            "model": "Fairlady Z",
+            "name": "Fairlady Z",
             "year": 2003,
             "gen": "5th Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -11312,10 +11387,10 @@
         "name": "GT-R",
         "variants": [
           {
-            "model": "Skyline 2000GT-R",
+            "name": "Skyline 2000GT-R",
             "year": 1971,
             "gen": "1st Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -11346,10 +11421,10 @@
             ]
           },
           {
-            "model": "Skyline H/T 2000GT-R",
+            "name": "Skyline H/T 2000GT-R",
             "year": 1973,
             "gen": "2nd Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -11375,10 +11450,10 @@
             ]
           },
           {
-            "model": "Skyline GTS-R (R31)",
+            "name": "Skyline GTS-R (R31)",
             "year": 1987,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -11394,10 +11469,10 @@
             ]
           },
           {
-            "model": "Skyline GT-R V-Spec",
+            "name": "Skyline GT-R V-Spec",
             "year": 1993,
             "gen": "3rd Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -11428,10 +11503,10 @@
             ]
           },
           {
-            "model": "Skyline GT-R V-Spec",
+            "name": "Skyline GT-R V-Spec",
             "year": 1997,
             "gen": "4th Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -11467,10 +11542,10 @@
             ]
           },
           {
-            "model": "Skyline GT-R V-Spec II",
+            "name": "Skyline GT-R V-Spec II",
             "year": 2002,
             "gen": "5th Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -11526,10 +11601,10 @@
             ]
           },
           {
-            "model": "GT-R",
+            "name": "GT-R",
             "year": 2017,
             "gen": "6th Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -11565,10 +11640,10 @@
         "name": "Nismo",
         "variants": [
           {
-            "model": "Nismo GT-R LM",
+            "name": "Nismo GT-R LM",
             "year": 1995,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -11604,10 +11679,10 @@
         "name": "Pulsar GTI-R",
         "variants": [
           {
-            "model": "Pulsar GTI-R",
+            "name": "Pulsar GTI-R",
             "year": 1990,
             "gen": "4th Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -11628,10 +11703,10 @@
         "name": "R390",
         "variants": [
           {
-            "model": "R390",
+            "name": "R390",
             "year": 1998,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -11675,15 +11750,16 @@
   },
   {
     "make": "Noble",
-    "groups": [
+    "country": "UK",
+    "models": [
       {
         "name": "M600",
         "variants": [
           {
-            "model": "M600",
+            "name": "M600",
             "year": 2010,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -11714,7 +11790,8 @@
   },
   {
     "make": "Opel",
-    "groups": [
+    "country": "Germany",
+    "models": [
       {
         "name": "Kadett A",
         "variants": []
@@ -11723,10 +11800,10 @@
         "name": "Manta 400",
         "variants": [
           {
-            "model": "Manta 400",
+            "name": "Manta 400",
             "year": 1984,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -11757,10 +11834,10 @@
         "name": "Kadett",
         "variants": [
           {
-            "model": "Kadett A",
+            "name": "Kadett A",
             "year": 1963,
             "gen": "1st Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -11786,10 +11863,10 @@
             ]
           },
           {
-            "model": "Kadett C",
+            "name": "Kadett C",
             "year": 1973,
             "gen": "3rd Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -11820,10 +11897,10 @@
             ]
           },
           {
-            "model": "Kadett I",
+            "name": "Kadett I",
             "year": 1936,
             "gen": "1936",
-            "country": "",
+            "market": "",
             "difficulty": 3,
             "imageUrls": [
               {
@@ -11854,15 +11931,16 @@
   },
   {
     "make": "Pagani",
-    "groups": [
+    "country": "Italy",
+    "models": [
       {
         "name": "Huayra",
         "variants": [
           {
-            "model": "Huayra",
+            "name": "Huayra",
             "year": 2012,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -11888,10 +11966,10 @@
         "name": "Huayra BC",
         "variants": [
           {
-            "model": "Huayra BC",
+            "name": "Huayra BC",
             "year": 2016,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -11912,10 +11990,10 @@
         "name": "Zonda Cinque",
         "variants": [
           {
-            "model": "Zonda Cinque Roadster",
+            "name": "Zonda Cinque Roadster",
             "year": 2009,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -11936,10 +12014,10 @@
         "name": "Zonda R",
         "variants": [
           {
-            "model": "Zonda R",
+            "name": "Zonda R",
             "year": 2010,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -11955,15 +12033,16 @@
   },
   {
     "make": "Peel",
-    "groups": [
+    "country": "UK",
+    "models": [
       {
         "name": "P50",
         "variants": [
           {
-            "model": "P50",
+            "name": "P50",
             "year": 1962,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -11994,10 +12073,10 @@
         "name": "Trident",
         "variants": [
           {
-            "model": "Trident",
+            "name": "Trident",
             "year": 1965,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -12013,15 +12092,16 @@
   },
   {
     "make": "Peugeot",
-    "groups": [
+    "country": "France",
+    "models": [
       {
         "name": "205 Rallye",
         "variants": [
           {
-            "model": "205 Rallye",
+            "name": "205 Rallye",
             "year": 1991,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -12042,10 +12122,10 @@
         "name": "205 T16",
         "variants": [
           {
-            "model": "205 T16",
+            "name": "205 T16",
             "year": 1984,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -12066,15 +12146,16 @@
   },
   {
     "make": "Plymouth",
-    "groups": [
+    "country": "USA",
+    "models": [
       {
         "name": "Cuda 426 Hemi",
         "variants": [
           {
-            "model": "Cuda",
+            "name": "Cuda",
             "year": 1971,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -12130,15 +12211,16 @@
   },
   {
     "make": "Pontiac",
-    "groups": [
+    "country": "USA",
+    "models": [
       {
         "name": "Firebird",
         "variants": [
           {
-            "model": "Firebird",
+            "name": "Firebird",
             "year": 1973,
             "gen": "2nd Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -12174,10 +12256,10 @@
             ]
           },
           {
-            "model": "Firebird",
+            "name": "Firebird",
             "year": 1977,
             "gen": "2nd Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -12213,10 +12295,10 @@
             ]
           },
           {
-            "model": "Firebird",
+            "name": "Firebird",
             "year": 1987,
             "gen": "3rd Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -12247,10 +12329,10 @@
             ]
           },
           {
-            "model": "Firebird",
+            "name": "Firebird",
             "year": 1995,
             "gen": "4th Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -12286,10 +12368,10 @@
         "name": "GTO",
         "variants": [
           {
-            "model": "GTO",
+            "name": "GTO",
             "year": 1965,
             "gen": "1st Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -12315,10 +12397,10 @@
             ]
           },
           {
-            "model": "GTO Judge",
+            "name": "GTO Judge",
             "year": 1969,
             "gen": "2nd Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -12349,15 +12431,16 @@
   },
   {
     "make": "Porsche",
-    "groups": [
+    "country": "Germany",
+    "models": [
       {
         "name": "#23 917/20",
         "variants": [
           {
-            "model": "#23 917/20",
+            "name": "#23 917/20",
             "year": 1971,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -12383,10 +12466,10 @@
         "name": "356 A 1600 Super",
         "variants": [
           {
-            "model": "356 A 1600 Super",
+            "name": "356 A 1600 Super",
             "year": 1959,
             "gen": "2nd Gen",
-            "country": "",
+            "market": "",
             "difficulty": 3,
             "imageUrls": [
               {
@@ -12406,10 +12489,10 @@
         "name": "356A Speedster",
         "variants": [
           {
-            "model": "356A Speedster",
+            "name": "356A Speedster",
             "year": 1957,
             "gen": "2nd Gen",
-            "country": "",
+            "market": "",
             "difficulty": 3,
             "imageUrls": [
               {
@@ -12449,10 +12532,10 @@
         "name": "718",
         "variants": [
           {
-            "model": "718 RS 60",
+            "name": "718 RS 60",
             "year": 1960,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -12473,10 +12556,10 @@
         "name": "718 Cayman GTS",
         "variants": [
           {
-            "model": "718 Cayman GTS",
+            "name": "718 Cayman GTS",
             "year": 2018,
             "gen": "4th Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -12502,10 +12585,10 @@
         "name": "906 Carrera 6",
         "variants": [
           {
-            "model": "906 Carrera 6",
+            "name": "906 Carrera 6",
             "year": 1966,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -12536,10 +12619,10 @@
         "name": "911 Carrera",
         "variants": [
           {
-            "model": "911 Carrera RS",
+            "name": "911 Carrera RS",
             "year": 1973,
             "gen": "1st Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -12580,10 +12663,10 @@
         "name": "911 Carrera S",
         "variants": [
           {
-            "model": "911 Carrera S",
+            "name": "911 Carrera S",
             "year": 2019,
             "gen": "8th Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -12614,10 +12697,10 @@
         "name": "911 GT1 Strassenversion",
         "variants": [
           {
-            "model": "911 GT1 Strassenversion",
+            "name": "911 GT1 Strassenversion",
             "year": 1998,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -12643,10 +12726,10 @@
         "name": "911 GT2",
         "variants": [
           {
-            "model": "911 GT2",
+            "name": "911 GT2",
             "year": 1995,
             "gen": "4th Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -12677,10 +12760,10 @@
             ]
           },
           {
-            "model": "911 GT2 RS",
+            "name": "911 GT2 RS",
             "year": 2012,
             "gen": "6th Gen",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -12701,10 +12784,10 @@
             ]
           },
           {
-            "model": "911 GT2 RS",
+            "name": "911 GT2 RS",
             "year": 2018,
             "gen": "7th Gen",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -12735,10 +12818,10 @@
         "name": "911 GT3",
         "variants": [
           {
-            "model": "911 GT3",
+            "name": "911 GT3",
             "year": 2004,
             "gen": "5th Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -12754,10 +12837,10 @@
             ]
           },
           {
-            "model": "911 GT3 RS 4.0",
+            "name": "911 GT3 RS 4.0",
             "year": 2012,
             "gen": "6th Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -12783,10 +12866,10 @@
             ]
           },
           {
-            "model": "911 GT3 RS",
+            "name": "911 GT3 RS",
             "year": 2016,
             "gen": "7th Gen",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -12807,10 +12890,10 @@
             ]
           },
           {
-            "model": "911 GT3 RS",
+            "name": "911 GT3 RS",
             "year": 2019,
             "gen": "7th Gen",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -12841,10 +12924,10 @@
         "name": "911 Turbo 3.3",
         "variants": [
           {
-            "model": "911 Turbo 3.3",
+            "name": "911 Turbo 3.3",
             "year": 1982,
             "gen": "2nd Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -12865,10 +12948,10 @@
         "name": "911 Turbo S",
         "variants": [
           {
-            "model": "911 Turbo S",
+            "name": "911 Turbo S",
             "year": 2014,
             "gen": "7th Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -12899,10 +12982,10 @@
         "name": "914/6",
         "variants": [
           {
-            "model": "914/6",
+            "name": "914/6",
             "year": 1970,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -12938,10 +13021,10 @@
         "name": "917 LH",
         "variants": [
           {
-            "model": "917 LH",
+            "name": "917 LH",
             "year": 1970,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -12977,10 +13060,10 @@
         "name": "918",
         "variants": [
           {
-            "model": "918 Spyder",
+            "name": "918 Spyder",
             "year": 2014,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -13006,10 +13089,10 @@
         "name": "944 Turbo",
         "variants": [
           {
-            "model": "944 Turbo",
+            "name": "944 Turbo",
             "year": 1989,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -13045,10 +13128,10 @@
         "name": "959",
         "variants": [
           {
-            "model": "959",
+            "name": "959",
             "year": 1987,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -13068,10 +13151,10 @@
         "name": "Carrera",
         "variants": [
           {
-            "model": "Carrera GT",
+            "name": "Carrera GT",
             "year": 2003,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -13087,10 +13170,10 @@
         "name": "Cayenne Turbo",
         "variants": [
           {
-            "model": "Cayenne Turbo",
+            "name": "Cayenne Turbo",
             "year": 2012,
             "gen": "2nd Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -13121,10 +13204,10 @@
         "name": "Cayman GT4",
         "variants": [
           {
-            "model": "Cayman GT4",
+            "name": "Cayman GT4",
             "year": 2016,
             "gen": "3rd Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -13160,10 +13243,10 @@
         "name": "Cayman GTS",
         "variants": [
           {
-            "model": "Cayman GTS",
+            "name": "Cayman GTS",
             "year": 2015,
             "gen": "3rd Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -13199,10 +13282,10 @@
         "name": "Macan Turbo",
         "variants": [
           {
-            "model": "Macan Turbo",
+            "name": "Macan Turbo",
             "year": 2015,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -13223,10 +13306,10 @@
         "name": "Panamera Turbo",
         "variants": [
           {
-            "model": "Panamera Turbo",
+            "name": "Panamera Turbo",
             "year": 2017,
             "gen": "2nd Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -13257,15 +13340,16 @@
   },
   {
     "make": "RAM",
-    "groups": [
+    "country": "USA",
+    "models": [
       {
         "name": "2500 Power Wagon",
         "variants": [
           {
-            "model": "2500 Power Wagon",
+            "name": "2500 Power Wagon",
             "year": 2017,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -13286,15 +13370,16 @@
   },
   {
     "make": "Renault",
-    "groups": [
+    "country": "France",
+    "models": [
       {
         "name": "5 Turbo",
         "variants": [
           {
-            "model": "5 Turbo",
+            "name": "5 Turbo",
             "year": 1980,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -13325,10 +13410,10 @@
         "name": "Alpine A110 1600S",
         "variants": [
           {
-            "model": "Alpine A110 1600S",
+            "name": "Alpine A110 1600S",
             "year": 1973,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -13359,10 +13444,10 @@
         "name": "Clio",
         "variants": [
           {
-            "model": "Clio",
+            "name": "Clio",
             "year": 2007,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -13388,10 +13473,10 @@
             ]
           },
           {
-            "model": "Clio",
+            "name": "Clio",
             "year": 2010,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -13417,18 +13502,18 @@
             ]
           },
           {
-            "model": "Clio",
+            "name": "Clio",
             "year": 2013,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": []
           },
           {
-            "model": "Clio Williams",
+            "name": "Clio Williams",
             "year": 1993,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -13449,10 +13534,10 @@
             ]
           },
           {
-            "model": "Sport Clio V6",
+            "name": "Sport Clio V6",
             "year": 2003,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -13510,10 +13595,10 @@
         "name": "Megane",
         "variants": [
           {
-            "model": "Megane",
+            "name": "Megane",
             "year": 2018,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -13539,10 +13624,10 @@
             ]
           },
           {
-            "model": "Megane",
+            "name": "Megane",
             "year": 2010,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -13568,10 +13653,10 @@
             ]
           },
           {
-            "model": "Megane",
+            "name": "Megane",
             "year": 2008,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": []
           }
@@ -13581,7 +13666,8 @@
   },
   {
     "make": "Saleen",
-    "groups": [
+    "country": "USA",
+    "models": [
       {
         "name": "S5S Raptor",
         "variants": []
@@ -13590,10 +13676,10 @@
         "name": "S7",
         "variants": [
           {
-            "model": "S7",
+            "name": "S7",
             "year": 2004,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -13614,15 +13700,16 @@
   },
   {
     "make": "Shelby",
-    "groups": [
+    "country": "USA",
+    "models": [
       {
         "name": "Cobra 427 S/C",
         "variants": [
           {
-            "model": "Cobra 427 S/C",
+            "name": "Cobra 427 S/C",
             "year": 1965,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -13648,10 +13735,10 @@
         "name": "Cobra Daytona",
         "variants": [
           {
-            "model": "Cobra Daytona Coupe",
+            "name": "Cobra Daytona Coupe",
             "year": 1965,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -13687,15 +13774,16 @@
   },
   {
     "make": "Subaru",
-    "groups": [
+    "country": "Japan",
+    "models": [
       {
         "name": "BRZ",
         "variants": [
           {
-            "model": "BRZ",
+            "name": "BRZ",
             "year": 2013,
             "gen": "1st Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -13721,10 +13809,10 @@
         "name": "WRX",
         "variants": [
           {
-            "model": "Impreza 22B STI",
+            "name": "Impreza 22B STI",
             "year": 1998,
             "gen": "1st Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -13760,10 +13848,10 @@
             ]
           },
           {
-            "model": "Impreza WRX STI",
+            "name": "Impreza WRX STI",
             "year": 2004,
             "gen": "2nd Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -13794,10 +13882,10 @@
             ]
           },
           {
-            "model": "Impreza WRX STI",
+            "name": "Impreza WRX STI",
             "year": 2005,
             "gen": "2nd Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -13823,10 +13911,10 @@
             ]
           },
           {
-            "model": "Impreza WRX STI",
+            "name": "Impreza WRX STI",
             "year": 2008,
             "gen": "3rd Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -13837,10 +13925,10 @@
             ]
           },
           {
-            "model": "WRX STI",
+            "name": "WRX STI",
             "year": 2011,
             "gen": "3rd Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -13861,10 +13949,10 @@
             ]
           },
           {
-            "model": "WRX STI",
+            "name": "WRX STI",
             "year": 2015,
             "gen": "4th Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -13885,10 +13973,10 @@
         "name": "Legacy",
         "variants": [
           {
-            "model": "Legacy RS",
+            "name": "Legacy RS",
             "year": 1990,
             "gen": "1st Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -13909,15 +13997,16 @@
   },
   {
     "make": "TVR",
-    "groups": [
+    "country": "UK",
+    "models": [
       {
         "name": "Cerbera Speed 12",
         "variants": [
           {
-            "model": "Cerbera Speed 12",
+            "name": "Cerbera Speed 12",
             "year": 1998,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -13952,10 +14041,10 @@
         "name": "Sagaris",
         "variants": [
           {
-            "model": "Sagaris",
+            "name": "Sagaris",
             "year": 2005,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -13986,10 +14075,10 @@
         "name": "Tuscan S",
         "variants": [
           {
-            "model": "Tuscan S",
+            "name": "Tuscan S",
             "year": 2001,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -14020,15 +14109,16 @@
   },
   {
     "make": "Talbot",
-    "groups": [
+    "country": "France",
+    "models": [
       {
         "name": "Sunbeam Lotus",
         "variants": [
           {
-            "model": "Sunbeam Lotus",
+            "name": "Sunbeam Lotus",
             "year": 1979,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -14049,15 +14139,16 @@
   },
   {
     "make": "Toyota",
-    "groups": [
+    "country": "Japan",
+    "models": [
       {
         "name": "2000GT",
         "variants": [
           {
-            "model": "2000GT",
+            "name": "2000GT",
             "year": 1969,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -14083,10 +14174,10 @@
         "name": "Celica",
         "variants": [
           {
-            "model": "Celica GT",
+            "name": "Celica GT",
             "year": 1974,
             "gen": "1st Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -14117,10 +14208,10 @@
             ]
           },
           {
-            "model": "Celica GT-Four ST185",
+            "name": "Celica GT-Four ST185",
             "year": 1992,
             "gen": "2nd Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -14141,10 +14232,10 @@
             ]
           },
           {
-            "model": "Celica GT-Four ST205",
+            "name": "Celica GT-Four ST205",
             "year": 1994,
             "gen": "3rd Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -14175,10 +14266,10 @@
         "name": "Corolla SR5",
         "variants": [
           {
-            "model": "Corolla SR5",
+            "name": "Corolla SR5",
             "year": 1974,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -14199,10 +14290,10 @@
         "name": "GT86",
         "variants": [
           {
-            "model": "GT86",
+            "name": "GT86",
             "year": 2013,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -14223,10 +14314,10 @@
         "name": "MR2",
         "variants": [
           {
-            "model": "MR2 SC",
+            "name": "MR2 SC",
             "year": 1989,
             "gen": "1st Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -14242,10 +14333,10 @@
             ]
           },
           {
-            "model": "MR2 GT",
+            "name": "MR2 GT",
             "year": 1995,
             "gen": "2nd Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -14291,10 +14382,10 @@
         "name": "Sprinter Trueno",
         "variants": [
           {
-            "model": "Sprinter Trueno GT Apex",
+            "name": "Sprinter Trueno GT Apex",
             "year": 1985,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -14320,10 +14411,10 @@
         "name": "Supra",
         "variants": [
           {
-            "model": "Supra 2.0 GT Twin Turbo",
+            "name": "Supra 2.0 GT Twin Turbo",
             "year": 1992,
             "gen": "3rd Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -14349,10 +14440,10 @@
             ]
           },
           {
-            "model": "Supra RZ",
+            "name": "Supra RZ",
             "year": 1998,
             "gen": "4th Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -14388,15 +14479,16 @@
   },
   {
     "make": "Vauxhall",
-    "groups": [
+    "country": "UK",
+    "models": [
       {
         "name": "Astra VXR",
         "variants": [
           {
-            "model": "Astra VXR",
+            "name": "Astra VXR",
             "year": 2012,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": []
           }
@@ -14406,10 +14498,10 @@
         "name": "Corsa VXR",
         "variants": [
           {
-            "model": "Corsa VXR",
+            "name": "Corsa VXR",
             "year": 2009,
             "gen": "1st Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -14430,10 +14522,10 @@
             ]
           },
           {
-            "model": "Corsa VXR",
+            "name": "Corsa VXR",
             "year": 2016,
             "gen": "2nd Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -14454,10 +14546,10 @@
         "name": "Insignia VXR",
         "variants": [
           {
-            "model": "Insignia VXR",
+            "name": "Insignia VXR",
             "year": 2010,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -14478,10 +14570,10 @@
         "name": "Lotus Carlton",
         "variants": [
           {
-            "model": "Lotus Carlton",
+            "name": "Lotus Carlton",
             "year": 1990,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -14517,10 +14609,10 @@
         "name": "Monaro VRX",
         "variants": [
           {
-            "model": "Monaro VRX",
+            "name": "Monaro VRX",
             "year": 2005,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": []
           }
@@ -14530,10 +14622,10 @@
         "name": "VX220 Turbo",
         "variants": [
           {
-            "model": "VX220 Turbo",
+            "name": "VX220 Turbo",
             "year": 2004,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -14559,15 +14651,16 @@
   },
   {
     "make": "Volkswagen",
-    "groups": [
+    "country": "Germany",
+    "models": [
       {
         "name": "Beetle",
         "variants": [
           {
-            "model": "Beetle",
+            "name": "Beetle",
             "year": 1963,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -14598,10 +14691,10 @@
         "name": "Corrado VR6",
         "variants": [
           {
-            "model": "Corrado VR6",
+            "name": "Corrado VR6",
             "year": 1995,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -14637,10 +14730,10 @@
         "name": "Double Cab Pick-up",
         "variants": [
           {
-            "model": "Double Cab Pick-up",
+            "name": "Double Cab Pick-up",
             "year": 1966,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -14656,18 +14749,18 @@
         "name": "Golf",
         "variants": [
           {
-            "model": "Golf R",
+            "name": "Golf R",
             "year": 2010,
             "gen": "6th Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": []
           },
           {
-            "model": "Golf R",
+            "name": "Golf R",
             "year": 2014,
             "gen": "7th Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -14693,10 +14786,10 @@
             ]
           },
           {
-            "model": "Golf GTI",
+            "name": "Golf GTI",
             "year": 1983,
             "gen": "1st Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -14727,10 +14820,10 @@
             ]
           },
           {
-            "model": "Golf R32",
+            "name": "Golf R32",
             "year": 2003,
             "gen": "4th Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -14761,10 +14854,10 @@
         "name": "Scirocco",
         "variants": [
           {
-            "model": "Scirocco R",
+            "name": "Scirocco R",
             "year": 2011,
             "gen": "3rd Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -14785,10 +14878,10 @@
             ]
           },
           {
-            "model": "Scirocco S",
+            "name": "Scirocco S",
             "year": 1981,
             "gen": "1st Gen",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -14814,10 +14907,10 @@
         "name": "Touareg R50",
         "variants": [
           {
-            "model": "Touareg R50",
+            "name": "Touareg R50",
             "year": 2008,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -14843,7 +14936,8 @@
   },
   {
     "make": "Volvo",
-    "groups": [
+    "country": "Sweden",
+    "models": [
       {
         "name": "242 Turbo Evolution",
         "variants": []
@@ -14860,10 +14954,10 @@
         "name": "V60 Polestar",
         "variants": [
           {
-            "model": "V60 Polestar",
+            "name": "V60 Polestar",
             "year": 2015,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -14884,10 +14978,10 @@
         "name": "242 Turbo",
         "variants": [
           {
-            "model": "242 Turbo",
+            "name": "242 Turbo",
             "year": 1983,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -14933,10 +15027,10 @@
         "name": "850",
         "variants": [
           {
-            "model": "850",
+            "name": "850",
             "year": 1997,
             "gen": "",
-            "country": "",
+            "market": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -14957,7 +15051,8 @@
   },
   {
     "make": "Ambulance",
-    "groups": [
+    "country": "",
+    "models": [
       {
         "name": "Ambulance",
         "variants": []
@@ -14966,10 +15061,41 @@
   },
   {
     "make": "Harley-Davidson",
-    "groups": [
+    "country": "",
+    "models": [
       {
         "name": "Fat Boy",
         "variants": []
+      }
+    ]
+  },
+  {
+    "make": "British Racing Motors",
+    "country": "",
+    "models": [
+      {
+        "name": "BRM P160B",
+        "variants": [
+          {
+            "name": "BRM P160B",
+            "year": 1972,
+            "gen": "",
+            "market": "",
+            "difficulty": 3,
+            "imageUrls": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/1972_French_Grand_Prix_Wisell_%285225628691%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "https://www.flickr.com/photos/zantafio56/",
+                "license": "CC BY-SA 2.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/BRM_P160B_Nase.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Lukas Raich",
+                "license": "CC BY-SA 4.0"
+              }
+            ]
+          }
+        ]
       }
     ]
   }
