@@ -9,7 +9,7 @@
             "model": "GT",
             "year": 2018,
             "gen": "",
-            "country": "Germany",
+            "country": "",
             "difficulty": 3,
             "imageUrls": [
               {
@@ -38,7 +38,7 @@
             "model": "124 Spider",
             "year": 2017,
             "gen": "",
-            "country": "Italy",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -67,7 +67,7 @@
             "model": "595 Esseesse",
             "year": 1968,
             "gen": "",
-            "country": "Italy",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -91,7 +91,7 @@
             "model": "695 Biposto",
             "year": 2016,
             "gen": "",
-            "country": "Italy",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -115,7 +115,7 @@
             "model": "Fiat 131",
             "year": 1980,
             "gen": "",
-            "country": "Italy",
+            "country": "",
             "difficulty": 3,
             "imageUrls": [
               {
@@ -144,7 +144,7 @@
             "model": "Integra Type-R",
             "year": 2001,
             "gen": "",
-            "country": "Japan",
+            "country": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -178,7 +178,7 @@
             "model": "NSX",
             "year": 2017,
             "gen": "",
-            "country": "Japan",
+            "country": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -202,7 +202,7 @@
             "model": "RSX Type-S",
             "year": 2002,
             "gen": "",
-            "country": "Japan",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -251,7 +251,7 @@
             "model": "33 Stradale",
             "year": 1968,
             "gen": "",
-            "country": "Italy",
+            "country": "",
             "difficulty": 3,
             "imageUrls": [
               {
@@ -285,7 +285,7 @@
             "model": "4C",
             "year": 2014,
             "gen": "",
-            "country": "Italy",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -304,7 +304,7 @@
             "model": "8C Competizione",
             "year": 2008,
             "gen": "",
-            "country": "Italy",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -328,7 +328,7 @@
             "model": "Giulia",
             "year": 2017,
             "gen": "2nd Gen",
-            "country": "Italy",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -377,7 +377,7 @@
             "model": "Giulia Sprint GTA Stradale",
             "year": 1965,
             "gen": "1st Gen",
-            "country": "Italy",
+            "country": "",
             "difficulty": 3,
             "imageUrls": [
               {
@@ -421,7 +421,7 @@
             "model": "Giulia TZ2",
             "year": 1965,
             "gen": "",
-            "country": "Italy",
+            "country": "",
             "difficulty": 3,
             "imageUrls": [
               {
@@ -516,7 +516,7 @@
             "model": "P3",
             "year": 1934,
             "gen": "",
-            "country": "Italy",
+            "country": "",
             "difficulty": 3,
             "imageUrls": [
               {
@@ -540,7 +540,7 @@
             "model": "Stelvio Quadrifoglio",
             "year": 2018,
             "gen": "",
-            "country": "Italy",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -569,7 +569,7 @@
             "model": "A110",
             "year": 2017,
             "gen": "2st gen",
-            "country": "France",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -598,7 +598,7 @@
             "model": "Intensa Emozione",
             "year": 2018,
             "gen": "",
-            "country": "Germany",
+            "country": "",
             "difficulty": 3,
             "imageUrls": [
               {
@@ -632,7 +632,7 @@
             "model": "KZ1R",
             "year": 2012,
             "gen": "",
-            "country": "UK",
+            "country": "",
             "difficulty": 3,
             "imageUrls": [
               {
@@ -661,7 +661,7 @@
             "model": "DB11",
             "year": 2017,
             "gen": "",
-            "country": "UK",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -695,7 +695,7 @@
             "model": "DB4 GT Zagato",
             "year": 1960,
             "gen": "",
-            "country": "UK",
+            "country": "",
             "difficulty": 3,
             "imageUrls": [
               {
@@ -724,7 +724,7 @@
             "model": "DB5",
             "year": 1964,
             "gen": "",
-            "country": "UK",
+            "country": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -763,7 +763,7 @@
             "model": "DBR1",
             "year": 1958,
             "gen": "",
-            "country": "UK",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -792,7 +792,7 @@
             "model": "DBS Superleggera",
             "year": 2019,
             "gen": "",
-            "country": "UK",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -816,7 +816,7 @@
             "model": "One-77",
             "year": 2010,
             "gen": "",
-            "country": "UK",
+            "country": "",
             "difficulty": 3,
             "imageUrls": [
               {
@@ -840,7 +840,7 @@
             "model": "V12 Vantage S",
             "year": 2013,
             "gen": "",
-            "country": "UK",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -859,7 +859,7 @@
             "model": "Vanquish",
             "year": 2012,
             "gen": "",
-            "country": "UK",
+            "country": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -893,7 +893,7 @@
             "model": "Vanquish Zagato Coupe",
             "year": 2017,
             "gen": "",
-            "country": "UK",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -927,7 +927,7 @@
             "model": "Vantage",
             "year": 2018,
             "gen": "",
-            "country": "UK",
+            "country": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -951,7 +951,7 @@
             "model": "Vantage GT12",
             "year": 2016,
             "gen": "",
-            "country": "UK",
+            "country": "",
             "difficulty": 3,
             "imageUrls": [
               {
@@ -990,7 +990,7 @@
             "model": "Vulcan",
             "year": 2016,
             "gen": "",
-            "country": "UK",
+            "country": "",
             "difficulty": 3,
             "imageUrls": [
               {
@@ -1033,7 +1033,7 @@
             "model": "R8 Coupe V10",
             "year": 2013,
             "gen": "1st Gen",
-            "country": "Germany",
+            "country": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -1057,7 +1057,7 @@
             "model": "R8 V10 Plus",
             "year": 2016,
             "gen": "2nd Gen",
-            "country": "Germany",
+            "country": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -1081,16 +1081,7 @@
       },
       {
         "name": "RS 2",
-        "variants": [
-          {
-            "model": "RS 2 Avant",
-            "year": 1995,
-            "gen": "",
-            "country": "Germany",
-            "difficulty": 2,
-            "imageUrls": []
-          }
-        ]
+        "variants": []
       },
       {
         "name": "RS 3",
@@ -1099,7 +1090,7 @@
             "model": "RS 3 Sportback",
             "year": 2011,
             "gen": "",
-            "country": "Germany",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -1133,7 +1124,7 @@
             "model": "RS 4 Avant",
             "year": 2001,
             "gen": "1st Gen",
-            "country": "Germany",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -1162,7 +1153,7 @@
             "model": "RS 4",
             "year": 2006,
             "gen": "2nd Gen",
-            "country": "Germany",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -1181,7 +1172,7 @@
             "model": "RS 4 Avant",
             "year": 2013,
             "gen": "3rd Gen",
-            "country": "Germany",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -1200,7 +1191,7 @@
             "model": "RS 5 Coupe",
             "year": 2011,
             "gen": "",
-            "country": "Germany",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -1224,7 +1215,7 @@
             "model": "RS 6",
             "year": 2003,
             "gen": "1st Gen",
-            "country": "Germany",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -1238,7 +1229,7 @@
             "model": "RS 6",
             "year": 2009,
             "gen": "2nd Gen",
-            "country": "Germany",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -1262,7 +1253,7 @@
             "model": "RS 6 Avant",
             "year": 2015,
             "gen": "3rd Gen",
-            "country": "Germany",
+            "country": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -1286,7 +1277,7 @@
             "model": "RS 7 Sportback",
             "year": 2013,
             "gen": "",
-            "country": "Germany",
+            "country": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -1305,7 +1296,7 @@
             "model": "S1",
             "year": 2015,
             "gen": "",
-            "country": "Germany",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -1329,7 +1320,7 @@
             "model": "TT",
             "year": 2010,
             "gen": "2nd Gen",
-            "country": "Germany",
+            "country": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -1388,7 +1379,7 @@
             "model": "TT",
             "year": 2015,
             "gen": "3rd Gen",
-            "country": "Germany",
+            "country": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -1495,7 +1486,7 @@
             "model": "3000 MKIII",
             "year": 1965,
             "gen": "",
-            "country": "UK",
+            "country": "",
             "difficulty": 3,
             "imageUrls": [
               {
@@ -1534,7 +1525,7 @@
             "model": "Sprite MKI",
             "year": 1958,
             "gen": "",
-            "country": "UK",
+            "country": "",
             "difficulty": 3,
             "imageUrls": [
               {
@@ -1568,7 +1559,7 @@
             "model": "1 Series M Coupe",
             "year": 2011,
             "gen": "",
-            "country": "Germany",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -1604,7 +1595,28 @@
             "gen": "",
             "country": "",
             "difficulty": 2,
-            "imageUrls": []
+            "imageUrls": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/BMW_2002_Turbo_dutch_licence_registration_38-FP-18_pic2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "AlfvanBeem",
+                "license": "CC0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/BMW_2002_Turbo_%282008-06-28%29_ret.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Spurzem - Lothar Spurzem",
+                "license": "CC BY-SA 2.0 de"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/1974_BMW_2002_turbo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Herranderssvensson",
+                "license": "CC BY-SA 3.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/BMW_2002_Turbo_%284018917401%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "nakhon100",
+                "license": "CC BY 2.0"
+              }
+            ]
           }
         ]
       },
@@ -1615,7 +1627,7 @@
             "model": "323ti",
             "year": 2000,
             "gen": "",
-            "country": "Germany",
+            "country": "",
             "difficulty": 3,
             "imageUrls": [
               {
@@ -1654,7 +1666,7 @@
             "model": "I8",
             "year": 2016,
             "gen": "1st Gen",
-            "country": "Germany",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -1678,7 +1690,7 @@
             "model": "I8 Roadster",
             "year": 2018,
             "gen": "1st Gen",
-            "country": "Germany",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -1712,7 +1724,7 @@
             "model": "ISetta 300 Export",
             "year": 1957,
             "gen": "",
-            "country": "Germany",
+            "country": "",
             "difficulty": 3,
             "imageUrls": [
               {
@@ -1736,7 +1748,7 @@
             "model": "M1",
             "year": 1981,
             "gen": "",
-            "country": "Germany",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -1770,7 +1782,7 @@
             "model": "M2 Coupe",
             "year": 2016,
             "gen": "",
-            "country": "Germany",
+            "country": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -1804,7 +1816,7 @@
             "model": "M3",
             "year": 1991,
             "gen": "1st Gen",
-            "country": "Germany",
+            "country": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -1833,7 +1845,7 @@
             "model": "M3",
             "year": 1997,
             "gen": "2nd Gen",
-            "country": "Germany",
+            "country": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -1862,7 +1874,7 @@
             "model": "M3-GTR",
             "year": 2002,
             "gen": "3rd Gen",
-            "country": "Germany",
+            "country": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -1881,7 +1893,7 @@
             "model": "M3",
             "year": 2005,
             "gen": "3rd Gen",
-            "country": "Germany",
+            "country": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -1905,7 +1917,7 @@
             "model": "M3",
             "year": 2008,
             "gen": "4th Gen",
-            "country": "Germany",
+            "country": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -1929,7 +1941,7 @@
             "model": "M3 GTS",
             "year": 2010,
             "gen": "4th Gen",
-            "country": "Germany",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -1973,7 +1985,7 @@
             "model": "M4 Coupe",
             "year": 2014,
             "gen": "1st Gen",
-            "country": "Germany",
+            "country": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -1997,7 +2009,7 @@
             "model": "M4 GTS",
             "year": 2016,
             "gen": "1st Gen",
-            "country": "Germany",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -2031,7 +2043,7 @@
             "model": "M5",
             "year": 1988,
             "gen": "1st Gen",
-            "country": "Germany",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -2050,7 +2062,7 @@
             "model": "M5",
             "year": 1995,
             "gen": "2nd Gen",
-            "country": "Germany",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -2079,7 +2091,7 @@
             "model": "M5",
             "year": 2003,
             "gen": "3rd Gen",
-            "country": "Germany",
+            "country": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -2108,7 +2120,7 @@
             "model": "M5",
             "year": 2009,
             "gen": "4th Gen",
-            "country": "Germany",
+            "country": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -2127,7 +2139,7 @@
             "model": "M5",
             "year": 2012,
             "gen": "5th Gen",
-            "country": "Germany",
+            "country": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -2151,7 +2163,7 @@
             "model": "M5",
             "year": 2018,
             "gen": "6th Gen",
-            "country": "Germany",
+            "country": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -2185,7 +2197,7 @@
             "model": "M6 Coupe",
             "year": 2013,
             "gen": "",
-            "country": "Germany",
+            "country": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -2224,7 +2236,7 @@
             "model": "X5 M",
             "year": 2011,
             "gen": "",
-            "country": "Germany",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -2253,7 +2265,7 @@
             "model": "X6 M",
             "year": 2015,
             "gen": "",
-            "country": "Germany",
+            "country": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -2277,7 +2289,7 @@
             "model": "Z3 M Coupe",
             "year": 2002,
             "gen": "",
-            "country": "Germany",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -2296,7 +2308,7 @@
             "model": "Z4",
             "year": 2019,
             "gen": "3rd Gen",
-            "country": "Germany",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -2320,7 +2332,7 @@
             "model": "Z4",
             "year": 2008,
             "gen": "1st Gen",
-            "country": "Germany",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -2364,7 +2376,7 @@
             "model": "Z4",
             "year": 2011,
             "gen": "2nd Gen",
-            "country": "Germany",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -2408,7 +2420,7 @@
             "model": "2002 Turbo",
             "year": 1973,
             "gen": "",
-            "country": "Germany",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -2471,7 +2483,7 @@
             "model": "Bentayga",
             "year": 2016,
             "gen": "",
-            "country": "UK",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -2505,7 +2517,7 @@
             "model": "Continental GT Speed",
             "year": 2013,
             "gen": "",
-            "country": "UK",
+            "country": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -2539,7 +2551,7 @@
             "model": "Continental Supersports",
             "year": 2017,
             "gen": "",
-            "country": "UK",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -2573,7 +2585,7 @@
             "model": "Turbo R",
             "year": 1992,
             "gen": "",
-            "country": "UK",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -2617,7 +2629,7 @@
             "model": "Chiron",
             "year": 2018,
             "gen": "",
-            "country": "France",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -2641,7 +2653,7 @@
             "model": "Divo",
             "year": 2019,
             "gen": "",
-            "country": "France",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -2665,7 +2677,7 @@
             "model": "EB110 Super Sport",
             "year": 1992,
             "gen": "",
-            "country": "France",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -2684,7 +2696,7 @@
             "model": "Veyron Super Sport",
             "year": 2011,
             "gen": "",
-            "country": "France",
+            "country": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -2718,7 +2730,7 @@
             "model": "GSX",
             "year": 1970,
             "gen": "",
-            "country": "USA",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -2767,7 +2779,7 @@
             "model": "Regal GNX",
             "year": 1987,
             "gen": "",
-            "country": "USA",
+            "country": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -2791,7 +2803,7 @@
             "model": "ATS-V",
             "year": 2016,
             "gen": "",
-            "country": "USA",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -2820,7 +2832,7 @@
             "model": "CTS-V Sedan",
             "year": 2016,
             "gen": "",
-            "country": "USA",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -2854,7 +2866,7 @@
             "model": "Eldorado Biarritz Convertible",
             "year": 1959,
             "gen": "",
-            "country": "USA",
+            "country": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -2888,7 +2900,7 @@
             "model": "Escalade ESV",
             "year": 2012,
             "gen": "",
-            "country": "USA",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -2917,7 +2929,7 @@
             "model": "Bel Air",
             "year": 1957,
             "gen": "",
-            "country": "USA",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -2951,7 +2963,7 @@
             "model": "Camaro",
             "year": 1970,
             "gen": "2nd Gen",
-            "country": "USA",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -2985,7 +2997,7 @@
             "model": "Camaro ZL1",
             "year": 2017,
             "gen": "6th Gen",
-            "country": "USA",
+            "country": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -3009,7 +3021,7 @@
             "model": "Camaro ZL1 1LE",
             "year": 2018,
             "gen": "6th Gen",
-            "country": "USA",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -3042,7 +3054,7 @@
             "model": "Camaro Super Sport",
             "year": 1969,
             "gen": "1st Gen",
-            "country": "USA",
+            "country": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -3056,7 +3068,7 @@
             "model": "Camaro",
             "year": 2015,
             "gen": "5th Gen",
-            "country": "USA",
+            "country": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -3075,7 +3087,7 @@
             "model": "Chevelle Super Sport",
             "year": 1967,
             "gen": "1st Gen",
-            "country": "USA",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -3114,7 +3126,7 @@
             "model": "Chevelle Super Sport",
             "year": 1970,
             "gen": "2nd Gen",
-            "country": "USA",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -3158,7 +3170,7 @@
             "model": "Colorado",
             "year": 2017,
             "gen": "",
-            "country": "USA",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -3197,7 +3209,7 @@
             "model": "Corvette",
             "year": 1953,
             "gen": "53'",
-            "country": "USA",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -3226,7 +3238,7 @@
             "model": "Corvette",
             "year": 1960,
             "gen": "1st Gen",
-            "country": "USA",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -3260,7 +3272,7 @@
             "model": "Corvette",
             "year": 1967,
             "gen": "2nd Gen",
-            "country": "USA",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -3299,7 +3311,7 @@
             "model": "Corvette",
             "year": 2002,
             "gen": "5th Gen",
-            "country": "USA",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -3353,7 +3365,7 @@
             "model": "Corvette",
             "year": 2009,
             "gen": "6th Gen",
-            "country": "USA",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -3412,7 +3424,7 @@
             "model": "Corvette",
             "year": 2019,
             "gen": "7th Gen",
-            "country": "USA",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -3456,7 +3468,7 @@
             "model": "Corvette",
             "year": 1970,
             "gen": "3rd Gen",
-            "country": "USA",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -3500,7 +3512,7 @@
             "model": "Corvette",
             "year": 1995,
             "gen": "4th Gen",
-            "country": "USA",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -3549,7 +3561,7 @@
             "model": "El Camino Super Sport",
             "year": 1970,
             "gen": "",
-            "country": "USA",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -3593,7 +3605,7 @@
             "model": "Impala SS",
             "year": 1999,
             "gen": "",
-            "country": "USA",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -3632,7 +3644,7 @@
             "model": "Impala Super Sport",
             "year": 1964,
             "gen": "",
-            "country": "USA",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -3666,7 +3678,7 @@
             "model": "Monte Carlo Super Sport",
             "year": 1988,
             "gen": "",
-            "country": "USA",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -3715,7 +3727,7 @@
             "model": "Nova Super Sport",
             "year": 1966,
             "gen": "1st Gen",
-            "country": "USA",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -3744,7 +3756,7 @@
             "model": "Nova Super Sport",
             "year": 1969,
             "gen": "2nd Gen",
-            "country": "USA",
+            "country": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -3788,7 +3800,7 @@
             "model": "Challenger R/T",
             "year": 1970,
             "gen": "1st Gen",
-            "country": "USA",
+            "country": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -3822,7 +3834,7 @@
             "model": "Challenger SRT Hellcat",
             "year": 2015,
             "gen": "3rd Gen",
-            "country": "USA",
+            "country": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -3856,7 +3868,7 @@
             "model": "Charger R/T",
             "year": 1969,
             "gen": "2nd Gen",
-            "country": "USA",
+            "country": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -3890,7 +3902,7 @@
             "model": "Charger Daytona Hemi",
             "year": 1969,
             "gen": "",
-            "country": "USA",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -3919,7 +3931,7 @@
             "model": "Charger SRT Hellcat",
             "year": 2015,
             "gen": "7th Gen",
-            "country": "USA",
+            "country": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -3948,7 +3960,7 @@
             "model": "Dart",
             "year": 1968,
             "gen": "",
-            "country": "USA",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -4007,7 +4019,7 @@
             "model": "Durango SRT",
             "year": 2018,
             "gen": "",
-            "country": "USA",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -4031,7 +4043,7 @@
             "model": "Viper ACR",
             "year": 2016,
             "gen": "5th Gen",
-            "country": "USA",
+            "country": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -4060,7 +4072,7 @@
             "model": "Viper GTS",
             "year": 2013,
             "gen": "5th Gen",
-            "country": "USA",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -4084,7 +4096,7 @@
             "model": "Viper GTS",
             "year": 1999,
             "gen": "2nd Gen",
-            "country": "USA",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -4108,7 +4120,7 @@
             "model": "Viper SRT10 ACR",
             "year": 2008,
             "gen": "4th Gen",
-            "country": "USA",
+            "country": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -4147,7 +4159,7 @@
             "model": "166MM Barchetta",
             "year": 1948,
             "gen": "",
-            "country": "Italy",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -4176,7 +4188,7 @@
             "model": "250 GT Berlinetta Lusso",
             "year": 1962,
             "gen": "",
-            "country": "Italy",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -4210,7 +4222,7 @@
             "model": "250 California",
             "year": 1957,
             "gen": "",
-            "country": "Italy",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -4244,7 +4256,7 @@
             "model": "250 GTO",
             "year": 1962,
             "gen": "",
-            "country": "Italy",
+            "country": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -4278,7 +4290,7 @@
             "model": "250 Testa Rossa",
             "year": 1957,
             "gen": "",
-            "country": "Italy",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -4311,7 +4323,7 @@
             "model": "288 GTO",
             "year": 1984,
             "gen": "",
-            "country": "Italy",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -4344,13 +4356,13 @@
         ]
       },
       {
-        "name": "360 Challenge",
+        "name": "360",
         "variants": [
           {
-            "model": "360 Challenge Stradale",
+            "model": "360",
             "year": 2003,
             "gen": "",
-            "country": "Italy",
+            "country": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -4374,7 +4386,7 @@
             "model": "365 GTB/4",
             "year": 1968,
             "gen": "",
-            "country": "Italy",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -4407,15 +4419,46 @@
         ]
       },
       {
-        "name": "430 Scuderia",
+        "name": "430",
         "variants": [
           {
-            "model": "430 Scuderia",
+            "model": "430",
             "year": 2007,
             "gen": "",
-            "country": "Italy",
+            "country": "",
             "difficulty": 1,
-            "imageUrls": []
+            "imageUrls": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/2008_Ferrari_430_Scuderia.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Pilgab",
+                "license": "CC BY-SA 3.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Ferrari_F430_rear_end.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Pedro Simões",
+                "license": "CC BY 2.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Ferrari_430_%282565538223%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "nakhon100",
+                "license": "CC BY 2.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Ferarri_Ferrari_430_%286359190253%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Ben",
+                "license": "CC BY-SA 2.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Ferrari_430_%286398844811%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Ben",
+                "license": "CC BY-SA 2.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/2006_Ferrari_F430_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Calreyn88",
+                "license": "CC BY-SA 4.0"
+              }
+            ]
           }
         ]
       },
@@ -4426,7 +4469,7 @@
             "model": "458 Italia",
             "year": 2009,
             "gen": "",
-            "country": "Italy",
+            "country": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -4450,9 +4493,35 @@
             "model": "458 Speciale",
             "year": 2013,
             "gen": "",
-            "country": "Italy",
+            "country": "",
             "difficulty": 2,
-            "imageUrls": []
+            "imageUrls": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Ferrari_458_Speciale_-_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Ben / Benoit cars",
+                "license": "CC BY-SA 2.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Ferrari_458_Speciale_-_Avril_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Ben / Benoit cars",
+                "license": "CC BY-SA 2.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/2015_Ferrari_458_Speciale%2C_front_left.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Mr.choppers",
+                "license": "CC BY-SA 3.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Midosuji_World_Street_%288%29_-_Ferrari_458_Speciale_%28ABA-F142%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Tokumeigakarinoaoshima",
+                "license": "CC BY-SA 4.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Ferrari_458_Italia_4.5L_Speciale_coupe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Ethan Llamas",
+                "license": "CC BY-SA 4.0"
+              }
+            ]
           }
         ]
       },
@@ -4463,7 +4532,7 @@
             "model": "488 GTB",
             "year": 2015,
             "gen": "",
-            "country": "Italy",
+            "country": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -4492,7 +4561,7 @@
             "model": "488 Pista",
             "year": 2019,
             "gen": "",
-            "country": "Italy",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -4531,9 +4600,40 @@
             "model": "500 Mondial",
             "year": 1953,
             "gen": "",
-            "country": "Italy",
+            "country": "",
             "difficulty": 2,
-            "imageUrls": []
+            "imageUrls": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Ferrari_Monza_750_Bj._1955_-_KF_Bl%C3%B6chle_am_1981-08-15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Lothar Spurzem",
+                "license": "CC BY-SA 2.0 de"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Ferrari_500_Mondial_in_Schwabach.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Altmühltal Classic Sprint",
+                "license": "CC BY-SA 4.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Ferrari_500_Mondial_at_2014_Mille_Miglia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Marco 56",
+                "license": "CC BY 2.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/1955_Ferrari_500_Mondial_0528MD_at_Mille_Miglia_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Mirko Zammarchi from Italia",
+                "license": "CC BY-SA 2.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/1955-06-05_Mugello_Ferrari_500_Mondial_0512MD_Dalla_Favera.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Unknown photographer",
+                "license": "Public domain"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/1956-08-26_Kanonloppet_WINNER_Ferrari_500_0408MD_M%C3%A5rtensson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Unknown photographer",
+                "license": "Public domain"
+              }
+            ]
           }
         ]
       },
@@ -4544,7 +4644,7 @@
             "model": "512 S",
             "year": 1970,
             "gen": "",
-            "country": "Italy",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -4583,7 +4683,7 @@
             "model": "512 TR",
             "year": 1992,
             "gen": "",
-            "country": "Italy",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -4617,7 +4717,7 @@
             "model": "575M Maranello",
             "year": 2002,
             "gen": "",
-            "country": "Italy",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -4656,7 +4756,7 @@
             "model": "599 GTO",
             "year": 2010,
             "gen": "",
-            "country": "Italy",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -4690,7 +4790,7 @@
             "model": "599XX",
             "year": 2010,
             "gen": "",
-            "country": "Italy",
+            "country": "",
             "difficulty": 3,
             "imageUrls": [
               {
@@ -4704,16 +4804,7 @@
       },
       {
         "name": "599XX Evoluzione",
-        "variants": [
-          {
-            "model": "599XX Evoluzione",
-            "year": 2012,
-            "gen": "",
-            "country": "Italy",
-            "difficulty": 3,
-            "imageUrls": []
-          }
-        ]
+        "variants": []
       },
       {
         "name": "812 Superfast",
@@ -4722,7 +4813,7 @@
             "model": "812 Superfast",
             "year": 2017,
             "gen": "",
-            "country": "Italy",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -4751,7 +4842,7 @@
             "model": "California T",
             "year": 2014,
             "gen": "",
-            "country": "Italy",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -4785,7 +4876,7 @@
             "model": "Dino 246 GT",
             "year": 1969,
             "gen": "",
-            "country": "Italy",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -4819,7 +4910,7 @@
             "model": "Enzo Ferrari",
             "year": 2002,
             "gen": "",
-            "country": "Italy",
+            "country": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -4858,7 +4949,7 @@
             "model": "F12Berlinetta",
             "year": 2012,
             "gen": "",
-            "country": "Italy",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -4882,7 +4973,7 @@
             "model": "F12TDF",
             "year": 2015,
             "gen": "",
-            "country": "Italy",
+            "country": "",
             "difficulty": 3,
             "imageUrls": [
               {
@@ -4916,7 +5007,7 @@
             "model": "F355 Berlinetta",
             "year": 1994,
             "gen": "",
-            "country": "Italy",
+            "country": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -4955,7 +5046,7 @@
             "model": "F40",
             "year": 1987,
             "gen": "",
-            "country": "Italy",
+            "country": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -4984,7 +5075,7 @@
             "model": "F40 Competizione",
             "year": 1989,
             "gen": "",
-            "country": "Italy",
+            "country": "",
             "difficulty": 3,
             "imageUrls": [
               {
@@ -5008,7 +5099,7 @@
             "model": "F50",
             "year": 1995,
             "gen": "",
-            "country": "Italy",
+            "country": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -5037,7 +5128,7 @@
             "model": "F50 GT",
             "year": 1996,
             "gen": "",
-            "country": "Italy",
+            "country": "",
             "difficulty": 3,
             "imageUrls": [
               {
@@ -5061,7 +5152,7 @@
             "model": "FF",
             "year": 2011,
             "gen": "",
-            "country": "Italy",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -5095,7 +5186,7 @@
             "model": "FXX",
             "year": 2005,
             "gen": "",
-            "country": "Italy",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -5124,7 +5215,7 @@
             "model": "FXX K",
             "year": 2014,
             "gen": "",
-            "country": "Italy",
+            "country": "",
             "difficulty": 3,
             "imageUrls": [
               {
@@ -5158,7 +5249,7 @@
             "model": "GTC4Lusso",
             "year": 2017,
             "gen": "",
-            "country": "Italy",
+            "country": "",
             "difficulty": 3,
             "imageUrls": [
               {
@@ -5187,7 +5278,7 @@
             "model": "LaFerrari",
             "year": 2013,
             "gen": "",
-            "country": "Italy",
+            "country": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -5216,7 +5307,7 @@
             "model": "Portofino",
             "year": 2018,
             "gen": "",
-            "country": "Italy",
+            "country": "",
             "difficulty": 3,
             "imageUrls": [
               {
@@ -5255,7 +5346,7 @@
             "model": "124 Sport Spider",
             "year": 1980,
             "gen": "",
-            "country": "Italy",
+            "country": "",
             "difficulty": 3,
             "imageUrls": [
               {
@@ -5294,7 +5385,7 @@
             "model": "Dino 2.4 Coupe",
             "year": 1969,
             "gen": "",
-            "country": "Italy",
+            "country": "",
             "difficulty": 3,
             "imageUrls": [
               {
@@ -5320,6 +5411,40 @@
             ]
           }
         ]
+      },
+      {
+        "name": "Uno",
+        "variants": [
+          {
+            "model": "Uno",
+            "year": 2010,
+            "gen": "",
+            "country": "",
+            "difficulty": 1,
+            "imageUrls": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/2010Uno1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Andricos",
+                "license": "Public domain"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Fiat_Novo_Uno_1.4_Carro_Vermelho.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Tiago",
+                "license": "Public domain"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Fiat_Uno_1.4_Way_2012_%289061078483%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "order_242 from Chile",
+                "license": "CC BY-SA 2.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Fiat_Uno_20150823-IMG_20150823_143818.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Matti Blume",
+                "license": "CC BY-SA 4.0"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
@@ -5333,7 +5458,7 @@
             "model": "Anglia 105E",
             "year": 1959,
             "gen": "",
-            "country": "USA",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -5372,7 +5497,7 @@
             "model": "Bronco",
             "year": 1975,
             "gen": "",
-            "country": "USA",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -5401,7 +5526,7 @@
             "model": "Capri RS3100",
             "year": 1973,
             "gen": "",
-            "country": "USA",
+            "country": "",
             "difficulty": 3,
             "imageUrls": [
               {
@@ -5435,7 +5560,7 @@
             "model": "Escort RS Turbo",
             "year": 1986,
             "gen": "1st Gen",
-            "country": "USA",
+            "country": "",
             "difficulty": 3,
             "imageUrls": [
               {
@@ -5469,7 +5594,7 @@
             "model": "Escort RS Cosworth",
             "year": 1992,
             "gen": "2nd Gen",
-            "country": "USA",
+            "country": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -5493,7 +5618,7 @@
             "model": "Escort RS1600",
             "year": 1973,
             "gen": "",
-            "country": "USA",
+            "country": "",
             "difficulty": 3,
             "imageUrls": [
               {
@@ -5512,7 +5637,7 @@
             "model": "Escort RS1800",
             "year": 1977,
             "gen": "",
-            "country": "USA",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -5546,7 +5671,7 @@
             "model": "F-100",
             "year": 1956,
             "gen": "",
-            "country": "USA",
+            "country": "",
             "difficulty": 3,
             "imageUrls": [
               {
@@ -5572,27 +5697,14 @@
         "name": "Falcon",
         "variants": [
           {
-            "model": "Falcon GT F 351",
-            "year": 2015,
-            "gen": "",
-            "country": "USA",
-            "difficulty": 2,
-            "imageUrls": []
-          },
-          {
-            "model": "Falcon XA GT-HO",
+            "model": "Falcon XA GT",
             "year": 1972,
-            "gen": "",
-            "country": "USA",
+            "gen": "3rd Gen",
+            "country": "",
             "difficulty": 3,
             "imageUrls": [
               {
                 "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/1972_Ford_XA_Falcon_GT_HO_Sedan_%288709740384%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-                "author": "Sicnag",
-                "license": "CC BY 2.0"
-              },
-              {
-                "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/1971_Ford_XY_Falcon_GTHO_Phase_3_Sedan_%289956968536%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
                 "author": "Sicnag",
                 "license": "CC BY 2.0"
               },
@@ -5617,7 +5729,7 @@
             "model": "Focus RS",
             "year": 2003,
             "gen": "1st Gen",
-            "country": "USA",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -5641,7 +5753,7 @@
             "model": "Focus RS",
             "year": 2009,
             "gen": "2nd Gen",
-            "country": "USA",
+            "country": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -5680,7 +5792,7 @@
             "model": "Focus RS",
             "year": 2017,
             "gen": "3rd Gen",
-            "country": "USA",
+            "country": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -5719,7 +5831,7 @@
             "model": "GT",
             "year": 2005,
             "gen": "1st Gen",
-            "country": "USA",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -5743,7 +5855,7 @@
             "model": "GT",
             "year": 2017,
             "gen": "2nd Gen",
-            "country": "USA",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -5772,7 +5884,7 @@
             "model": "GT40 MK I",
             "year": 1964,
             "gen": "",
-            "country": "USA",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -5815,7 +5927,7 @@
             "model": "Lotus Cortina",
             "year": 1966,
             "gen": "",
-            "country": "USA",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -5854,7 +5966,7 @@
             "model": "Mustang GT Coupe",
             "year": 1965,
             "gen": "1st Gen",
-            "country": "USA",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -5878,7 +5990,7 @@
             "model": "Mustang GT 2+2 Fastback",
             "year": 1968,
             "gen": "1st Gen",
-            "country": "USA",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -5912,7 +6024,7 @@
             "model": "Mustang Mach 1",
             "year": 1971,
             "gen": "1st Gen",
-            "country": "USA",
+            "country": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -5946,7 +6058,7 @@
             "model": "Mustang Shelby GT500",
             "year": 2013,
             "gen": "5th Gen",
-            "country": "USA",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -5975,7 +6087,7 @@
             "model": "Mustang Shelby GT350R",
             "year": 2016,
             "gen": "6th Gen",
-            "country": "USA",
+            "country": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -5994,7 +6106,7 @@
             "model": "Mustang GT",
             "year": 2018,
             "gen": "6th Gen",
-            "country": "USA",
+            "country": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -6023,7 +6135,7 @@
             "model": "Mustang SVT Cobra R",
             "year": 1993,
             "gen": "3rd Gen",
-            "country": "USA",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -6047,7 +6159,7 @@
             "model": "Mustang SVT Cobra R",
             "year": 2000,
             "gen": "4th Gen",
-            "country": "USA",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -6073,18 +6185,10 @@
             ]
           },
           {
-            "model": "Mustang RTR Spec 5",
-            "year": 2018,
-            "gen": "7th Gen",
-            "country": "USA",
-            "difficulty": 2,
-            "imageUrls": []
-          },
-          {
             "model": "Mustang Boss 302",
             "year": 1969,
             "gen": "1st Gen",
-            "country": "USA",
+            "country": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -6128,7 +6232,7 @@
             "model": "RS200 Evolution",
             "year": 1985,
             "gen": "",
-            "country": "USA",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -6154,12 +6258,28 @@
         "name": "Racing Puma",
         "variants": [
           {
-            "model": "Racing Puma",
+            "model": "Puma",
             "year": 1999,
             "gen": "",
-            "country": "USA",
-            "difficulty": 2,
-            "imageUrls": []
+            "country": "",
+            "difficulty": 3,
+            "imageUrls": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/1999_Ford_Puma_1.7_16V_%2815375075741%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Kieran White from Manchester, England",
+                "license": "CC BY 2.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/1999_Ford_Puma_1.4_16v_%2838473734204%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Kieran White from Manchester, England",
+                "license": "CC BY 2.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/1999_Ford_Puma_1.7_16V_%2828605625483%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Kieran White from Manchester, England",
+                "license": "CC BY 2.0"
+              }
+            ]
           }
         ]
       },
@@ -6170,7 +6290,7 @@
             "model": "Ranger Raptor",
             "year": 2019,
             "gen": "",
-            "country": "USA",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -6194,7 +6314,7 @@
             "model": "Sierra Cosworth RS500",
             "year": 1987,
             "gen": "",
-            "country": "USA",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -6220,11 +6340,11 @@
         "name": "XB Falcon",
         "variants": [
           {
-            "model": "XB Falcon GT",
+            "model": "Falcon XB GT",
             "year": 1973,
-            "gen": "",
-            "country": "USA",
-            "difficulty": 2,
+            "gen": "3rd Gen",
+            "country": "",
+            "difficulty": 3,
             "imageUrls": [
               {
                 "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/1973_Ford_XB_Falcon_GT_sedan_%287708197620%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -6267,7 +6387,7 @@
             "model": "F-150 Raptor",
             "year": 2017,
             "gen": "",
-            "country": "USA",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -6296,7 +6416,7 @@
             "model": "F-150 SVT Raptor",
             "year": 2011,
             "gen": "",
-            "country": "USA",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -6330,7 +6450,7 @@
             "model": "Fiesta ST",
             "year": 2014,
             "gen": "",
-            "country": "USA",
+            "country": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -6359,9 +6479,35 @@
             "model": "Fiesta XR2",
             "year": 1981,
             "gen": "",
-            "country": "USA",
+            "country": "",
             "difficulty": 2,
-            "imageUrls": []
+            "imageUrls": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/1981-1983_Ford_Fiesta_XR2_%2853737670634%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Kieran White from Manchester, England",
+                "license": "CC BY 2.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/1983_Ford_Fiesta_XR2_%2818583134863%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Kieran White from Manchester, England",
+                "license": "CC BY 2.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/1983_Ford_Fiesta_XR2_1.6_Front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Vauxford",
+                "license": "CC BY-SA 4.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/1983_Ford_Fiesta_XR2_1.6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Vauxford",
+                "license": "CC BY-SA 4.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/1983_Ford_Fiesta_XR2_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Calreyn88",
+                "license": "CC BY-SA 4.0"
+              }
+            ]
           }
         ]
       }
@@ -6377,7 +6523,7 @@
             "model": "VK Commodore Group A",
             "year": 1985,
             "gen": "",
-            "country": "Australia",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -6416,7 +6562,7 @@
             "model": "GTS",
             "year": 2011,
             "gen": "",
-            "country": "Australia",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -6445,7 +6591,7 @@
             "model": "GTSR",
             "year": 1996,
             "gen": "",
-            "country": "Australia",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -6464,7 +6610,7 @@
             "model": "Gen-F GTS",
             "year": 2014,
             "gen": "",
-            "country": "Australia",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -6503,9 +6649,15 @@
             "model": "Venom GT",
             "year": 2012,
             "gen": "",
-            "country": "USA",
+            "country": "",
             "difficulty": 2,
-            "imageUrls": []
+            "imageUrls": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Hennessy_Venom_GT_-_Flickr_-_Supermac1961.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Supermac1961 from CHAFFORD HUNDRED, England",
+                "license": "CC BY 2.0"
+              }
+            ]
           }
         ]
       }
@@ -6521,7 +6673,7 @@
             "model": "HQ Monaro GTS 350",
             "year": 1973,
             "gen": "",
-            "country": "Australia",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -6560,7 +6712,7 @@
             "model": "Sandman HQ Panel Van",
             "year": 1974,
             "gen": "",
-            "country": "Australia",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -6594,7 +6746,7 @@
             "model": "Torana A9X",
             "year": 1977,
             "gen": "",
-            "country": "Australia",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -6628,7 +6780,7 @@
             "model": "VL Commodore Group A SV",
             "year": 1988,
             "gen": "",
-            "country": "Australia",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -6662,7 +6814,7 @@
             "model": "CR-X SiR",
             "year": 1991,
             "gen": "",
-            "country": "Japan",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -6696,7 +6848,7 @@
             "model": "Civic RS",
             "year": 1974,
             "gen": "1st Gen",
-            "country": "Japan",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -6725,15 +6877,56 @@
             "model": "Civic Type R",
             "year": 1997,
             "gen": "6th Gen",
-            "country": "Japan",
+            "country": "",
             "difficulty": 2,
-            "imageUrls": []
+            "imageUrls": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Civic_R_EK9_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Kenneth Britishracer",
+                "license": "CC BY-SA 3.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Civic_Type_R_rear.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "BedaNo1",
+                "license": "CC BY-SA 3.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Civic_Type_R_front.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "BedaNo1",
+                "license": "CC BY-SA 3.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Honda_CIVIC_TYPE_R_%28EK9%29_rear.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Tokumeigakarinoaoshima",
+                "license": "CC0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Honda_CIVIC_TYPE_R_%28EK9%29_right.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Tokumeigakarinoaoshima",
+                "license": "CC0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Honda_Civic_EK9_Type-R%2C_Bangladesh._%2835142448720%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Shadman Samee from Dhaka, Bangladesh",
+                "license": "CC BY-SA 2.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Honda_civic_014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Iorisrandombses5001",
+                "license": "CC0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Honda_Civic_Type_R_EK9_white_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Ethan Llamas",
+                "license": "CC BY-SA 4.0"
+              }
+            ]
           },
           {
             "model": "Civic Type-R",
             "year": 2004,
             "gen": "7th Gen",
-            "country": "Japan",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -6767,7 +6960,7 @@
             "model": "Civic Type-R",
             "year": 2007,
             "gen": "8th Gen",
-            "country": "Japan",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -6791,25 +6984,84 @@
             "model": "Civic Type R",
             "year": 2015,
             "gen": "9th Gen",
-            "country": "Japan",
+            "country": "",
             "difficulty": 2,
-            "imageUrls": []
-          },
-          {
-            "model": "Civic Coupe GRC",
-            "year": 2016,
-            "gen": "10th Gen",
-            "country": "Japan",
-            "difficulty": 2,
-            "imageUrls": []
+            "imageUrls": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/2015_Honda_Civic_Type_R_%2819440073144%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Edvvc from London, UK",
+                "license": "CC BY 2.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Osaka_Motor_Show_2015_%28196%29_-_Honda_CIVIC_TYPE_R_%28DBA-FK2%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Tokumeigakarinoaoshima",
+                "license": "CC BY-SA 4.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Osaka_Motor_Show_2015_%28195%29_-_Honda_CIVIC_TYPE_R_%28DBA-FK2%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Tokumeigakarinoaoshima",
+                "license": "CC BY-SA 4.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Honda_Civic_Type_R_%2828124229988%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Guillaume Vachey from Chalon sur Saone, France",
+                "license": "CC0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Honda_Civic_Type_R_%2840225162904%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Guillaume Vachey from Chalon sur Saone, France",
+                "license": "CC0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/New_2015_Honda_Civic_Type_R_Bedford_Autodrome_with_Opentrack_Track_Days.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Tony Harrison",
+                "license": "CC BY-SA 2.0"
+              }
+            ]
           },
           {
             "model": "Civic Type R",
             "year": 2018,
             "gen": "10th Gen",
-            "country": "Japan",
+            "country": "",
             "difficulty": 2,
-            "imageUrls": []
+            "imageUrls": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Honda_CIVIC_TYPE_R_%28FK8%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Tokumeigakarinoaoshima",
+                "license": "CC BY-SA 4.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/2018_Honda_Civic_Type_R_GT_i-VTEC_Turbo_2.0_Front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Vauxford",
+                "license": "CC BY-SA 4.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Honda_Civic_Type_R_%2845437591821%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "FotoSleuth",
+                "license": "CC BY 2.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Honda_Civic_Type_R_%2840970656604%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "FotoSleuth",
+                "license": "CC BY 2.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Honda_CIVIC_TYPE_R_%28FK8%29_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Tokumeigakarinoaoshima",
+                "license": "CC BY-SA 4.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/2018_Honda_Civic_GT_Type_R_VTEC_2.0_Rear.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Vauxford",
+                "license": "CC BY-SA 4.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Honda_Civic_Type-R_%282018%29_%2852099776564%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Charles from Port Chester, New York",
+                "license": "CC BY 2.0"
+              }
+            ]
           }
         ]
       },
@@ -6820,7 +7072,7 @@
             "model": "NSX-R",
             "year": 1992,
             "gen": "1st Gen",
-            "country": "Japan",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -6849,7 +7101,7 @@
             "model": "NSX-R GT",
             "year": 2005,
             "gen": "2nd Gen",
-            "country": "Japan",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -6868,7 +7120,7 @@
             "model": "NSX",
             "year": 2005,
             "gen": "2nd Gen",
-            "country": "Japan",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -6889,12 +7141,38 @@
         "name": "Prelude SI",
         "variants": [
           {
-            "model": "Prelude SI",
+            "model": "Prelude",
             "year": 1994,
             "gen": "",
-            "country": "Japan",
+            "country": "",
             "difficulty": 2,
-            "imageUrls": []
+            "imageUrls": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/1991-1994_Honda_Prelude_S_coupe_%282012-03-02%29_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "FotoSleuth",
+                "license": "CC BY 2.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/1991-1994_Honda_Prelude_S_coupe_%282012-03-02%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "FotoSleuth",
+                "license": "CC BY 2.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/1994_Honda_Prelude_2.0_I_%288094200560%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "free photos &amp; art",
+                "license": "CC BY 2.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/1991-1994_Honda_Prelude_S_coupe_%282012-03-02%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "FotoSleuth",
+                "license": "CC BY 2.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Honda_Prelude_2.0i_%281994%29_%2853176001143%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Andrew Bone from Weymouth, England",
+                "license": "CC BY 2.0"
+              }
+            ]
           }
         ]
       },
@@ -6905,7 +7183,7 @@
             "model": "S2000",
             "year": 2003,
             "gen": "",
-            "country": "Japan",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -6944,7 +7222,7 @@
             "model": "S2000 CR",
             "year": 2009,
             "gen": "",
-            "country": "Japan",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -6968,7 +7246,7 @@
             "model": "Hornet",
             "year": 1952,
             "gen": "",
-            "country": "USA",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -7007,7 +7285,7 @@
             "model": "H1 Alpha",
             "year": 2006,
             "gen": "",
-            "country": "USA",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -7028,12 +7306,33 @@
         "name": "Veloster N",
         "variants": [
           {
-            "model": "Veloster N",
-            "year": 2019,
-            "gen": "",
-            "country": "South Korea",
+            "model": "Veloster",
+            "year": 2012,
+            "gen": "1st Gen",
+            "country": "",
             "difficulty": 2,
-            "imageUrls": []
+            "imageUrls": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/2012_Hyundai_Veloster_--_01-20-2012_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "IFCAR",
+                "license": "Public domain"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/2016_Hyundai_Veloster_Rally_Sport_Canadian_Edition.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Roger Echo",
+                "license": "CC BY-SA 4.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/00_HYUNDAI_VELOSTER_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Benespit",
+                "license": "CC BY-SA 4.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/2012_Hyundai_Veloster%2C_front_left%2C_10-29-2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "MercurySable99",
+                "license": "CC BY-SA 4.0"
+              }
+            ]
           }
         ]
       }
@@ -7049,7 +7348,7 @@
             "model": "C-Type",
             "year": 1953,
             "gen": "",
-            "country": "UK",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -7073,7 +7372,7 @@
             "model": "D-Type",
             "year": 1956,
             "gen": "",
-            "country": "UK",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -7102,7 +7401,7 @@
             "model": "E-Type S1",
             "year": 1961,
             "gen": "",
-            "country": "UK",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -7126,7 +7425,7 @@
             "model": "F-Type R Coupe",
             "year": 2015,
             "gen": "",
-            "country": "UK",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -7160,7 +7459,7 @@
             "model": "F-Pace S",
             "year": 2017,
             "gen": "",
-            "country": "UK",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -7184,7 +7483,7 @@
             "model": "F-Type Project 7",
             "year": 2016,
             "gen": "",
-            "country": "UK",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -7218,7 +7517,7 @@
             "model": "I-Pace",
             "year": 2020,
             "gen": "",
-            "country": "UK",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -7252,7 +7551,7 @@
             "model": "MK II 3.8",
             "year": 1959,
             "gen": "",
-            "country": "UK",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -7291,9 +7590,25 @@
             "model": "XE-S",
             "year": 2015,
             "gen": "",
-            "country": "UK",
+            "country": "",
             "difficulty": 2,
-            "imageUrls": []
+            "imageUrls": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Jaguar_XE_S_registered_January_2017_2995cc.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Charles01",
+                "license": "CC BY-SA 4.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/2019_Jaguar_XE_S_Automatic_2.0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Vauxford",
+                "license": "CC BY-SA 4.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Jaguar_XE_S_%2851992200324%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "crash71100",
+                "license": "CC0"
+              }
+            ]
           }
         ]
       },
@@ -7304,7 +7619,7 @@
             "model": "XFR-S",
             "year": 2015,
             "gen": "",
-            "country": "UK",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -7338,7 +7653,7 @@
             "model": "XJ-S",
             "year": 1990,
             "gen": "",
-            "country": "UK",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -7377,7 +7692,7 @@
             "model": "XJ220",
             "year": 1993,
             "gen": "",
-            "country": "UK",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -7411,7 +7726,7 @@
             "model": "XK120 SE",
             "year": 1954,
             "gen": "",
-            "country": "UK",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -7440,7 +7755,7 @@
             "model": "XKR-S",
             "year": 2012,
             "gen": "1st Gen",
-            "country": "UK",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -7464,7 +7779,7 @@
             "model": "XKR-S GT",
             "year": 2015,
             "gen": "2nd Gen",
-            "country": "UK",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -7503,7 +7818,7 @@
             "model": "Agera",
             "year": 2011,
             "gen": "1st Gen",
-            "country": "Sweden",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -7532,7 +7847,7 @@
             "model": "Agera RS",
             "year": 2017,
             "gen": "2nd Gen",
-            "country": "Sweden",
+            "country": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -7561,7 +7876,7 @@
             "model": "CC8S",
             "year": 2002,
             "gen": "",
-            "country": "Sweden",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -7595,7 +7910,7 @@
             "model": "CCGT",
             "year": 2008,
             "gen": "",
-            "country": "Sweden",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -7619,9 +7934,30 @@
             "model": "CCX",
             "year": 2007,
             "gen": "",
-            "country": "Sweden",
+            "country": "",
             "difficulty": 2,
-            "imageUrls": []
+            "imageUrls": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/2006_Koenigsegg_CCX.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Calreyn88",
+                "license": "CC BY-SA 4.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/2006_Koenigsegg_CCX_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Calreyn88",
+                "license": "CC BY-SA 4.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Koenigsegg_CCX_%289524008619%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Axion23",
+                "license": "CC BY 2.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Koenigsegg_CCX_-_Flickr_-_Alexandre_Pr%C3%A9vot_%2811%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Alexandre Prévot from Nancy, France",
+                "license": "CC BY-SA 2.0"
+              }
+            ]
           }
         ]
       },
@@ -7632,7 +7968,7 @@
             "model": "One:1",
             "year": 2015,
             "gen": "",
-            "country": "Sweden",
+            "country": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -7656,7 +7992,7 @@
             "model": "Regera",
             "year": 2016,
             "gen": "",
-            "country": "Sweden",
+            "country": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -7690,7 +8026,7 @@
             "model": "Aventador J",
             "year": 2012,
             "gen": "",
-            "country": "Italy",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -7709,7 +8045,7 @@
             "model": "Aventador LP700-4",
             "year": 2012,
             "gen": "",
-            "country": "Italy",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -7743,7 +8079,7 @@
             "model": "Aventador LP750-4 SV",
             "year": 2016,
             "gen": "",
-            "country": "Italy",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -7772,7 +8108,7 @@
             "model": "Centenario LP 770-4",
             "year": 2016,
             "gen": "",
-            "country": "Italy",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -7791,7 +8127,7 @@
             "model": "Countach LP5000 QV",
             "year": 1988,
             "gen": "",
-            "country": "Italy",
+            "country": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -7810,7 +8146,7 @@
             "model": "Diablo GTR",
             "year": 1999,
             "gen": "",
-            "country": "Italy",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -7839,7 +8175,7 @@
             "model": "Diablo SV",
             "year": 1997,
             "gen": "",
-            "country": "Italy",
+            "country": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -7878,7 +8214,7 @@
             "model": "Gallardo LP 570-4 Superleggera",
             "year": 2011,
             "gen": "",
-            "country": "Italy",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -7907,7 +8243,7 @@
             "model": "Gallardo LP570-4 Spyder Performante",
             "year": 2012,
             "gen": "",
-            "country": "Italy",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -7941,7 +8277,7 @@
             "model": "Huracan LP 610-4",
             "year": 2014,
             "gen": "",
-            "country": "Italy",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -7970,7 +8306,7 @@
             "model": "Huracan Performante",
             "year": 2018,
             "gen": "",
-            "country": "Italy",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -8004,7 +8340,7 @@
             "model": "Jarama S",
             "year": 1972,
             "gen": "",
-            "country": "Italy",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -8043,7 +8379,7 @@
             "model": "LM 002",
             "year": 1986,
             "gen": "",
-            "country": "Italy",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -8087,7 +8423,7 @@
             "model": "Miura P400",
             "year": 1967,
             "gen": "",
-            "country": "Italy",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -8121,7 +8457,7 @@
             "model": "Murcielago SV",
             "year": 2010,
             "gen": "",
-            "country": "Italy",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -8150,7 +8486,7 @@
             "model": "Murcielago",
             "year": 2010,
             "gen": "",
-            "country": "Italy",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -8184,7 +8520,7 @@
             "model": "Reventon",
             "year": 2008,
             "gen": "",
-            "country": "Italy",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -8208,7 +8544,7 @@
             "model": "Sesto Elemento",
             "year": 2011,
             "gen": "",
-            "country": "Italy",
+            "country": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -8237,7 +8573,7 @@
             "model": "Urus",
             "year": 2019,
             "gen": "",
-            "country": "Italy",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -8266,7 +8602,7 @@
             "model": "Veneno",
             "year": 2013,
             "gen": "",
-            "country": "Italy",
+            "country": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -8300,7 +8636,7 @@
             "model": "037 Stradale",
             "year": 1982,
             "gen": "",
-            "country": "Italy",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -8329,7 +8665,7 @@
             "model": "Delta HF Integrale Evo",
             "year": 1992,
             "gen": "",
-            "country": "Italy",
+            "country": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -8368,7 +8704,7 @@
             "model": "Delta S4",
             "year": 1986,
             "gen": "",
-            "country": "Italy",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -8397,7 +8733,7 @@
             "model": "Fulvia Coupe Rallye 1.6 HF",
             "year": 1968,
             "gen": "",
-            "country": "Italy",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -8446,7 +8782,7 @@
             "model": "Stratos HF Stradale",
             "year": 1974,
             "gen": "",
-            "country": "Italy",
+            "country": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -8485,7 +8821,7 @@
             "model": "Defender 90",
             "year": 1997,
             "gen": "",
-            "country": "UK",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -8514,7 +8850,7 @@
             "model": "Range Rover",
             "year": 1973,
             "gen": "1st Gen",
-            "country": "UK",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -8538,7 +8874,7 @@
             "model": "Range Rover Sport SVR",
             "year": 2015,
             "gen": "2nd Gen",
-            "country": "UK",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -8562,7 +8898,7 @@
             "model": "Series III",
             "year": 1972,
             "gen": "",
-            "country": "UK",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -8606,7 +8942,7 @@
             "model": "IS F",
             "year": 2009,
             "gen": "",
-            "country": "Japan",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -8635,7 +8971,7 @@
             "model": "LFA",
             "year": 2010,
             "gen": "",
-            "country": "Japan",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -8659,7 +8995,7 @@
             "model": "RC F",
             "year": 2015,
             "gen": "",
-            "country": "Japan",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -8693,42 +9029,15 @@
     "groups": [
       {
         "name": "2-Eleven",
-        "variants": [
-          {
-            "model": "2-Eleven",
-            "year": 2009,
-            "gen": "",
-            "country": "UK",
-            "difficulty": 2,
-            "imageUrls": []
-          }
-        ]
+        "variants": []
       },
       {
         "name": "3-Eleven",
-        "variants": [
-          {
-            "model": "3-Eleven",
-            "year": 2016,
-            "gen": "",
-            "country": "UK",
-            "difficulty": 2,
-            "imageUrls": []
-          }
-        ]
+        "variants": []
       },
       {
         "name": "340R",
-        "variants": [
-          {
-            "model": "340R",
-            "year": 2000,
-            "gen": "",
-            "country": "UK",
-            "difficulty": 2,
-            "imageUrls": []
-          }
-        ]
+        "variants": []
       },
       {
         "name": "Elan Sprint",
@@ -8737,7 +9046,7 @@
             "model": "Elan Sprint",
             "year": 1971,
             "gen": "",
-            "country": "UK",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -8766,7 +9075,7 @@
             "model": "Eleven",
             "year": 1956,
             "gen": "",
-            "country": "UK",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -8790,7 +9099,7 @@
             "model": "Elise 111S",
             "year": 2005,
             "gen": "",
-            "country": "UK",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -8824,7 +9133,7 @@
             "model": "Elise GT1",
             "year": 1997,
             "gen": "",
-            "country": "UK",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -8848,9 +9157,35 @@
             "model": "Elise Series 1 Sport 190",
             "year": 1999,
             "gen": "",
-            "country": "UK",
+            "country": "",
             "difficulty": 2,
-            "imageUrls": []
+            "imageUrls": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Lotus_Elise_Series_1_Front_Left.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "edvvc from London, UK",
+                "license": "CC BY 2.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Lotus_Elise_%281999%29_-_Flickr_-_FaceMePLS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "FaceMePLS from The Hague, The Netherlands",
+                "license": "CC BY 2.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/1999_Lotus_Elise_1.8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Vauxford",
+                "license": "CC BY-SA 4.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/1999_Lotus_Elise_S1_%288880208365%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Niels de Wit from Lunteren, The Netherlands",
+                "license": "CC BY 2.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/1999_Lotus_Elise_111S_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Calreyn88",
+                "license": "CC BY-SA 4.0"
+              }
+            ]
           }
         ]
       },
@@ -8861,7 +9196,7 @@
             "model": "Esprit V8",
             "year": 2002,
             "gen": "",
-            "country": "UK",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -8895,7 +9230,7 @@
             "model": "Evora S",
             "year": 2011,
             "gen": "",
-            "country": "UK",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -8924,7 +9259,7 @@
             "model": "Exige S",
             "year": 2012,
             "gen": "",
-            "country": "UK",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -8953,7 +9288,7 @@
             "model": "MGA Twin-Cam",
             "year": 1958,
             "gen": "",
-            "country": "UK",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -8982,7 +9317,7 @@
             "model": "MGB GT",
             "year": 1966,
             "gen": "",
-            "country": "UK",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -9016,7 +9351,7 @@
             "model": "Metro 6R4",
             "year": 1986,
             "gen": "",
-            "country": "UK",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -9045,9 +9380,25 @@
             "model": "300 S",
             "year": 1957,
             "gen": "",
-            "country": "Italy",
+            "country": "",
             "difficulty": 2,
-            "imageUrls": []
+            "imageUrls": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Maserati_300_S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "asopuma from Paris, France",
+                "license": "CC BY 2.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/1955_Maserati_Sports_300S%2C_6_cylinders%2C_2993cm3%2C_280hp%2C_280kmh%2C_photo_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Alf van Beem",
+                "license": "CC0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/1957-08-11_Kristianstad_Maserati_300_4507.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Unknown photographer",
+                "license": "Public domain"
+              }
+            ]
           }
         ]
       },
@@ -9058,7 +9409,7 @@
             "model": "8CTF",
             "year": 1939,
             "gen": "",
-            "country": "Italy",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -9082,7 +9433,7 @@
             "model": "Ghibli S Q4",
             "year": 2014,
             "gen": "",
-            "country": "Italy",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -9106,7 +9457,7 @@
             "model": "Gran Turismo S",
             "year": 2010,
             "gen": "",
-            "country": "Italy",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -9140,16 +9491,7 @@
       },
       {
         "name": "Levante S",
-        "variants": [
-          {
-            "model": "Levante S",
-            "year": 2017,
-            "gen": "",
-            "country": "Italy",
-            "difficulty": 2,
-            "imageUrls": []
-          }
-        ]
+        "variants": []
       },
       {
         "name": "MC12",
@@ -9158,7 +9500,7 @@
             "model": "MC12",
             "year": 2004,
             "gen": "",
-            "country": "Italy",
+            "country": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -9182,9 +9524,25 @@
             "model": "MC12 Versione Corsa",
             "year": 2008,
             "gen": "",
-            "country": "Italy",
+            "country": "",
             "difficulty": 2,
-            "imageUrls": []
+            "imageUrls": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Maserati_MC12_Corse_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Calreyn88",
+                "license": "CC BY-SA 4.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Maserati_MC12_Corse_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Calreyn88",
+                "license": "CC BY-SA 4.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Maserati_MC12_36643138.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Jeffrey Keeton from Birmingham, USA; upload by Herrick",
+                "license": "CC BY 2.0"
+              }
+            ]
           }
         ]
       }
@@ -9200,7 +9558,7 @@
             "model": "MX-5",
             "year": 2013,
             "gen": "1st Gen",
-            "country": "Japan",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -9219,7 +9577,7 @@
             "model": "MX-5",
             "year": 2016,
             "gen": "2nd Gen",
-            "country": "Japan",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -9243,7 +9601,7 @@
             "model": "MX-5 Miata",
             "year": 1994,
             "gen": "",
-            "country": "Japan",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -9262,7 +9620,7 @@
             "model": "Mazdaspeed MX-5",
             "year": 2005,
             "gen": "",
-            "country": "Japan",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -9285,9 +9643,25 @@
             "model": "RX-8",
             "year": 2011,
             "gen": "",
-            "country": "Japan",
+            "country": "",
             "difficulty": 1,
-            "imageUrls": []
+            "imageUrls": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/039_-_Mazda_RX-8_-_Flickr_-_Price-Photography.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Michael Price from Houston, USA",
+                "license": "CC BY 2.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/044_-_Mazda_RX-8_-_Flickr_-_Price-Photography.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Michael Price from Houston, USA",
+                "license": "CC BY 2.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Mazda_RX-8_%285434941402%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "nakhon100",
+                "license": "CC BY 2.0"
+              }
+            ]
           }
         ]
       },
@@ -9298,7 +9672,7 @@
             "model": "RX-7",
             "year": 1997,
             "gen": "3nd Gen",
-            "country": "Japan",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -9322,7 +9696,7 @@
             "model": "RX-7",
             "year": 1980,
             "gen": "1st Gen",
-            "country": "Japan",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -9361,7 +9735,7 @@
             "model": "RX-7 Spirit R",
             "year": 2002,
             "gen": "3rd Gen",
-            "country": "Japan",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -9449,7 +9823,7 @@
             "model": "12c Coupe",
             "year": 2011,
             "gen": "",
-            "country": "UK",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -9473,16 +9847,7 @@
       },
       {
         "name": "570S",
-        "variants": [
-          {
-            "model": "570S Coupe",
-            "year": 2015,
-            "gen": "",
-            "country": "UK",
-            "difficulty": 2,
-            "imageUrls": []
-          }
-        ]
+        "variants": []
       },
       {
         "name": "600LT",
@@ -9491,7 +9856,7 @@
             "model": "600LT Coupe",
             "year": 2018,
             "gen": "",
-            "country": "UK",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -9507,18 +9872,10 @@
         "name": "650S",
         "variants": [
           {
-            "model": "650S Spider",
-            "year": 2014,
-            "gen": "1st Gen",
-            "country": "UK",
-            "difficulty": 2,
-            "imageUrls": []
-          },
-          {
             "model": "650S Coupe",
             "year": 2015,
             "gen": "2nd Gen",
-            "country": "UK",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -9544,18 +9901,10 @@
         "name": "720S",
         "variants": [
           {
-            "model": "720S Coupe",
-            "year": 2018,
-            "gen": "1st Gen",
-            "country": "UK",
-            "difficulty": 2,
-            "imageUrls": []
-          },
-          {
             "model": "720S Spider",
             "year": 2019,
             "gen": "2nd Gen",
-            "country": "UK",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -9579,7 +9928,7 @@
             "model": "F1",
             "year": 1993,
             "gen": "",
-            "country": "UK",
+            "country": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -9622,7 +9971,7 @@
             "model": "P1",
             "year": 2013,
             "gen": "",
-            "country": "UK",
+            "country": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -9646,7 +9995,7 @@
             "model": "Senna",
             "year": 2018,
             "gen": "",
-            "country": "UK",
+            "country": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -9675,7 +10024,7 @@
             "model": "C 63 A Coupe",
             "year": 2016,
             "gen": "",
-            "country": "Germany",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -9709,7 +10058,7 @@
             "model": "E 63 S",
             "year": 2018,
             "gen": "",
-            "country": "Germany",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -9738,7 +10087,7 @@
             "model": "GT S",
             "year": 2015,
             "gen": "1st Gen",
-            "country": "Germany",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -9762,7 +10111,7 @@
             "model": "GT R",
             "year": 2017,
             "gen": "2nd Gen",
-            "country": "Germany",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -9791,6 +10140,35 @@
                 "license": "CC BY-SA 4.0"
               }
             ]
+          },
+          {
+            "model": "GT R Safety Car",
+            "year": 2017,
+            "gen": "",
+            "country": "",
+            "difficulty": 1,
+            "imageUrls": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Mercedes_AMG_GT_Safety_Car_%2852344042373%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Neil",
+                "license": "CC BY 2.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Formula_1_Safety_Car_Mercedes-AMG_GT_R.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Michał Obrochta",
+                "license": "CC BY-SA 4.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/FIA_F1_Austria_2021_Safety_Car_%28Mercedes%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Lukas Raich",
+                "license": "CC BY-SA 4.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2025_Japan_GP_-_Safety_Car_-_Race.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Liauzh",
+                "license": "CC BY-SA 4.0"
+              }
+            ]
           }
         ]
       }
@@ -9806,7 +10184,7 @@
             "model": "190E 1.5-16 Evolution II",
             "year": 1990,
             "gen": "",
-            "country": "Germany",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -9830,7 +10208,7 @@
             "model": "280 SL",
             "year": 1967,
             "gen": "",
-            "country": "Germany",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -9859,7 +10237,7 @@
             "model": "300 SL Coupe",
             "year": 1954,
             "gen": "",
-            "country": "Germany",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -9893,7 +10271,7 @@
             "model": "300 SLR",
             "year": 1955,
             "gen": "",
-            "country": "Germany",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -9924,12 +10302,43 @@
         "name": "A 45 AMG",
         "variants": [
           {
-            "model": "A 45 AMG",
-            "year": 2013,
-            "gen": "",
-            "country": "Germany",
+            "model": "A-Class",
+            "year": 2012,
+            "gen": "3rd Gen",
+            "country": "",
             "difficulty": 2,
-            "imageUrls": []
+            "imageUrls": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Mercedes-Benz_A_250_Sport_%28W176%29_%E2%80%93_Frontansicht.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Livefields",
+                "license": "CC BY-SA 3.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Mercedes-Benz_A_250_Sport_%28W176%29_%E2%80%93_Heckansicht.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Livefields",
+                "license": "CC BY-SA 3.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Mercedes-Benz_A_180_Urban_%28W_176%29_%E2%80%93_Frontansicht%2C_25._Mai_2013%2C_Hilden.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "M 93",
+                "license": "CC BY-SA 3.0 de"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/2015_Mercedes-Benz_A_250_%28W_176%29_Sport_hatchback_%2826250246542%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Jeremy from Sydney, Australia",
+                "license": "CC BY 2.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Mercedes-AMG_A_45_4MATIC_%28W_176%2C_Facelift%29_%E2%80%93_Frontansicht%2C_7._Oktober_2018%2C_D%C3%BCsseldorf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "© M 93",
+                "license": "CC BY-SA 3.0 de"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/MERCEDES-BENZ_A-CLASS_%28W176%29_China_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Dinkun Chen",
+                "license": "CC BY-SA 4.0"
+              }
+            ]
           }
         ]
       },
@@ -9940,7 +10349,7 @@
             "model": "AMG CLK GTR",
             "year": 1998,
             "gen": "",
-            "country": "Germany",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -9979,7 +10388,7 @@
             "model": "C 63 AMG Coupe Black Series",
             "year": 2012,
             "gen": "",
-            "country": "Germany",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -10008,16 +10417,7 @@
       },
       {
         "name": "E 63 AMG",
-        "variants": [
-          {
-            "model": "E 63 AMG",
-            "year": 2013,
-            "gen": "",
-            "country": "Germany",
-            "difficulty": 2,
-            "imageUrls": []
-          }
-        ]
+        "variants": []
       },
       {
         "name": "G 63 AMG 6X6",
@@ -10026,7 +10426,7 @@
             "model": "G 63 AMG 6X6",
             "year": 2014,
             "gen": "",
-            "country": "Germany",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -10050,7 +10450,7 @@
             "model": "G 65 AMG",
             "year": 2013,
             "gen": "",
-            "country": "Germany",
+            "country": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -10074,7 +10474,7 @@
             "model": "SL 65 AMG Black Series",
             "year": 2009,
             "gen": "",
-            "country": "Germany",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -10108,7 +10508,7 @@
             "model": "SLK 55 AMG",
             "year": 2012,
             "gen": "",
-            "country": "Germany",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -10142,7 +10542,7 @@
             "model": "SLS AMG",
             "year": 2011,
             "gen": "",
-            "country": "Germany",
+            "country": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -10171,16 +10571,7 @@
       },
       {
         "name": "Unimog U5023",
-        "variants": [
-          {
-            "model": "Unimog U5023",
-            "year": 2014,
-            "gen": "",
-            "country": "Germany",
-            "difficulty": 2,
-            "imageUrls": []
-          }
-        ]
+        "variants": []
       },
       {
         "name": "X-Class",
@@ -10189,12 +10580,51 @@
             "model": "X-Class",
             "year": 2018,
             "gen": "",
-            "country": "Germany",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
                 "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/2018_Mercedes-Benz_X-Class.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
                 "author": "Elveres",
+                "license": "CC BY-SA 4.0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sprinter",
+        "variants": [
+          {
+            "model": "Sprinter",
+            "year": 2020,
+            "gen": "",
+            "country": "",
+            "difficulty": 1,
+            "imageUrls": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Mercedes-Benz_Sprinter_MX_Car_Rental.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Bull-Doser",
+                "license": "Public domain"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Mercedes-Benz_Sprinter_%282018%29_IMG_3502.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Alexander Migl",
+                "license": "CC BY-SA 4.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Mercedes-Benz_Sprinter_-_Specijalna_bolnica_Sveti_Sava_Beograd_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Srđan Popović",
+                "license": "CC BY-SA 4.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Mercedes_Benz_Sprinter_-_49516240867.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Samson Ng . D201@EAL",
+                "license": "CC BY-SA 4.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/2020_Mercedes-Benz_Sprinter_St_Johns_Ambulance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "LuvsMG481",
                 "license": "CC BY-SA 4.0"
               }
             ]
@@ -10213,7 +10643,7 @@
             "model": "Cooper S",
             "year": 1965,
             "gen": "",
-            "country": "UK",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -10247,7 +10677,7 @@
             "model": "John Cooper Works",
             "year": 2009,
             "gen": "1st Gen",
-            "country": "UK",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -10276,14 +10706,6 @@
                 "license": "CC BY 2.0"
               }
             ]
-          },
-          {
-            "model": "John Cooper Works Convertible",
-            "year": 2018,
-            "gen": "2nd Gen",
-            "country": "UK",
-            "difficulty": 2,
-            "imageUrls": []
           }
         ]
       },
@@ -10294,7 +10716,7 @@
             "model": "John Cooper Works All4 Countryman",
             "year": 2018,
             "gen": "",
-            "country": "UK",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -10318,7 +10740,7 @@
             "model": "Eclipse GSX",
             "year": 1995,
             "gen": "2nd Gen",
-            "country": "Japan",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -10352,7 +10774,7 @@
             "model": "GTO",
             "year": 1997,
             "gen": "3rd Gen",
-            "country": "Japan",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -10376,7 +10798,7 @@
             "model": "Galant VR-4",
             "year": 1992,
             "gen": "7th Gen",
-            "country": "Japan",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -10395,7 +10817,7 @@
             "model": "Lancer Evolution VI GSR",
             "year": 1999,
             "gen": "6th Gen",
-            "country": "Japan",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -10414,7 +10836,7 @@
             "model": "Lancer Evolution VIII MR",
             "year": 2004,
             "gen": "8th Gen",
-            "country": "Japan",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -10438,7 +10860,7 @@
             "model": "Lancer Evolution IX MR",
             "year": 2006,
             "gen": "9th Gen",
-            "country": "Japan",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -10477,7 +10899,7 @@
             "model": "Lancer Evolution X GSR",
             "year": 2008,
             "gen": "10th Gen",
-            "country": "Japan",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -10503,12 +10925,38 @@
         "name": "Starion ESI-R",
         "variants": [
           {
-            "model": "Starion ESI-R",
+            "model": "Starion",
             "year": 1988,
             "gen": "",
-            "country": "Japan",
+            "country": "",
             "difficulty": 2,
-            "imageUrls": []
+            "imageUrls": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Chrysler_Conquest_2.6_TSi_1988_%2813547985405%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "order_242 from Chile",
+                "license": "CC BY-SA 2.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/1988_Mitsubishi_Starion_Turbo_2.0_Front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Vauxford",
+                "license": "CC BY-SA 4.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/1988_Mitsubishi_Starion_Turbo_2.0_Front_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Vauxford",
+                "license": "CC BY-SA 4.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/1988_Mitsubishi_Starion_Turbo_2.0_Side.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Vauxford",
+                "license": "CC BY-SA 4.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/1988_Mitsubishi_Starion_EX_Turbo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Calreyn88",
+                "license": "CC BY-SA 4.0"
+              }
+            ]
           }
         ]
       }
@@ -10519,16 +10967,7 @@
     "groups": [
       {
         "name": "Aero",
-        "variants": [
-          {
-            "model": "Aero GT",
-            "year": 2018,
-            "gen": "",
-            "country": "UK",
-            "difficulty": 2,
-            "imageUrls": []
-          }
-        ]
+        "variants": []
       },
       {
         "name": "Aero Supersports",
@@ -10537,7 +10976,7 @@
             "model": "Aero Supersports",
             "year": 2010,
             "gen": "",
-            "country": "UK",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -10581,9 +11020,40 @@
             "model": "MT900S",
             "year": 2010,
             "gen": "",
-            "country": "USA",
+            "country": "",
             "difficulty": 2,
-            "imageUrls": []
+            "imageUrls": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Mosler_MT900s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "J Q from LA/OC, US",
+                "license": "CC BY 2.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Mosler_MT900_at_trackday.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Tony Harrison from Farnborough, UK;cropped and plates blanked by uploader Mr.choppers",
+                "license": "CC BY-SA 2.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/2006FOS_-_Mosler_MT900s_%28white%29_-_003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Mark Woodbury from Southampton, England",
+                "license": "CC BY 2.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/MT900S_Mosler_Rear.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Nsmiller13",
+                "license": "CC BY-SA 3.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Mosler_MT900_R_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "pelican-actor",
+                "license": "CC BY 2.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Mosler_MT900_GTR_Gen1_000_2006-2011_backleft_2012-10-07_A.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Detectandpreserve",
+                "license": "CC BY-SA 3.0"
+              }
+            ]
           }
         ]
       }
@@ -10599,7 +11069,7 @@
             "model": "Silvia Club K's",
             "year": 1992,
             "gen": "5th Gen",
-            "country": "Japan",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -10628,7 +11098,7 @@
             "model": "240SX SE",
             "year": 1993,
             "gen": "5th Gen",
-            "country": "Japan",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -10647,7 +11117,7 @@
             "model": "Silvia K's",
             "year": 1994,
             "gen": "6th Gen",
-            "country": "Japan",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -10661,7 +11131,7 @@
             "model": "Silvia K's Aero",
             "year": 1998,
             "gen": "6th Gen",
-            "country": "Japan",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -10685,7 +11155,7 @@
             "model": "Silvia Spec-R",
             "year": 2000,
             "gen": "7th Gen",
-            "country": "Japan",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -10709,7 +11179,7 @@
             "model": "370Z",
             "year": 2010,
             "gen": "6th Gen",
-            "country": "Japan",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -10745,26 +11215,78 @@
         "name": "Fairlady",
         "variants": [
           {
-            "model": "Fairlady Z 432",
+            "model": "Fairlady Z",
             "year": 1969,
             "gen": "1st Gen",
-            "country": "Japan",
+            "country": "",
             "difficulty": 2,
-            "imageUrls": []
+            "imageUrls": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Z432R506ad6ae9f56b1623dc167bd3d6cb01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Beatleshu",
+                "license": "CC BY-SA 4.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Nissan_Fairlady_Z_S30_Orange.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Ethan Llamas",
+                "license": "CC BY-SA 4.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Nissan_PS30_Fairlady_Z_432_%2824041409481%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "先従隗始",
+                "license": "CC0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Nissan_Fairlady_Z432_%28PS30%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Tokumeigakarinoaoshima",
+                "license": "CC BY-SA 4.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Datsun_280Z_%28Les_chauds_vendredis_%2710%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Bull-Doser",
+                "license": "Public domain"
+              }
+            ]
           },
           {
-            "model": "Fairlady Z Version S Twin Turbo",
+            "model": "Fairlady Z",
             "year": 1994,
             "gen": "4th Gen",
-            "country": "Japan",
+            "country": "",
             "difficulty": 2,
-            "imageUrls": []
+            "imageUrls": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Nissan_E-GZ32_Fairlady_Z_Version_S_2by2_T-Bar_Roof_-_Nissan_E-GZ32_Fairlady_Z_300ZX_2by2_T-Bar_Roof_%2823100110525%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "先従隗始",
+                "license": "CC0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Nissan_E-GZ32_Fairlady_Z_300ZX_2by2_T-Bar_Roof_%2823100110525%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "先従隗始",
+                "license": "CC0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Nissan_E-GCZ32_Fairlady_Z_Version_S_Twin_Turbo_2by2_T-Bar_Roof_%2823100110581%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "先従隗始",
+                "license": "CC0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Nissan_E-GCZ32_Fairlady_Z_300ZX_Twin_Turbo_2by2_T-Bar_Roof_%2823100111211%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "先従隗始",
+                "license": "CC0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Nissan_E-HZ32_Fairlady_Z_300ZX_CONVERTIBLE_%2823100111213%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "先従隗始",
+                "license": "CC0"
+              }
+            ]
           },
           {
             "model": "Fairlady Z",
             "year": 2003,
             "gen": "5th Gen",
-            "country": "Japan",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -10793,7 +11315,7 @@
             "model": "Skyline 2000GT-R",
             "year": 1971,
             "gen": "1st Gen",
-            "country": "Japan",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -10827,7 +11349,7 @@
             "model": "Skyline H/T 2000GT-R",
             "year": 1973,
             "gen": "2nd Gen",
-            "country": "Japan",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -10856,7 +11378,7 @@
             "model": "Skyline GTS-R (R31)",
             "year": 1987,
             "gen": "",
-            "country": "Japan",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -10875,7 +11397,7 @@
             "model": "Skyline GT-R V-Spec",
             "year": 1993,
             "gen": "3rd Gen",
-            "country": "Japan",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -10909,7 +11431,7 @@
             "model": "Skyline GT-R V-Spec",
             "year": 1997,
             "gen": "4th Gen",
-            "country": "Japan",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -10948,7 +11470,7 @@
             "model": "Skyline GT-R V-Spec II",
             "year": 2002,
             "gen": "5th Gen",
-            "country": "Japan",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -11007,7 +11529,7 @@
             "model": "GT-R",
             "year": 2017,
             "gen": "6th Gen",
-            "country": "Japan",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -11046,7 +11568,7 @@
             "model": "Nismo GT-R LM",
             "year": 1995,
             "gen": "",
-            "country": "Japan",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -11085,7 +11607,7 @@
             "model": "Pulsar GTI-R",
             "year": 1990,
             "gen": "4th Gen",
-            "country": "Japan",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -11109,7 +11631,7 @@
             "model": "R390",
             "year": 1998,
             "gen": "",
-            "country": "Japan",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -11143,29 +11665,11 @@
       },
       {
         "name": "Sentra",
-        "variants": [
-          {
-            "model": "Sentra Nismo",
-            "year": 2018,
-            "gen": "7th Gen",
-            "country": "Japan",
-            "difficulty": 2,
-            "imageUrls": []
-          }
-        ]
+        "variants": []
       },
       {
         "name": "Titan Warrior Concept",
-        "variants": [
-          {
-            "model": "Titan Warrior Concept",
-            "year": 2016,
-            "gen": "",
-            "country": "Japan",
-            "difficulty": 2,
-            "imageUrls": []
-          }
-        ]
+        "variants": []
       }
     ]
   },
@@ -11179,7 +11683,7 @@
             "model": "M600",
             "year": 2010,
             "gen": "",
-            "country": "UK",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -11213,16 +11717,7 @@
     "groups": [
       {
         "name": "Kadett A",
-        "variants": [
-          {
-            "model": "Kadett A",
-            "year": 1963,
-            "gen": "",
-            "country": "Germany",
-            "difficulty": 2,
-            "imageUrls": []
-          }
-        ]
+        "variants": []
       },
       {
         "name": "Manta 400",
@@ -11231,7 +11726,7 @@
             "model": "Manta 400",
             "year": 1984,
             "gen": "",
-            "country": "Germany",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -11257,6 +11752,103 @@
             ]
           }
         ]
+      },
+      {
+        "name": "Kadett",
+        "variants": [
+          {
+            "model": "Kadett A",
+            "year": 1963,
+            "gen": "1st Gen",
+            "country": "",
+            "difficulty": 2,
+            "imageUrls": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Vauxhall_Viva_HA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Sicnag",
+                "license": "CC BY 2.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Opel_Kadett_A_Kombi_1963_Front.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Buch-t",
+                "license": "CC BY-SA 3.0 de"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Opel_Kadett_%2810247048025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Dennis Elzinga",
+                "license": "CC BY 2.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/1963_Opel_Kadett_A_%27Oliver%27.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "John K",
+                "license": "CC BY-SA 4.0"
+              }
+            ]
+          },
+          {
+            "model": "Kadett C",
+            "year": 1973,
+            "gen": "3rd Gen",
+            "country": "",
+            "difficulty": 2,
+            "imageUrls": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Opel_Kadett_C_2dr_notchback_Neustadt.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Charles01",
+                "license": "CC BY-SA 3.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Opel_Kadett_C_Aero_1973-1979_backright_2008-08-17_U.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Detectandpreserve",
+                "license": "CC BY-SA 3.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Opel_Kadett_12S_-78.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "User Greverod on sv.wikipedia",
+                "license": "CC BY-SA 3.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Opel_Kadett_C_2-door_rear_three_quarters.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Charles01",
+                "license": "CC BY-SA 4.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/1970s_Opel_Kadett_1.2_S_Berlina_%2811275963926%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Charlie from United Kingdom",
+                "license": "CC BY 2.0"
+              }
+            ]
+          },
+          {
+            "model": "Kadett I",
+            "year": 1936,
+            "gen": "1936",
+            "country": "",
+            "difficulty": 3,
+            "imageUrls": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/1937_Opel_Kadett.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Torana",
+                "license": "CC BY-SA 3.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Classic_Moto_Show_2014_%282%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Dawid783",
+                "license": "CC BY-SA 4.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Bem_rakpart_a_Szil%C3%A1gyi_Dezs%C5%91_t%C3%A9r_k%C3%B6rny%C3%A9k%C3%A9n._Opel_Kadett_szem%C3%A9lyg%C3%A9pkocsi._Fortepan_8592.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "FOTO:Fortepan — ID 8592: Adományozó/Donor: Négyesi Pál.",
+                "license": "CC BY-SA 3.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Detmold_-_2017-08-26_-_Kadett_1_BJ_1937_%2803%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Tsungam",
+                "license": "CC BY-SA 4.0"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
@@ -11270,7 +11862,7 @@
             "model": "Huayra",
             "year": 2012,
             "gen": "",
-            "country": "Italy",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -11299,7 +11891,7 @@
             "model": "Huayra BC",
             "year": 2016,
             "gen": "",
-            "country": "Italy",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -11323,7 +11915,7 @@
             "model": "Zonda Cinque Roadster",
             "year": 2009,
             "gen": "",
-            "country": "Italy",
+            "country": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -11347,9 +11939,15 @@
             "model": "Zonda R",
             "year": 2010,
             "gen": "",
-            "country": "Italy",
+            "country": "",
             "difficulty": 2,
-            "imageUrls": []
+            "imageUrls": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Pagani_Zonda_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "LarryStevens",
+                "license": "CC BY-SA 3.0"
+              }
+            ]
           }
         ]
       }
@@ -11365,7 +11963,7 @@
             "model": "P50",
             "year": 1962,
             "gen": "",
-            "country": "UK",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -11399,9 +11997,15 @@
             "model": "Trident",
             "year": 1965,
             "gen": "",
-            "country": "UK",
+            "country": "",
             "difficulty": 2,
-            "imageUrls": []
+            "imageUrls": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/1965PeelTrident-front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "dave_7",
+                "license": "CC BY 2.0"
+              }
+            ]
           }
         ]
       }
@@ -11417,7 +12021,7 @@
             "model": "205 Rallye",
             "year": 1991,
             "gen": "",
-            "country": "France",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -11441,7 +12045,7 @@
             "model": "205 T16",
             "year": 1984,
             "gen": "",
-            "country": "France",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -11467,12 +12071,58 @@
         "name": "Cuda 426 Hemi",
         "variants": [
           {
-            "model": "Cuda 426 Hemi",
+            "model": "Cuda",
             "year": 1971,
             "gen": "",
-            "country": "USA",
+            "country": "",
             "difficulty": 2,
-            "imageUrls": []
+            "imageUrls": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/1971_Plymouth_Barracuda_%283091118627%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "dave_7 from Lethbridge, Canada",
+                "license": "CC BY 2.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/1971_Plymouth_Hemi_%27Cuda.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "No machine-readable author provided. Sfoskett~commonswiki assumed (based on copyright claims).",
+                "license": "CC BY-SA 3.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/1971_Plymouth_Barracuda_440_%2816808657687%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Jeremy from Sydney, Australia",
+                "license": "CC BY 2.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/1971_Plymouth_Barracuda_440_%2816393617014%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Jeremy from Sydney, Australia",
+                "license": "CC BY 2.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/1971_Plymouth_%27Cuda_%2834781125630%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Greg Gjerdingen from Willmar, USA",
+                "license": "CC BY 2.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/1971_Plymouth_%27Cuda_%2835015740771%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Greg Gjerdingen from Willmar, USA",
+                "license": "CC BY 2.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/1971_Plymouth_%27Cuda_%2834982066072%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Greg Gjerdingen from Willmar, USA",
+                "license": "CC BY 2.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/1971_Plymouth_Barracuda_Convertible_%2821201344989%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Greg Gjerdingen from Willmar, USA",
+                "license": "CC BY 2.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/1971_Plymouth_%27Cuda_Coupe_in_Sno_White%2C_Front_Right%2C_05-27-2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Elise240SX",
+                "license": "CC BY-SA 4.0"
+              }
+            ]
           }
         ]
       }
@@ -11485,18 +12135,49 @@
         "name": "Firebird",
         "variants": [
           {
-            "model": "Firebird Trans AM SD-455",
+            "model": "Firebird",
             "year": 1973,
             "gen": "2nd Gen",
-            "country": "USA",
+            "country": "",
             "difficulty": 2,
-            "imageUrls": []
+            "imageUrls": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/2-generation-Firebird-trans-am.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Elmschrat Coaching38",
+                "license": "CC BY-SA 3.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/1973_pontiac_trans_am.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "François Martinez",
+                "license": "CC BY-SA 3.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Pontiac_Firebird_Trans_Am_%286095672845%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "nakhon100",
+                "license": "CC BY 2.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/1973_Pontiac_Firebird_Trans_Am_%2816323735092%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Jeremy from Sydney, Australia",
+                "license": "CC BY 2.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/1973_Pontiac_Firebird_Trans_Am_%2816298736296%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Jeremy from Sydney, Australia",
+                "license": "CC BY 2.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/1971_Pontiac_Firebird_Formula_%2821729076603%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Sicnag",
+                "license": "CC BY 2.0"
+              }
+            ]
           },
           {
-            "model": "Firebird Trans AM",
+            "model": "Firebird",
             "year": 1977,
             "gen": "2nd Gen",
-            "country": "USA",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -11532,10 +12213,10 @@
             ]
           },
           {
-            "model": "Firebird Trans AM GTA",
+            "model": "Firebird",
             "year": 1987,
             "gen": "3rd Gen",
-            "country": "USA",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -11552,6 +12233,50 @@
                 "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/1987-1990_Pontiac_Firebird_Trans_Am_GTA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
                 "author": "Rutger van der Maar",
                 "license": "CC BY 2.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/1987_Pontiac_Firebird_Trans_Am_5.7_%28KITT%29_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Vauxford",
+                "license": "CC BY-SA 4.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/1987_Pontiac_Firebird_Trans_Am_in_Flame_Red_Met.%2C_front_left_side_%28Lime_Rock%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Mr.choppers",
+                "license": "CC BY-SA 3.0"
+              }
+            ]
+          },
+          {
+            "model": "Firebird",
+            "year": 1995,
+            "gen": "4th Gen",
+            "country": "",
+            "difficulty": 2,
+            "imageUrls": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/2000_Pontiac_Firebird_Trans_Am_WS6_%2823974280563%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Jeremy from Sydney, Australia",
+                "license": "CC BY 2.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Pontiac_Firebird_Trans_Am_Bahrain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Mohammed Hamad",
+                "license": "CC BY-SA 4.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/KoreanFirebird.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "FLJuJitsu",
+                "license": "Public domain"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/99_Pontiac_Trans_Am_%289093203092%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Greg Gjerdingen from Willmar, USA",
+                "license": "CC BY 2.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/1999_Pontiac_Firebird_Trans_Am_WS6_Coupe_in_Black%2C_Front_Right%2C_10-08-2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Elise240SX",
+                "license": "CC BY-SA 4.0"
               }
             ]
           }
@@ -11564,7 +12289,7 @@
             "model": "GTO",
             "year": 1965,
             "gen": "1st Gen",
-            "country": "USA",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -11593,7 +12318,7 @@
             "model": "GTO Judge",
             "year": 1969,
             "gen": "2nd Gen",
-            "country": "USA",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -11632,7 +12357,7 @@
             "model": "#23 917/20",
             "year": 1971,
             "gen": "",
-            "country": "Germany",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -11661,7 +12386,7 @@
             "model": "356 A 1600 Super",
             "year": 1959,
             "gen": "2nd Gen",
-            "country": "Germany",
+            "country": "",
             "difficulty": 3,
             "imageUrls": [
               {
@@ -11675,16 +12400,7 @@
       },
       {
         "name": "356 SL Gmund",
-        "variants": [
-          {
-            "model": "356 SL Gmund Coupe",
-            "year": 1951,
-            "gen": "1st Gen",
-            "country": "Germany",
-            "difficulty": 3,
-            "imageUrls": []
-          }
-        ]
+        "variants": []
       },
       {
         "name": "356A Speedster",
@@ -11693,7 +12409,7 @@
             "model": "356A Speedster",
             "year": 1957,
             "gen": "2nd Gen",
-            "country": "Germany",
+            "country": "",
             "difficulty": 3,
             "imageUrls": [
               {
@@ -11727,16 +12443,7 @@
       },
       {
         "name": "550A",
-        "variants": [
-          {
-            "model": "550A Spyder",
-            "year": 1955,
-            "gen": "",
-            "country": "Germany",
-            "difficulty": 2,
-            "imageUrls": []
-          }
-        ]
+        "variants": []
       },
       {
         "name": "718",
@@ -11745,7 +12452,7 @@
             "model": "718 RS 60",
             "year": 1960,
             "gen": "",
-            "country": "Germany",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -11769,9 +12476,25 @@
             "model": "718 Cayman GTS",
             "year": 2018,
             "gen": "4th Gen",
-            "country": "Germany",
+            "country": "",
             "difficulty": 2,
-            "imageUrls": []
+            "imageUrls": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Porsche_Cayman_718_GTS_Heckansicht.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "KarleHorn",
+                "license": "CC BY 3.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Porsche_Cayman_GTS_%2815531282348%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Chris Yarzab from  , USA",
+                "license": "CC BY 2.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/2018_Porsche_718_Cayman_GTS_2.5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Vauxford",
+                "license": "CC BY-SA 4.0"
+              }
+            ]
           }
         ]
       },
@@ -11782,7 +12505,7 @@
             "model": "906 Carrera 6",
             "year": 1966,
             "gen": "",
-            "country": "Germany",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -11816,7 +12539,7 @@
             "model": "911 Carrera RS",
             "year": 1973,
             "gen": "1st Gen",
-            "country": "Germany",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -11860,7 +12583,7 @@
             "model": "911 Carrera S",
             "year": 2019,
             "gen": "8th Gen",
-            "country": "Germany",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -11894,7 +12617,7 @@
             "model": "911 GT1 Strassenversion",
             "year": 1998,
             "gen": "",
-            "country": "Germany",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -11923,7 +12646,7 @@
             "model": "911 GT2",
             "year": 1995,
             "gen": "4th Gen",
-            "country": "Germany",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -11957,7 +12680,7 @@
             "model": "911 GT2 RS",
             "year": 2012,
             "gen": "6th Gen",
-            "country": "Germany",
+            "country": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -11981,7 +12704,7 @@
             "model": "911 GT2 RS",
             "year": 2018,
             "gen": "7th Gen",
-            "country": "Germany",
+            "country": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -12015,7 +12738,7 @@
             "model": "911 GT3",
             "year": 2004,
             "gen": "5th Gen",
-            "country": "Germany",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -12034,7 +12757,7 @@
             "model": "911 GT3 RS 4.0",
             "year": 2012,
             "gen": "6th Gen",
-            "country": "Germany",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -12063,7 +12786,7 @@
             "model": "911 GT3 RS",
             "year": 2016,
             "gen": "7th Gen",
-            "country": "Germany",
+            "country": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -12087,7 +12810,7 @@
             "model": "911 GT3 RS",
             "year": 2019,
             "gen": "7th Gen",
-            "country": "Germany",
+            "country": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -12121,7 +12844,7 @@
             "model": "911 Turbo 3.3",
             "year": 1982,
             "gen": "2nd Gen",
-            "country": "Germany",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -12145,7 +12868,7 @@
             "model": "911 Turbo S",
             "year": 2014,
             "gen": "7th Gen",
-            "country": "Germany",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -12179,7 +12902,7 @@
             "model": "914/6",
             "year": 1970,
             "gen": "",
-            "country": "Germany",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -12218,7 +12941,7 @@
             "model": "917 LH",
             "year": 1970,
             "gen": "",
-            "country": "Germany",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -12257,7 +12980,7 @@
             "model": "918 Spyder",
             "year": 2014,
             "gen": "",
-            "country": "Germany",
+            "country": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -12286,7 +13009,7 @@
             "model": "944 Turbo",
             "year": 1989,
             "gen": "",
-            "country": "Germany",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -12325,7 +13048,7 @@
             "model": "959",
             "year": 1987,
             "gen": "",
-            "country": "Germany",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -12339,16 +13062,7 @@
       },
       {
         "name": "968 Turbo S",
-        "variants": [
-          {
-            "model": "968 Turbo S",
-            "year": 1993,
-            "gen": "",
-            "country": "Germany",
-            "difficulty": 2,
-            "imageUrls": []
-          }
-        ]
+        "variants": []
       },
       {
         "name": "Carrera",
@@ -12357,7 +13071,7 @@
             "model": "Carrera GT",
             "year": 2003,
             "gen": "",
-            "country": "Germany",
+            "country": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -12376,7 +13090,7 @@
             "model": "Cayenne Turbo",
             "year": 2012,
             "gen": "2nd Gen",
-            "country": "Germany",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -12400,14 +13114,6 @@
                 "license": "CC BY 2.0"
               }
             ]
-          },
-          {
-            "model": "Cayenne Turbo",
-            "year": 2018,
-            "gen": "3rd Gen",
-            "country": "Germany",
-            "difficulty": 2,
-            "imageUrls": []
           }
         ]
       },
@@ -12418,7 +13124,7 @@
             "model": "Cayman GT4",
             "year": 2016,
             "gen": "3rd Gen",
-            "country": "Germany",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -12457,7 +13163,7 @@
             "model": "Cayman GTS",
             "year": 2015,
             "gen": "3rd Gen",
-            "country": "Germany",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -12496,7 +13202,7 @@
             "model": "Macan Turbo",
             "year": 2015,
             "gen": "",
-            "country": "Germany",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -12510,14 +13216,6 @@
                 "license": "CC BY-SA 2.0"
               }
             ]
-          },
-          {
-            "model": "Macan Turbo",
-            "year": 2019,
-            "gen": "",
-            "country": "Germany",
-            "difficulty": 2,
-            "imageUrls": []
           }
         ]
       },
@@ -12528,7 +13226,7 @@
             "model": "Panamera Turbo",
             "year": 2017,
             "gen": "2nd Gen",
-            "country": "Germany",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -12567,7 +13265,7 @@
             "model": "2500 Power Wagon",
             "year": 2017,
             "gen": "",
-            "country": "USA",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -12596,7 +13294,7 @@
             "model": "5 Turbo",
             "year": 1980,
             "gen": "",
-            "country": "France",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -12630,7 +13328,7 @@
             "model": "Alpine A110 1600S",
             "year": 1973,
             "gen": "",
-            "country": "France",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -12661,10 +13359,10 @@
         "name": "Clio",
         "variants": [
           {
-            "model": "Clio RS 197",
+            "model": "Clio",
             "year": 2007,
             "gen": "",
-            "country": "France",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -12688,17 +13386,12 @@
                 "license": "CC BY-SA 4.0"
               }
             ]
-          }
-        ]
-      },
-      {
-        "name": "Clio R.S.",
-        "variants": [
+          },
           {
-            "model": "Clio R.S.",
+            "model": "Clio",
             "year": 2010,
             "gen": "",
-            "country": "France",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -12722,43 +13415,20 @@
                 "license": "CC BY-SA 4.0"
               }
             ]
-          }
-        ]
-      },
-      {
-        "name": "Clio R.S. 16 Concept",
-        "variants": [
+          },
           {
-            "model": "Clio R.S. 16 Concept",
-            "year": 2016,
-            "gen": "",
-            "country": "France",
-            "difficulty": 2,
-            "imageUrls": []
-          }
-        ]
-      },
-      {
-        "name": "Clio R.S. 200 EDC",
-        "variants": [
-          {
-            "model": "Clio R.S. 200 EDC",
+            "model": "Clio",
             "year": 2013,
             "gen": "",
-            "country": "France",
+            "country": "",
             "difficulty": 2,
             "imageUrls": []
-          }
-        ]
-      },
-      {
-        "name": "Clio Williams",
-        "variants": [
+          },
           {
             "model": "Clio Williams",
             "year": 1993,
             "gen": "",
-            "country": "France",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -12777,17 +13447,73 @@
                 "license": "CC0"
               }
             ]
+          },
+          {
+            "model": "Sport Clio V6",
+            "year": 2003,
+            "gen": "",
+            "country": "",
+            "difficulty": 2,
+            "imageUrls": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Renault_Sport_Clio_V6_3.0_%2811905857965%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Falcon® Photography from France",
+                "license": "CC BY-SA 2.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Renault_Sport_Clio_V6_Phase_2_%2816649283599%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Alexandre Prévot from Nancy, France",
+                "license": "CC BY-SA 2.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/2003_Renault_Sport_Lut%C3%A9cia_V6_in_Bleu_Illiade%2C_front_left.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Mr.choppers",
+                "license": "CC BY-SA 3.0"
+              }
+            ]
           }
         ]
       },
       {
+        "name": "Clio R.S.",
+        "variants": []
+      },
+      {
+        "name": "Clio R.S. 16 Concept",
+        "variants": []
+      },
+      {
+        "name": "Clio R.S. 200 EDC",
+        "variants": []
+      },
+      {
+        "name": "Clio Williams",
+        "variants": []
+      },
+      {
         "name": "Megane R.S.",
+        "variants": []
+      },
+      {
+        "name": "Megane R.S. 250",
+        "variants": []
+      },
+      {
+        "name": "Megane R26.R",
+        "variants": []
+      },
+      {
+        "name": "Sport",
+        "variants": []
+      },
+      {
+        "name": "Megane",
         "variants": [
           {
-            "model": "Megane R.S.",
+            "model": "Megane",
             "year": 2018,
             "gen": "",
-            "country": "France",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -12811,17 +13537,12 @@
                 "license": "CC BY-SA 4.0"
               }
             ]
-          }
-        ]
-      },
-      {
-        "name": "Megane R.S. 250",
-        "variants": [
+          },
           {
-            "model": "Megane R.S. 250",
+            "model": "Megane",
             "year": 2010,
             "gen": "",
-            "country": "France",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -12845,48 +13566,14 @@
                 "license": "CC BY 2.0"
               }
             ]
-          }
-        ]
-      },
-      {
-        "name": "Megane R26.R",
-        "variants": [
+          },
           {
-            "model": "Megane R26.R",
+            "model": "Megane",
             "year": 2008,
             "gen": "",
-            "country": "France",
+            "country": "",
             "difficulty": 2,
             "imageUrls": []
-          }
-        ]
-      },
-      {
-        "name": "Sport",
-        "variants": [
-          {
-            "model": "Sport Clio V6",
-            "year": 2003,
-            "gen": "",
-            "country": "France",
-            "difficulty": 2,
-            "imageUrls": [
-              {
-                "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Renault_Sport_Clio_V6_3.0_%2811905857965%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-                "author": "Falcon® Photography from France",
-                "license": "CC BY-SA 2.0"
-              },
-              {
-                "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Renault_Sport_Clio_V6_Phase_2_%2816649283599%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-                "author": "Alexandre Prévot from Nancy, France",
-                "license": "CC BY-SA 2.0"
-              },
-              {
-                "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/2003_Renault_Sport_Lut%C3%A9cia_V6_in_Bleu_Illiade%2C_front_left.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-                "author": "Mr.choppers",
-                "license": "CC BY-SA 3.0"
-              }
-            ]
           }
         ]
       }
@@ -12897,16 +13584,7 @@
     "groups": [
       {
         "name": "S5S Raptor",
-        "variants": [
-          {
-            "model": "S5S Raptor",
-            "year": 2010,
-            "gen": "",
-            "country": "USA",
-            "difficulty": 2,
-            "imageUrls": []
-          }
-        ]
+        "variants": []
       },
       {
         "name": "S7",
@@ -12915,7 +13593,7 @@
             "model": "S7",
             "year": 2004,
             "gen": "",
-            "country": "USA",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -12944,7 +13622,7 @@
             "model": "Cobra 427 S/C",
             "year": 1965,
             "gen": "",
-            "country": "USA",
+            "country": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -12973,7 +13651,7 @@
             "model": "Cobra Daytona Coupe",
             "year": 1965,
             "gen": "",
-            "country": "USA",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -13017,7 +13695,7 @@
             "model": "BRZ",
             "year": 2013,
             "gen": "1st Gen",
-            "country": "Japan",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -13046,7 +13724,7 @@
             "model": "Impreza 22B STI",
             "year": 1998,
             "gen": "1st Gen",
-            "country": "Japan",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -13085,7 +13763,7 @@
             "model": "Impreza WRX STI",
             "year": 2004,
             "gen": "2nd Gen",
-            "country": "Japan",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -13119,7 +13797,7 @@
             "model": "Impreza WRX STI",
             "year": 2005,
             "gen": "2nd Gen",
-            "country": "Japan",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -13148,7 +13826,7 @@
             "model": "Impreza WRX STI",
             "year": 2008,
             "gen": "3rd Gen",
-            "country": "Japan",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -13162,7 +13840,7 @@
             "model": "WRX STI",
             "year": 2011,
             "gen": "3rd Gen",
-            "country": "Japan",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -13186,7 +13864,7 @@
             "model": "WRX STI",
             "year": 2015,
             "gen": "4th Gen",
-            "country": "Japan",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -13210,7 +13888,7 @@
             "model": "Legacy RS",
             "year": 1990,
             "gen": "1st Gen",
-            "country": "Japan",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -13239,7 +13917,7 @@
             "model": "Cerbera Speed 12",
             "year": 1998,
             "gen": "",
-            "country": "UK",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -13268,16 +13946,7 @@
       },
       {
         "name": "Griffith",
-        "variants": [
-          {
-            "model": "Griffith",
-            "year": 2018,
-            "gen": "",
-            "country": "UK",
-            "difficulty": 2,
-            "imageUrls": []
-          }
-        ]
+        "variants": []
       },
       {
         "name": "Sagaris",
@@ -13286,7 +13955,7 @@
             "model": "Sagaris",
             "year": 2005,
             "gen": "",
-            "country": "UK",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -13320,7 +13989,7 @@
             "model": "Tuscan S",
             "year": 2001,
             "gen": "",
-            "country": "UK",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -13359,7 +14028,7 @@
             "model": "Sunbeam Lotus",
             "year": 1979,
             "gen": "",
-            "country": "France",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -13388,7 +14057,7 @@
             "model": "2000GT",
             "year": 1969,
             "gen": "",
-            "country": "Japan",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -13417,7 +14086,7 @@
             "model": "Celica GT",
             "year": 1974,
             "gen": "1st Gen",
-            "country": "Japan",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -13451,7 +14120,7 @@
             "model": "Celica GT-Four ST185",
             "year": 1992,
             "gen": "2nd Gen",
-            "country": "Japan",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -13475,7 +14144,7 @@
             "model": "Celica GT-Four ST205",
             "year": 1994,
             "gen": "3rd Gen",
-            "country": "Japan",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -13509,7 +14178,7 @@
             "model": "Corolla SR5",
             "year": 1974,
             "gen": "",
-            "country": "Japan",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -13533,7 +14202,7 @@
             "model": "GT86",
             "year": 2013,
             "gen": "",
-            "country": "Japan",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -13557,7 +14226,7 @@
             "model": "MR2 SC",
             "year": 1989,
             "gen": "1st Gen",
-            "country": "Japan",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -13576,7 +14245,7 @@
             "model": "MR2 GT",
             "year": 1995,
             "gen": "2nd Gen",
-            "country": "Japan",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -13625,7 +14294,7 @@
             "model": "Sprinter Trueno GT Apex",
             "year": 1985,
             "gen": "",
-            "country": "Japan",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -13654,7 +14323,7 @@
             "model": "Supra 2.0 GT Twin Turbo",
             "year": 1992,
             "gen": "3rd Gen",
-            "country": "Japan",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -13683,7 +14352,7 @@
             "model": "Supra RZ",
             "year": 1998,
             "gen": "4th Gen",
-            "country": "Japan",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -13727,7 +14396,7 @@
             "model": "Astra VXR",
             "year": 2012,
             "gen": "",
-            "country": "UK",
+            "country": "",
             "difficulty": 2,
             "imageUrls": []
           }
@@ -13740,7 +14409,7 @@
             "model": "Corsa VXR",
             "year": 2009,
             "gen": "1st Gen",
-            "country": "UK",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -13764,7 +14433,7 @@
             "model": "Corsa VXR",
             "year": 2016,
             "gen": "2nd Gen",
-            "country": "UK",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -13788,7 +14457,7 @@
             "model": "Insignia VXR",
             "year": 2010,
             "gen": "",
-            "country": "UK",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -13812,7 +14481,7 @@
             "model": "Lotus Carlton",
             "year": 1990,
             "gen": "",
-            "country": "UK",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -13851,7 +14520,7 @@
             "model": "Monaro VRX",
             "year": 2005,
             "gen": "",
-            "country": "UK",
+            "country": "",
             "difficulty": 2,
             "imageUrls": []
           }
@@ -13864,7 +14533,7 @@
             "model": "VX220 Turbo",
             "year": 2004,
             "gen": "",
-            "country": "UK",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -13898,7 +14567,7 @@
             "model": "Beetle",
             "year": 1963,
             "gen": "",
-            "country": "Germany",
+            "country": "",
             "difficulty": 1,
             "imageUrls": [
               {
@@ -13932,7 +14601,7 @@
             "model": "Corrado VR6",
             "year": 1995,
             "gen": "",
-            "country": "Germany",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -13971,7 +14640,7 @@
             "model": "Double Cab Pick-up",
             "year": 1966,
             "gen": "",
-            "country": "Germany",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -13990,7 +14659,7 @@
             "model": "Golf R",
             "year": 2010,
             "gen": "6th Gen",
-            "country": "Germany",
+            "country": "",
             "difficulty": 2,
             "imageUrls": []
           },
@@ -13998,7 +14667,7 @@
             "model": "Golf R",
             "year": 2014,
             "gen": "7th Gen",
-            "country": "Germany",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -14027,7 +14696,7 @@
             "model": "Golf GTI",
             "year": 1983,
             "gen": "1st Gen",
-            "country": "Germany",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -14061,7 +14730,7 @@
             "model": "Golf R32",
             "year": 2003,
             "gen": "4th Gen",
-            "country": "Germany",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -14095,7 +14764,7 @@
             "model": "Scirocco R",
             "year": 2011,
             "gen": "3rd Gen",
-            "country": "Germany",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -14119,7 +14788,7 @@
             "model": "Scirocco S",
             "year": 1981,
             "gen": "1st Gen",
-            "country": "Germany",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -14148,7 +14817,7 @@
             "model": "Touareg R50",
             "year": 2008,
             "gen": "",
-            "country": "Germany",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -14185,16 +14854,7 @@
       },
       {
         "name": "Iron Knight",
-        "variants": [
-          {
-            "model": "Iron Knight",
-            "year": 2016,
-            "gen": "",
-            "country": "Sweden",
-            "difficulty": 2,
-            "imageUrls": []
-          }
-        ]
+        "variants": []
       },
       {
         "name": "V60 Polestar",
@@ -14203,7 +14863,7 @@
             "model": "V60 Polestar",
             "year": 2015,
             "gen": "",
-            "country": "Sweden",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -14227,9 +14887,45 @@
             "model": "242 Turbo",
             "year": 1983,
             "gen": "",
-            "country": "Sweden",
+            "country": "",
             "difficulty": 2,
-            "imageUrls": []
+            "imageUrls": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Volvo_242_Turbo_%2814850067119%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "nakhon100",
+                "license": "CC BY 2.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Volvo_240_Turbo%2C_Anders_Olofsson_19850706-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Lothar Spurzem",
+                "license": "CC BY-SA 2.0 de"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Volvo_242_Turbo_%2814850067379%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "nakhon100",
+                "license": "CC BY 2.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Volvo_242_Turbo_%2814359510799%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "nakhon100",
+                "license": "CC BY 2.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Volvo_242_Turbo_%2814850067109%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "nakhon100",
+                "license": "CC BY 2.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Volvo_240_Turbo_Gr._A_%288759516362%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "nakhon100",
+                "license": "CC BY 2.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Volvo_240T_Francevic_Replica_%2815750446379%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Jeremy from Sydney, Australia",
+                "license": "CC BY 2.0"
+              }
+            ]
           }
         ]
       },
@@ -14240,7 +14936,7 @@
             "model": "850",
             "year": 1997,
             "gen": "",
-            "country": "Sweden",
+            "country": "",
             "difficulty": 2,
             "imageUrls": [
               {
@@ -14256,6 +14952,24 @@
             ]
           }
         ]
+      }
+    ]
+  },
+  {
+    "make": "Ambulance",
+    "groups": [
+      {
+        "name": "Ambulance",
+        "variants": []
+      }
+    ]
+  },
+  {
+    "make": "Harley-Davidson",
+    "groups": [
+      {
+        "name": "Fat Boy",
+        "variants": []
       }
     ]
   }

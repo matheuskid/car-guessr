@@ -1,5 +1,43 @@
 [
   {
+    "id": 5,
+    "date": "2026-05-14",
+    "description": "Vencedor do Grande Prémio de Mônaco de 1972, pilotado por Jean-Pierre Beltoise.",
+    "vehicle": {
+      "id": 2504,
+      "make": "British Racing Motors",
+      "model": "BRM P160B",
+      "groupName": "BRM P160B",
+      "year": 1972,
+      "gen": "",
+      "difficulty": 3,
+      "imageUrl": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/1972_French_Grand_Prix_Wisell_%285225628691%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "author": "https://www.flickr.com/photos/zantafio56/",
+        "license": "CC BY-SA 2.0"
+      }
+    }
+  },
+  {
+    "id": 4,
+    "date": "2026-05-13",
+    "description": "Alfa Romeo 158, vencedor do Grande Prémio de Silverstone no dia 13 de maio de 1950, o primeiro GP da nova categoria \"Formula 1\". Pilotado por Giuseppe \"Nino\" Farina,  Juan Manuel Fangio e Luigi Fagioli, o Alfa 158 dominou a temporada inalgural da categoria, vencendo todas as corridas que participou.",
+    "vehicle": {
+      "id": 2503,
+      "make": "Alfa Romeo",
+      "model": "158",
+      "groupName": "158",
+      "year": 1937,
+      "gen": "",
+      "difficulty": 3,
+      "imageUrl": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Alfa_Romeo_Alfetta_159.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "author": "Unknown",
+        "license": "CC BY-SA 2.0 de"
+      }
+    }
+  },
+  {
     "id": 3,
     "date": "2026-05-12",
     "description": "Mercedes-Benz Sprinter\n\n12 de Maio - Dia Internacional da Enfermagem",
@@ -10,7 +48,6 @@
       "groupName": "Sprinter",
       "year": 2020,
       "gen": "",
-      "country": "",
       "difficulty": 1,
       "imageUrl": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Mercedes_Benz_Sprinter_-_49516240867.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -30,7 +67,6 @@
       "groupName": "Series III",
       "year": 1972,
       "gen": "",
-      "country": "UK",
       "difficulty": 2,
       "imageUrl": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Land_Rover_Series_III_SWB_%281972%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
