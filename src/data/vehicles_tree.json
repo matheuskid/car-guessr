@@ -506,14 +506,6 @@
         ]
       },
       {
-        "name": "Giulia Sprint GTA",
-        "variants": []
-      },
-      {
-        "name": "Giulia TZ2",
-        "variants": []
-      },
-      {
         "name": "P3",
         "variants": [
           {
@@ -584,6 +576,64 @@
               {
                 "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Alfa_Romeo_158_fr_MOD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
                 "author": "User:Herranderssvensson / Retusche von Auge=mit",
+                "license": "CC BY-SA 4.0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "155",
+        "variants": [
+          {
+            "name": "155",
+            "year": 1992,
+            "gen": "",
+            "market": "",
+            "difficulty": 2,
+            "imageUrls": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Alfa_Romeo_155_WB_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Marvin Raaijmakers",
+                "license": "CC BY-SA 2.5"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Alfa_Romeo_155_front_20070321.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Rudolf Stricker",
+                "license": "Public domain"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Alfa_155_WB_crop.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Marvinr",
+                "license": "CC BY-SA 3.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Alfa_Romeo_155_2.0_TS_1995_%288772937407%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "order_242 from Chile",
+                "license": "CC BY-SA 2.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Alfa_155_Twin_Spark_%28prima_serie%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Michigta",
+                "license": "CC BY-SA 4.0"
+              }
+            ]
+          },
+          {
+            "name": "155 V6 Ti",
+            "year": 1993,
+            "gen": "",
+            "market": "",
+            "difficulty": 2,
+            "imageUrls": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Alfa_155_v6_ti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "richard",
+                "license": "CC BY 2.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/1993_Alfa_Romeo_155_V6_TI_DTM_ARM.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "MrWalkr",
                 "license": "CC BY-SA 4.0"
               }
             ]
@@ -4850,10 +4900,6 @@
         ]
       },
       {
-        "name": "599XX Evoluzione",
-        "variants": []
-      },
-      {
         "name": "812 Superfast",
         "variants": [
           {
@@ -5256,40 +5302,6 @@
         ]
       },
       {
-        "name": "FXX K",
-        "variants": [
-          {
-            "name": "FXX K",
-            "year": 2014,
-            "gen": "",
-            "market": "",
-            "difficulty": 3,
-            "imageUrls": [
-              {
-                "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/2015_Ferrari_FXX-K_in_Shanghai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-                "author": "emperornie",
-                "license": "CC BY-SA 2.0 it"
-              },
-              {
-                "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Ferrari_FXX_K_Evo_%2854123738834%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-                "author": "Alexandre Prevot from Nancy, France",
-                "license": "CC BY-SA 2.0"
-              },
-              {
-                "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Ferrari_FXX_K_Evo_-_Flickr_-_Alexandre_Prevot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-                "author": "Alexandre Prevot from Nancy, France",
-                "license": "CC BY-SA 2.0"
-              },
-              {
-                "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Ferrari_FXXK_EVO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-                "author": "Calreyn88",
-                "license": "CC BY 4.0"
-              }
-            ]
-          }
-        ]
-      },
-      {
         "name": "GTC4Lusso",
         "variants": [
           {
@@ -5375,6 +5387,35 @@
               {
                 "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Ferrari_Portofino_-_Mondial_de_l%27Automobile_de_Paris_2018_-_002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
                 "author": "Thesupermat",
+                "license": "CC BY-SA 4.0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "F399",
+        "variants": [
+          {
+            "name": "F399",
+            "year": 1999,
+            "gen": "",
+            "market": "",
+            "difficulty": 2,
+            "imageUrls": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Ferrari_F399_front_Museo_Ferrari.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Morio",
+                "license": "CC BY-SA 3.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Ferrari_F399_front-right_Museo_Ferrari.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Morio",
+                "license": "CC BY-SA 3.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Michael_Schumacher_Ferrari_F399_Petersen_Automotive_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "TaurusEmerald",
                 "license": "CC BY-SA 4.0"
               }
             ]
@@ -13659,6 +13700,35 @@
             "market": "",
             "difficulty": 2,
             "imageUrls": []
+          }
+        ]
+      },
+      {
+        "name": "16",
+        "variants": [
+          {
+            "name": "16",
+            "year": 1965,
+            "gen": "",
+            "market": "",
+            "difficulty": 3,
+            "imageUrls": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Renault_16_TL_%28green%29%2C_front_right.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Unknown",
+                "license": "CC BY-SA 3.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Renault_16_ca_1969_%28ie_a_fairly_early_one%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Charles01",
+                "license": "CC BY-SA 3.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Renault_16TS_%2816029758486%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Jeremy from Sydney, Australia",
+                "license": "CC BY 2.0"
+              }
+            ]
           }
         ]
       }

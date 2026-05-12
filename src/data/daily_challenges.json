@@ -1,5 +1,45 @@
 [
   {
+    "id": 7,
+    "date": "2026-05-16",
+    "description": "16 de Maio: Renault 16.\n\nHatchback familiar de tamanho médio, produzido pela Renault entre 1965 e 1980.",
+    "vehicle": {
+      "id": 2508,
+      "make": "Renault",
+      "model": "16",
+      "groupName": "16",
+      "year": 1965,
+      "gen": "",
+      "country": "France",
+      "difficulty": 3,
+      "imageUrl": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Renault_16_ca_1969_%28ie_a_fairly_early_one%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "author": "Charles01",
+        "license": "CC BY-SA 3.0"
+      }
+    }
+  },
+  {
+    "id": 6,
+    "date": "2026-05-15",
+    "description": "Dia 15 de Maio: Alfa Romeo 155 V6 Ti.\n\nQuebrando a hegemonia dos alemães no DTM, o Alfa Romeo 155 V6 Ti venceu o campeonato de 1993 para a supresa dos rivais alemães.",
+    "vehicle": {
+      "id": 2506,
+      "make": "Alfa Romeo",
+      "model": "155 V6 Ti",
+      "groupName": "155",
+      "year": 1993,
+      "gen": "",
+      "country": "Italy",
+      "difficulty": 2,
+      "imageUrl": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Alfa_155_v6_ti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "author": "richard",
+        "license": "CC BY 2.0"
+      }
+    }
+  },
+  {
     "id": 5,
     "date": "2026-05-14",
     "description": "Vencedor do Grande Prémio de Mônaco de 1972, pilotado por Jean-Pierre Beltoise.",
