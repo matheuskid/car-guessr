@@ -86,6 +86,13 @@ export default {
       fillAll: 'Please fill in all fields.',
     },
 
+    // -- Guess Grid --
+    guessGrid: {
+      brand: 'Brand',
+      model: 'Model',
+      country: 'Country',
+    },
+
     // -- Vehicle Info --
     vehicle: {
       year: 'Year',
@@ -186,6 +193,13 @@ export default {
       giveUp: 'Desisto',
       submitGuess: 'Enviar Palpite',
       fillAll: 'Por favor, preencha todos os campos.',
+    },
+
+    // -- Guess Grid --
+    guessGrid: {
+      brand: 'Marca',
+      model: 'Modelo',
+      country: 'País',
     },
 
     // -- Vehicle Info --

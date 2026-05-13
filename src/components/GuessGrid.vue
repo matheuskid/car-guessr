@@ -1,5 +1,8 @@
 <script setup>
 import GuessRow from './GuessRow.vue'
+import { useI18n } from '../i18n/useI18n.js'
+
+const { t } = useI18n()
 
 const props = defineProps({
   guesses: {
@@ -17,9 +20,9 @@ const props = defineProps({
   <div class="flex flex-col gap-2 w-full max-w-2xl mx-auto">
     <!-- Header -->
     <div class="flex gap-2 w-full mb-1 px-2">
-      <div class="flex-1 text-center text-xs font-semibold text-slate-500 uppercase tracking-wider">Marca</div>
-      <div class="flex-1 text-center text-xs font-semibold text-slate-500 uppercase tracking-wider">Modelo</div>
-      <div class="flex-1 text-center text-xs font-semibold text-slate-500 uppercase tracking-wider">País</div>
+      <div class="flex-1 text-center text-xs font-semibold text-slate-500 uppercase tracking-wider">{{ t('guessGrid.brand') }}</div>
+      <div class="flex-1 text-center text-xs font-semibold text-slate-500 uppercase tracking-wider">{{ t('guessGrid.model') }}</div>
+      <div class="flex-1 text-center text-xs font-semibold text-slate-500 uppercase tracking-wider">{{ t('guessGrid.country') }}</div>
     </div>
 
     <!-- Guesses -->

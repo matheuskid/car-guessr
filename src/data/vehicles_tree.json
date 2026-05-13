@@ -1561,6 +1561,40 @@
             ]
           }
         ]
+      },
+      {
+        "name": "R10 TDI",
+        "variants": [
+          {
+            "name": "R10 TDI",
+            "year": 2006,
+            "gen": "",
+            "market": "",
+            "difficulty": 2,
+            "imageUrls": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Audi_R10_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Fabrice Pluchet",
+                "license": "CC BY 2.5"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Audi_R8_TDI_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "No machine-readable author provided. EyOne assumed (based on copyright claims).",
+                "license": "CC BY-SA 2.5"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Audi_R10_Laguna_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Clemson from San Francisco, USA",
+                "license": "CC BY 2.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/2008_Audi_R10_TDI_-_Flickr_-_exfordy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Brian Snelson from Hockley, Essex, England",
+                "license": "CC BY 2.0"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
@@ -9133,18 +9167,6 @@
     "country": "UK",
     "models": [
       {
-        "name": "2-Eleven",
-        "variants": []
-      },
-      {
-        "name": "3-Eleven",
-        "variants": []
-      },
-      {
-        "name": "340R",
-        "variants": []
-      },
-      {
         "name": "Elan Sprint",
         "variants": [
           {
@@ -9376,6 +9398,53 @@
                 "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Lotus_exige_s_%287494610570%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
                 "author": "Ben from LONDON, United Kingdom",
                 "license": "CC BY-SA 2.0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "12",
+        "variants": []
+      },
+      {
+        "name": "Race Cars",
+        "variants": [
+          {
+            "name": "12",
+            "year": 1957,
+            "gen": "",
+            "market": "",
+            "difficulty": 3,
+            "imageUrls": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Lotus_12_Chassis_No_353_of_1958.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "GTHO",
+                "license": "CC BY-SA 3.0"
+              }
+            ]
+          },
+          {
+            "name": "25",
+            "year": 1962,
+            "gen": "",
+            "market": "",
+            "difficulty": 3,
+            "imageUrls": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Mitter%2C_Gerhard_-_Lotus1965.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Lothar Spurzem",
+                "license": "CC BY-SA 2.0 de"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Lotus_25_at_Goodwood_FOS_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Darren",
+                "license": "CC BY 2.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/1962_Lotus_25_Climax_-_Flickr_-_exfordy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Brian Snelson from Hockley, Essex, England",
+                "license": "CC BY 2.0"
               }
             ]
           }
@@ -15161,6 +15230,41 @@
               {
                 "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/BRM_P160B_Nase.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
                 "author": "Lukas Raich",
+                "license": "CC BY-SA 4.0"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "make": "Williams",
+    "country": "",
+    "models": [
+      {
+        "name": "FW14B",
+        "variants": [
+          {
+            "name": "FW14B",
+            "year": 1992,
+            "gen": "",
+            "market": "",
+            "difficulty": 2,
+            "imageUrls": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Williams_FW14B.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "taken by Mikelo",
+                "license": "CC BY-SA 2.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Williams_Renault_-_Mansell_%285893979579%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Jake Archibald from London, England",
+                "license": "CC BY 2.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/F1_Hockenheimring_1992_Nigel_Mansell_007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Auge=mit",
                 "license": "CC BY-SA 4.0"
               }
             ]
