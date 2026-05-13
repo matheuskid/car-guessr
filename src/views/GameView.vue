@@ -6,6 +6,10 @@ import GuessGrid from '../components/GuessGrid.vue'
 import VehicleTechnicalInfo from '../components/VehicleTechnicalInfo.vue'
 import ImageModal from '../components/ImageModal.vue'
 import GameStats from '../components/GameStats.vue'
+import { useI18n } from '../i18n/useI18n.js'
+
+const { t } = useI18n()
+
 const props = defineProps({
   difficulty: {
     type: Number,
@@ -51,7 +55,7 @@ const startGame = () => {
   if (!vehiclesData || vehiclesData.length === 0) return
 
   let randomIndex
-  // Evita pegar o mesmo carro duas vezes seguidas se houver mais de um carro disponível
+  // Avoid picking the same car twice in a row if more than one car is available
   do {
     randomIndex = Math.floor(Math.random() * vehiclesData.length)
   } while (vehiclesData.length > 1 && targetCar.value && 
@@ -180,7 +184,7 @@ const handleGuess = (guessInput) => {
 
         <!-- Guesses Area -->
         <div class="p-6 flex-1">
-          <h3 class="text-sm font-bold text-slate-500 uppercase mb-4 tracking-wider">Histórico de Palpites</h3>
+          <h3 class="text-sm font-bold text-slate-500 uppercase mb-4 tracking-wider">{{ t('game.guessHistory') }}</h3>
           <GuessGrid :guesses="guesses" :max-guesses="maxGuesses" />
         </div>
       </div>
@@ -190,19 +194,19 @@ const handleGuess = (guessInput) => {
         <div class="w-full max-w-sm text-center">
           <div class="mb-8" :class="isVictory ? 'text-green-500' : 'text-red-500'">
             <h2 class="text-4xl font-black mb-2 uppercase tracking-tight">
-              {{ isVictory ? 'VOCÊ ACERTOU!' : 'FIM DE JOGO' }}
+              {{ isVictory ? t('game.youGotIt') : t('game.gameOver') }}
             </h2>
             <p class="text-slate-600 dark:text-slate-400 font-medium text-lg">
-              {{ isVictory ? 'Você descobriu o carro correto!' : 'Suas tentativas acabaram.' }}
+              {{ isVictory ? t('game.foundCorrect') : t('game.ranOut') }}
             </p>
           </div>
           
           <div class="flex flex-col gap-4">
             <button v-if="!isDaily" @click="startGame" class="w-full py-4 bg-slate-900 dark:bg-white text-white dark:text-slate-900 font-bold rounded-xl hover:bg-slate-800 dark:hover:bg-slate-200 transition-colors shadow-md text-lg">
-              JOGAR NOVAMENTE
+              {{ t('game.playAgain') }}
             </button>
             <router-link to="/" class="w-full py-4 bg-transparent border-2 border-slate-900/20 dark:border-white/20 text-slate-700 dark:text-slate-300 font-bold rounded-xl hover:bg-slate-100 dark:hover:bg-slate-800 transition-colors text-lg text-center">
-              VOLTAR AO MENU
+              {{ t('game.backToMenu') }}
             </router-link>
           </div>
         </div>

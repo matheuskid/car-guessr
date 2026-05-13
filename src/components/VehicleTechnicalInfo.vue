@@ -1,4 +1,8 @@
 <script setup>
+import { useI18n } from '../i18n/useI18n.js'
+
+const { t } = useI18n()
+
 defineProps({
   vehicle: {
     type: Object,
@@ -20,9 +24,9 @@ defineProps({
       📍 {{ vehicle.country }}
     </p>
     <div class="text-slate-600 dark:text-slate-400 text-sm leading-relaxed">
-      <p v-if="vehicle.year">Ano: {{ vehicle.year }}</p>
-      <p v-if="vehicle.gen" class="font-medium">Geração: {{ vehicle.gen }}</p>
-      <p class="mt-2 text-xs opacity-50 italic">Descrição técnica disponível em breve.</p>
+      <p v-if="vehicle.year">{{ t('vehicle.year') }}: {{ vehicle.year }}</p>
+      <p v-if="vehicle.gen" class="font-medium">{{ t('vehicle.generation') }}: {{ vehicle.gen }}</p>
+      <p class="mt-2 text-xs opacity-50 italic">{{ t('vehicle.techSoon') }}</p>
     </div>
   </div>
 </template>

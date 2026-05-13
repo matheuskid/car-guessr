@@ -79,7 +79,7 @@ const getStatusClass = (status) => {
   border: 1px solid rgba(255, 255, 255, 0.1);
 }
 
-/* Se a linha for neutra (incorreta), as tags podem ter cores mais vivas */
+/* If the row is neutral (incorrect), tags can have more vivid colors */
 .bg-slate-200 .tag-year, .bg-slate-700 .tag-year {
   background: rgba(59, 130, 246, 0.2);
   color: #60a5fa;

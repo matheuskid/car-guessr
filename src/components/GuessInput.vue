@@ -4,12 +4,15 @@ import { ref, computed, onMounted, onUnmounted } from 'vue'
 const emit = defineEmits(['submit-guess', 'give-up'])
 
 import { allVehicles as vehiclesData } from '../utils/vehicleData'
+import { useI18n } from '../i18n/useI18n.js'
 
-// ---------- Utilitários ----------
+const { t } = useI18n()
 
-// ---------- Utilitários (Calculados uma única vez fora das computeds) ----------
+// ---------- Utilities ----------
 
-// Conjuntos de valores únicos (base completa)
+// ---------- Utilities (Computed once outside of computeds) ----------
+
+// Unique value sets (full base)
 const allCountries = [...new Set(vehiclesData.filter(c => c.country).map(c => c.country))].sort()
 
 const countryFlags = {
@@ -24,7 +27,7 @@ const countryFlags = {
   'USA': 'us'
 }
 
-// Marcas pré-calculadas por país para busca rápida
+// Makes pre-computed by country for fast lookup
 const makesByCountry = vehiclesData.reduce((acc, car) => {
   if (!acc[car.country]) acc[car.country] = new Set()
   acc[car.country].add(car.make)
@@ -33,7 +36,7 @@ const makesByCountry = vehiclesData.reduce((acc, car) => {
 
 const allMakesList = [...new Set(vehiclesData.map(c => c.make))].sort()
 
-// Nomes de modelos que aparecem em mais de uma marca (ambíguos)
+// Model names that appear in more than one make (ambiguous)
 const modelNameCount = vehiclesData.reduce((acc, car) => {
   acc[car.model] = (acc[car.model] || new Set()).add(car.make)
   return acc
@@ -44,23 +47,23 @@ const ambiguousModels = new Set(
     .map(([model]) => model)
 )
 
-// Retorna o rótulo de exibição de um item de modelo
+// Returns the display label for a model item
 const modelLabel = (item, makeIsSelected) => {
   if (makeIsSelected || !ambiguousModels.has(item.model)) return item.model
   return `${item.model} (${item.make})`
 }
 
-// Encontra o país de uma marca (primeira ocorrência)
+// Finds the country for a make (first occurrence)
 const getCountryForMake = (make) => {
   const car = vehiclesData.find(c => c.make === make)
   return car?.country ?? ''
 }
 
-// ---------- Referência para clique fora ----------
+// ---------- Reference for click outside ----------
 const guessInputRef = ref(null)
 
 const handleClickOutside = (event) => {
-  // Fecha se o clique for fora do componente
+  // Close if the click is outside the component
   if (guessInputRef.value && !guessInputRef.value.contains(event.target)) {
     closeAll()
   }
@@ -79,7 +82,7 @@ onUnmounted(() => {
 const selectedCountry = ref('')
 const selectedMake = ref('')
 const selectedModel = ref('')   // valor real do modelo
-const selectedGen = ref('')     // geração selecionada
+const selectedGen = ref('')     // selected generation
 const selectedYear = ref(null)    // ano selecionado
 const selectedGroupName = ref('') // grupo selecionado
 
@@ -91,12 +94,12 @@ const isCountryOpen = ref(false)
 const isMakeOpen = ref(false)
 const isModelOpen = ref(false)
 
-// Índice do item focado pelo teclado nas sugestões
+// Index of the keyboard-focused item in suggestions
 const activeIndex = ref(0)
 
 // ---------- Listas filtradas com cascata ----------
 
-// Marcas filtradas pelo país selecionado + query
+// Makes filtered by selected country + query
 const availableMakes = computed(() => {
   const query = makeQuery.value.toLowerCase()
   const base = selectedCountry.value
@@ -106,8 +109,8 @@ const availableMakes = computed(() => {
   return base.filter(m => m.toLowerCase().includes(query))
 })
 
-// Lista base de modelos únicos para a marca selecionada (ou geral)
-// Isso só re-calcula quando a MARCA selecionada muda, não quando o usuário digita.
+// Base list of unique models for the selected make (or all)
+// This only re-computes when the selected MAKE changes, not when the user types.
 const baseModelItems = computed(() => {
   const base = selectedMake.value
     ? vehiclesData.filter(c => c.make === selectedMake.value)
@@ -135,7 +138,7 @@ const baseModelItems = computed(() => {
     }
   }
 
-  // Ordena uma única vez
+  // Sort once
   return items.sort((a, b) => {
     const modelComp = a.model.localeCompare(b.model)
     if (modelComp !== 0) return modelComp
@@ -145,7 +148,7 @@ const baseModelItems = computed(() => {
   })
 })
 
-// Filtra a lista pré-processada com base na query (rápido!)
+// Filters the pre-processed list based on the query (fast!)
 const availableModelItems = computed(() => {
   let filtered = baseModelItems.value
   
@@ -161,7 +164,7 @@ const availableModelItems = computed(() => {
   return filtered.map(item => {
     return {
       ...item,
-      id: `${item.make}||${item.model}||${item.gen}||${item.year}`, // ID único para o virtual scroller
+      id: `${item.make}||${item.model}||${item.gen}||${item.year}`, // Unique ID for the virtual scroller
       label: `${item.model}${item.gen ? ' ' + item.gen : ''}${item.year ? ' ' + item.year : ''}`
     }
   })
@@ -173,25 +176,25 @@ const filteredCountries = computed(() =>
   allCountries.filter(c => c.toLowerCase().includes(countryQuery.value.toLowerCase()))
 )
 
-// Placeholder dinâmico da Marca
+// Dynamic Make placeholder
 const makePlaceholder = computed(() => {
-  if (selectedCountry.value) return `🏭 Marca (em ${selectedCountry.value})...`
-  return '🏭 Marca do Carro...'
+  if (selectedCountry.value) return t('guess.makeIn', { value: selectedCountry.value })
+  return t('guess.makeDefault')
 })
 
-// Placeholder dinâmico do Modelo
+// Dynamic Model placeholder
 const modelPlaceholder = computed(() => {
-  if (selectedMake.value) return `🚗 Modelo (${selectedMake.value})...`
-  return '🚗 Modelo...'
+  if (selectedMake.value) return t('guess.modelIn', { value: selectedMake.value })
+  return t('guess.modelDefault')
 })
 
-// ---------- Handlers de seleção ----------
+// ---------- Selection handlers ----------
 
 const openDropdown = (type) => {
   isCountryOpen.value = type === 'country'
   isMakeOpen.value = type === 'make'
   isModelOpen.value = type === 'model'
-  activeIndex.value = 0 // Reseta o foco ao abrir
+  activeIndex.value = 0 // Reset focus on open
 }
 
 const closeAll = () => {
@@ -201,7 +204,7 @@ const closeAll = () => {
   activeIndex.value = 0
 }
 
-// Funções de navegação pelo teclado
+// Keyboard navigation functions
 const onKeyDown = (e, type, list) => {
   if (!list || list.length === 0) return
 
@@ -226,7 +229,7 @@ const onKeyDown = (e, type, list) => {
 }
 
 const scrollActiveIntoView = () => {
-  // Pequeno delay para garantir que o DOM atualizou
+  // Small delay to ensure the DOM has updated
   setTimeout(() => {
     const activeEl = document.querySelector('.dropdown-item-active')
     if (activeEl) {
@@ -238,7 +241,7 @@ const scrollActiveIntoView = () => {
 const selectCountry = (country) => {
   selectedCountry.value = country
   countryQuery.value = country
-  // Reset marca e modelo ao trocar o país
+  // Reset make and model when changing country
   clearMakeSelection()
   isCountryOpen.value = false
 }
@@ -252,11 +255,11 @@ const clearCountrySelection = () => {
 const selectMake = (make) => {
   selectedMake.value = make
   makeQuery.value = make
-  // Auto-preenche o país
+  // Auto-fill country
   const country = getCountryForMake(make)
   selectedCountry.value = country
   countryQuery.value = country
-  // Reset modelo ao trocar a marca
+  // Reset model when changing make
   clearModelSelection()
   isMakeOpen.value = false
 }
@@ -298,18 +301,18 @@ const selectModel = (item) => {
   
   modelQuery.value = item.model
   
-  // Auto-preenche marca
+  // Auto-fill make
   selectedMake.value = item.make
   makeQuery.value = item.make
   
-  // Auto-preenche país
+  // Auto-fill country
   const country = getCountryForMake(item.make)
   selectedCountry.value = country
   countryQuery.value = country
   isModelOpen.value = false
 }
 
-// Limpa a seleção de país quando o usuário edita o campo manualmente
+// Clears the country selection when the user manually edits the field
 const onCountryInput = () => {
   if (countryQuery.value !== selectedCountry.value) {
     selectedCountry.value = ''
@@ -317,7 +320,7 @@ const onCountryInput = () => {
   }
 }
 
-// Limpa a seleção de marca quando o usuário edita o campo manualmente
+// Clears the make selection when the user manually edits the field
 const onMakeInput = () => {
   if (makeQuery.value !== selectedMake.value) {
     selectedMake.value = ''
@@ -325,7 +328,7 @@ const onMakeInput = () => {
   }
 }
 
-// Limpa a seleção de modelo quando o usuário edita o campo manualmente, mas mantém o texto
+// Clears the model selection when the user manually edits the field, but keeps the text
 const onModelInput = () => {
   clearModelSelection()
 }
@@ -336,7 +339,7 @@ const submitGuess = () => {
   if (selectedMake.value && selectedModel.value && selectedCountry.value) {
     emit('submit-guess', {
       make: selectedMake.value,
-      model: selectedModel.value || modelQuery.value, // Usa o texto se não houver seleção formal
+      model: selectedModel.value || modelQuery.value, // Use the text if there's no formal selection
       country: selectedCountry.value,
       gen: selectedGen.value,
       year: selectedYear.value,
@@ -349,7 +352,7 @@ const submitGuess = () => {
     countryQuery.value = ''
     makeQuery.value = ''
   } else {
-    alert('Por favor, preencha todos os campos.')
+    alert(t('guess.fillAll'))
   }
 }
 </script>
@@ -357,7 +360,7 @@ const submitGuess = () => {
 <template>
   <div ref="guessInputRef" @click="closeAll" class="bg-gradient-to-r from-blue-900 via-blue-800 to-indigo-900 p-6 rounded-xl shadow-lg w-full relative overflow-visible z-20">
     <h3 class="text-xl font-black mb-4 text-white text-center uppercase tracking-wide drop-shadow-md">
-      Qual é este carro?
+      {{ t('guess.whatCar') }}
     </h3>
 
     <div class="flex flex-col gap-4">
@@ -379,7 +382,7 @@ const submitGuess = () => {
             @click="openDropdown('country')"
             @keydown="onKeyDown($event, 'country', filteredCountries)"
             type="text"
-            placeholder="🌍 País de Origem..."
+            :placeholder="t('guess.countryPlaceholder')"
             class="w-full px-4 py-3 bg-transparent border-none focus:outline-none text-slate-800 dark:text-white font-medium placeholder-slate-400"
             :class="{ 'pl-2': selectedCountry && countryFlags[selectedCountry] }"
           >
@@ -497,13 +500,13 @@ const submitGuess = () => {
           @click="emit('give-up')"
           class="flex-1 py-3 bg-red-500/20 hover:bg-red-500/40 backdrop-blur-sm text-white font-bold rounded-lg transition-colors border border-red-500/40 shadow-sm uppercase tracking-wide text-sm"
         >
-          Desisto
+          {{ t('guess.giveUp') }}
         </button>
         <button
           @click="submitGuess"
           class="flex-[2] py-3 bg-white/20 hover:bg-white/30 backdrop-blur-sm text-white font-bold rounded-lg transition-colors border border-white/40 shadow-sm uppercase tracking-wide"
         >
-          Enviar Palpite
+          {{ t('guess.submitGuess') }}
         </button>
       </div>
 

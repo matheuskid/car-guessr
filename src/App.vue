@@ -2,6 +2,7 @@
 import { computed } from 'vue'
 import { useRoute, useRouter } from 'vue-router'
 import ThemeToggle from './components/ThemeToggle.vue'
+import LanguageToggle from './components/LanguageToggle.vue'
 
 const route = useRoute()
 const router = useRouter()
@@ -14,7 +15,8 @@ const returnToMenu = () => {
 </script>
 
 <template>
-  <div class="min-h-screen flex flex-col bg-slate-100 dark:bg-slate-900 transition-colors duration-300 font-sans lg:h-screen lg:overflow-hidden">
+  <div class="min-h-screen flex flex-col bg-slate-100 dark:bg-slate-900 transition-colors duration-300 font-sans"
+       :class="{ 'lg:h-screen lg:overflow-hidden': !isHome }">
     <!-- Header -->
     <header class="w-full h-16 flex justify-between items-center px-6 bg-white dark:bg-slate-950 shadow-sm z-20 shrink-0">
       <div class="flex items-center gap-4">
@@ -44,6 +46,7 @@ const returnToMenu = () => {
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M10 19l-7-7m0 0l7-7m-7 7h18" />
           </svg>
         </button>
+        <LanguageToggle />
         <ThemeToggle />
       </div>
     </header>
