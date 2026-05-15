@@ -52,6 +52,29 @@ export default {
       ranOut: 'You ran out of attempts.',
       playAgain: 'PLAY AGAIN',
       backToMenu: 'BACK TO MENU',
+      nextRound: 'NEXT ROUND',
+      finalResult: 'FINAL RESULT',
+      roundScore: 'Round Score',
+      totalScore: 'Total Score',
+      roundOf: 'Round {current} of {total}',
+      pointsEarned: '+{points} pts',
+    },
+
+    // -- Match --
+    match: {
+      matchComplete: 'MATCH COMPLETE!',
+      finalScore: 'Final Score',
+      bestScore: 'Best Score',
+      newBestScore: 'NEW BEST!',
+      roundSummary: 'Round Summary',
+      round: 'Round',
+      playAgain: 'PLAY AGAIN',
+      backToMenu: 'BACK TO MENU',
+      correct: 'Correct',
+      missed: 'Missed',
+      attempts: '{count} attempt | {count} attempts',
+      maxScore: 'Max: {max} pts',
+      pts: 'pts',
     },
 
     // -- Daily --
@@ -161,6 +184,29 @@ export default {
       ranOut: 'Suas tentativas acabaram.',
       playAgain: 'JOGAR NOVAMENTE',
       backToMenu: 'VOLTAR AO MENU',
+      nextRound: 'PRÓXIMO ROUND',
+      finalResult: 'RESULTADO FINAL',
+      roundScore: 'Pontuação do Round',
+      totalScore: 'Pontuação Total',
+      roundOf: 'Round {current} de {total}',
+      pointsEarned: '+{points} pts',
+    },
+
+    // -- Match --
+    match: {
+      matchComplete: 'PARTIDA COMPLETA!',
+      finalScore: 'Pontuação Final',
+      bestScore: 'Melhor Pontuação',
+      newBestScore: 'NOVO RECORDE!',
+      roundSummary: 'Resumo dos Rounds',
+      round: 'Round',
+      playAgain: 'JOGAR NOVAMENTE',
+      backToMenu: 'VOLTAR AO MENU',
+      correct: 'Correto',
+      missed: 'Errou',
+      attempts: '{count} tentativa | {count} tentativas',
+      maxScore: 'Máx: {max} pts',
+      pts: 'pts',
     },
 
     // -- Daily --

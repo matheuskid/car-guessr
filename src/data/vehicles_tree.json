@@ -5843,6 +5843,45 @@
                 "license": "CC BY-SA 2.0"
               }
             ]
+          },
+          {
+            "name": "Falcon XB GT",
+            "year": 1973,
+            "gen": "3rd Gen",
+            "market": "Australia",
+            "difficulty": 3,
+            "imageUrls": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/1973_Ford_XB_Falcon_GT_sedan_%287708197620%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "sv1ambo",
+                "license": "CC BY 2.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/1973_Ford_XB_Falcon_GT_Hardtop_%289671223480%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Sicnag",
+                "license": "CC BY 2.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/1973_Ford_Falcon_XB_GT_Hardtop_%2813053592325%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Sicnag",
+                "license": "CC BY 2.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/1973_Ford_Falcon_XB_GT_Sedan_%288497305492%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Sicnag",
+                "license": "CC BY 2.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/1973_Ford_Falcon_%28XB%29_GT_sedan_%2823656590662%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Jeremy from Sydney, Australia",
+                "license": "CC BY 2.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/1974_Ford_XB_Falcon_GT_Sedan_%2824067197313%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Sicnag",
+                "license": "CC BY 2.0"
+              }
+            ]
           }
         ]
       },
@@ -6039,10 +6078,6 @@
             ]
           }
         ]
-      },
-      {
-        "name": "GT40 MK I",
-        "variants": []
       },
       {
         "name": "Lotus Cortina",
@@ -6455,50 +6490,6 @@
                 "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/1987_Ford_Sierra_RS500_Cosworth_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
                 "author": "Calreyn88",
                 "license": "CC BY-SA 4.0"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "name": "XB Falcon",
-        "variants": [
-          {
-            "name": "Falcon XB GT",
-            "year": 1973,
-            "gen": "3rd Gen",
-            "market": "Australia",
-            "difficulty": 3,
-            "imageUrls": [
-              {
-                "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/1973_Ford_XB_Falcon_GT_sedan_%287708197620%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-                "author": "sv1ambo",
-                "license": "CC BY 2.0"
-              },
-              {
-                "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/1973_Ford_XB_Falcon_GT_Hardtop_%289671223480%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-                "author": "Sicnag",
-                "license": "CC BY 2.0"
-              },
-              {
-                "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/1973_Ford_Falcon_XB_GT_Hardtop_%2813053592325%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-                "author": "Sicnag",
-                "license": "CC BY 2.0"
-              },
-              {
-                "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/1973_Ford_Falcon_XB_GT_Sedan_%288497305492%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-                "author": "Sicnag",
-                "license": "CC BY 2.0"
-              },
-              {
-                "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/1973_Ford_Falcon_%28XB%29_GT_sedan_%2823656590662%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-                "author": "Jeremy from Sydney, Australia",
-                "license": "CC BY 2.0"
-              },
-              {
-                "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/1974_Ford_XB_Falcon_GT_Sedan_%2824067197313%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-                "author": "Sicnag",
-                "license": "CC BY 2.0"
               }
             ]
           }
