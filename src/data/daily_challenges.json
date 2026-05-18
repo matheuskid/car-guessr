@@ -2,7 +2,8 @@
   {
     "id": 16,
     "date": "2026-05-23",
-    "description": "23 de Maio: Ferrari F2001.\n\nAniversário de Rubens Barrichello.",
+    "description": "23th of May: Ferrari F2001.\n\nRubens Barrichello's birthday.",
+    "description_pt": "23 de Maio: Ferrari F2001.\n\nAniversário de Rubens Barrichello.",
     "vehicle": {
       "id": 2515,
       "make": "Ferrari",
@@ -22,7 +23,8 @@
   {
     "id": 17,
     "date": "2026-05-22",
-    "description": "22 de Maio: Lancia D50.\n\nNo Grande Premio de Mônaco de 1955, Alberto Ascari mergulhava com seu Lancia D50 nas águas do Mediterrâneo.",
+    "description": "May 22nd: Lancia D50. At the 1955 Monaco Grand Prix, Alberto Ascari dove into the waters of the Mediterranean with his Lancia D50.",
+    "description_pt": "22 de Maio: Lancia D50. No Grande Premio de Mônaco de 1955, Alberto Ascari mergulhava com seu Lancia D50 nas águas do Mediterrâneo.",
     "vehicle": {
       "id": 2518,
       "make": "Lancia",
@@ -42,7 +44,8 @@
   {
     "id": 15,
     "date": "2026-05-21",
-    "description": "21 de Maio: Ferrari 125 F1.\n\nEstreia da lendária montadora italiana no Grande Prémio de Mônaco de 1950.",
+    "description": "May 21st: Ferrari 125 F1. Debut of the legendary Italian manufacturer at the 1950 Monaco Grand Prix.",
+    "description_pt": "21 de Maio: Ferrari 125 F1. Estreia da lendária montadora italiana no Grande Prémio de Mônaco de 1950.",
     "vehicle": {
       "id": 2517,
       "make": "Ferrari",
@@ -62,7 +65,8 @@
   {
     "id": 14,
     "date": "2026-05-20",
-    "description": "Dia 20 de Maio: NASCAR Pontiac Grand Prix #20.\n\nAniversário de Tony Stewart.",
+    "description": "May 20th: NASCAR Pontiac Grand Prix #20.\n\nTony Stewart's birthday.",
+    "description_pt": "Dia 20 de Maio: NASCAR Pontiac Grand Prix #20.\n\nAniversário de Tony Stewart.",
     "vehicle": {
       "id": 2514,
       "make": "NASCAR",
@@ -82,7 +86,8 @@
   {
     "id": 13,
     "date": "2026-05-19",
-    "description": "19 de Maio: Lotus 25\n\nAniversário de Colin Chapman, um dos fundadores da Lotus.O Lotus 25 foi o primeiro carro de formula 1 a implementar um chassi \"monocoque\", que virou o padrão para carros de corrida.",
+    "description": "May 19th: Lotus 25. Birthday of Colin Chapman, one of the founders of Lotus. The Lotus 25 was the first Formula 1 car to implement a \"monocoque\" chassis, which became the standard for racing cars.",
+    "description_pt": "19 de Maio: Lotus 25. Aniversário de Colin Chapman, um dos fundadores da Lotus.O Lotus 25 foi o primeiro carro de formula 1 a implementar um chassi \"monocoque\", que virou o padrão para carros de corrida.",
     "vehicle": {
       "id": 2513,
       "make": "Lotus",
@@ -102,7 +107,8 @@
   {
     "id": 12,
     "date": "2026-05-18",
-    "description": "18 de Maio: Lotus 12\n\nDia que marca a estreia da equipe Lotus na categoria Formula 1 no Grande Premio de Mônaco, em 18 de Maio de 1958. O Lotus 12 foi desenvolvido por ninguem menos que Colin Chapman e pilotado por Graham Hill, em sua estreia na categoria.",
+    "description": "May 18th: Lotus 12. This day marks the debut of the Lotus team in Formula 1 at the Monaco Grand Prix, on May 18th, 1958. The Lotus 12 was developed by none other than Colin Chapman and driven by Graham Hill in his debut in the category.",
+    "description_pt": "18 de Maio: Lotus 12. Dia que marca a estreia da equipe Lotus na categoria Formula 1 no Grande Premio de Mônaco, em 18 de Maio de 1958. O Lotus 12 foi desenvolvido por ninguem menos que Colin Chapman e pilotado por Graham Hill, em sua estreia na categoria.",
     "vehicle": {
       "id": 2512,
       "make": "Lotus",
@@ -122,7 +128,8 @@
   {
     "id": 8,
     "date": "2026-05-17",
-    "description": "Dia 17 de Maio: Williams FW14B\n\nNo dia 17 de Maio de 1992, Nigel Mansell vencia o Grande Prémio de San Marino com o carro Williams FW14B, sua quinta vitória consecutiva na temporada de 92.",
+    "description": "May 17th: Williams FW14B.\n\nOn May 17th, 1992, Nigel Mansell won the San Marino Grand Prix with the Williams FW14B, his fifth consecutive victory of the 1992 season.",
+    "description_pt": "Dia 17 de Maio: Williams FW14B.\n\nNo dia 17 de Maio de 1992, Nigel Mansell vencia o Grande Prémio de San Marino com o carro Williams FW14B, sua quinta vitória consecutiva na temporada de 92.",
     "vehicle": {
       "id": 2510,
       "make": "Williams",
@@ -142,7 +149,8 @@
   {
     "id": 7,
     "date": "2026-05-16",
-    "description": "16 de Maio: Renault 16.\n\nHatchback familiar de tamanho médio, produzido pela Renault entre 1965 e 1980.",
+    "description": "16 de Maio: Renault 16. Hatchback familiar de tamanho médio, produzido pela Renault entre 1965 e 1980.",
+    "description_pt": "May 16th: Renault 16. Mid-size family hatchback, produced by Renault between 1965 and 1980.",
     "vehicle": {
       "id": 2508,
       "make": "Renault",
@@ -162,7 +170,8 @@
   {
     "id": 6,
     "date": "2026-05-15",
-    "description": "Dia 15 de Maio: Alfa Romeo 155 V6 Ti.\n\nQuebrando a hegemonia dos alemães no DTM, o Alfa Romeo 155 V6 Ti venceu o campeonato de 1993 para a supresa dos rivais alemães.",
+    "description": "May 15th: Alfa Romeo 155 V6 Ti. Breaking the German hegemony in the DTM, the Alfa Romeo 155 V6 Ti won the 1993 championship, to the surprise of its rivals.",
+    "description_pt": "Dia 15 de Maio: Alfa Romeo 155 V6 Ti. Quebrando a hegemonia dos alemães no DTM, o Alfa Romeo 155 V6 Ti venceu o campeonato de 1993 para a supresa dos rivais.",
     "vehicle": {
       "id": 2506,
       "make": "Alfa Romeo",
@@ -182,7 +191,8 @@
   {
     "id": 5,
     "date": "2026-05-14",
-    "description": "Vencedor do Grande Prémio de Mônaco de 1972, pilotado por Jean-Pierre Beltoise.",
+    "description": "May 14th: BRM P160B. Winner of the 1972 Monaco Grand Prix, driven by Jean-Pierre Beltoise.",
+    "description_pt": "14 de Maio: BRM P160B. Vencedor do Grande Prémio de Mônaco de 1972, pilotado por Jean-Pierre Beltoise.",
     "vehicle": {
       "id": 2504,
       "make": "British Racing Motors",
@@ -202,7 +212,8 @@
   {
     "id": 4,
     "date": "2026-05-13",
-    "description": "Alfa Romeo 158, vencedor do Grande Prémio de Silverstone no dia 13 de maio de 1950, o primeiro GP da nova categoria \"Formula 1\". Pilotado por Giuseppe \"Nino\" Farina,  Juan Manuel Fangio e Luigi Fagioli, o Alfa 158 dominou a temporada inalgural da categoria, vencendo todas as corridas que participou.",
+    "description": "May 13th: Alfa Romeo 158. Winner of the Silverstone Grand Prix on May 13th, 1950, the first GP of the new \"Formula 1\" category. Driven by Giuseppe \"Nino\" Farina, Juan Manuel Fangio and Luigi Fagioli, the Alfa 158 dominated the inaugural season of the category, winning every race it participated in.",
+    "description_pt": "13 de maio: Alfa Romeo 158. Vencedor do Grande Prémio de Silverstone no dia 13 de maio de 1950, o primeiro GP da nova categoria \"Formula 1\". Pilotado por Giuseppe \"Nino\" Farina,  Juan Manuel Fangio e Luigi Fagioli, o Alfa 158 dominou a temporada inalgural da categoria, vencendo todas as corridas que participou.",
     "vehicle": {
       "id": 2503,
       "make": "Alfa Romeo",
@@ -222,7 +233,8 @@
   {
     "id": 3,
     "date": "2026-05-12",
-    "description": "Mercedes-Benz Sprinter\n\n12 de Maio - Dia Internacional da Enfermagem",
+    "description": "Mercedes-Benz Sprinter. May 12th - International Nurses Day",
+    "description_pt": "Mercedes-Benz Sprinter. 12 de Maio - Dia Internacional da Enfermagem",
     "vehicle": {
       "id": 2499,
       "make": "Mercedes-Benz",
@@ -242,7 +254,8 @@
   {
     "id": 2,
     "date": "2026-05-11",
-    "description": "Como hoje é o dia Nacional do Raggae (no Brasil), o carro de hoje é uma Land Rover Series III.\n\nEsse veículo se tornou um ícone por ser utilizado pelo cantor para circular por sua terra natal, a Jamaica, e também por estar ligado à sua imagem de simplicidade e conexão com a natureza.",
+    "description": "Since today is National Reggae Day (in Brazil), today's featured car is a Land Rover Series III. This vehicle became an icon because it was used by the singer to get around his homeland, Jamaica, and also because it's linked to his image of simplicity and connection with nature.",
+    "description_pt": "Como hoje é o dia Nacional do Raggae (no Brasil), o carro de hoje é uma Land Rover Series III. Esse veículo se tornou um ícone por ser utilizado pelo cantor para circular por sua terra natal, a Jamaica, e também por estar ligado à sua imagem de simplicidade e conexão com a natureza.",
     "vehicle": {
       "id": 2282,
       "make": "Land Rover",
@@ -263,6 +276,7 @@
     "id": 11,
     "date": "2026-04-28",
     "description": "28 de Abril: Lamborghini Miura\n\nNascimento de Ferruccio Lamborghini (1916).",
+    "description_pt": null,
     "vehicle": {
       "id": 2267,
       "make": "Lamborghini",
@@ -283,6 +297,7 @@
     "id": 9,
     "date": "2026-02-18",
     "description": "18 de Fevereiro: Enzo Ferarri\n\nNascimento de Enzo Ferrari (18 de Fevereiro de 1898).",
+    "description_pt": null,
     "vehicle": {
       "id": 2154,
       "make": "Ferrari",
@@ -303,6 +318,7 @@
     "id": 10,
     "date": "2026-01-15",
     "description": "15 de Janeiro: Aston Martin DB5\n\nFundação da Aston Martin, 15 de Janeiro de 1913.",
+    "description_pt": null,
     "vehicle": {
       "id": 2022,
       "make": "Aston Martin",

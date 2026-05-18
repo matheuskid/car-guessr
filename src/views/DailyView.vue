@@ -1,5 +1,5 @@
 <script setup>
-import { ref, onMounted } from 'vue'
+import { ref, onMounted, computed } from 'vue'
 import GameView from './GameView.vue'
 import VehicleTechnicalInfo from '../components/VehicleTechnicalInfo.vue'
 import DailyCalendar from '../components/DailyCalendar.vue'
@@ -7,7 +7,7 @@ import dailyData from '../data/daily_challenges.json'
 import { useI18n } from '../i18n/useI18n.js'
 import { useRouter } from 'vue-router'
 
-const { t } = useI18n()
+const { t, locale } = useI18n()
 const router = useRouter()
 
 const dailyChallenge = ref(null)
@@ -18,6 +18,14 @@ const gameResults = ref(null)
 
 const showCalendar = ref(false)
 const targetDateStr = ref('')
+
+const currentDescription = computed(() => {
+  if (!dailyChallenge.value) return null;
+  if (locale.value === 'pt' && dailyChallenge.value.description_pt) {
+    return dailyChallenge.value.description_pt;
+  }
+  return dailyChallenge.value.description;
+})
 
 const fetchChallengeByDate = (dateStr) => {
   try {
@@ -145,8 +153,8 @@ onMounted(() => {
               <h3 class="text-3xl font-bold leading-tight">
                 {{ dailyChallenge.vehicle.make }} {{ dailyChallenge.vehicle.model }}
               </h3>
-              <p v-if="dailyChallenge.description" class="text-slate-300 leading-relaxed italic border-l-4 border-amber-500 pl-4 py-1">
-                "{{ dailyChallenge.description }}"
+              <p v-if="currentDescription" class="text-slate-300 leading-relaxed italic border-l-4 border-amber-500 pl-4 py-1">
+                "{{ currentDescription }}"
               </p>
               <p v-else class="text-slate-400 leading-relaxed">
                 {{ t('daily.defaultDescription') }}
