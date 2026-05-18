@@ -70,7 +70,7 @@
       "groupName": "NASCAR",
       "year": 1999,
       "gen": "4th Gen",
-      "country": "",
+      "country": "USA",
       "difficulty": 2,
       "imageUrl": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/TonyStewart1999DoubleCar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -130,7 +130,7 @@
       "groupName": "FW14B",
       "year": 1992,
       "gen": "",
-      "country": "",
+      "country": "UK",
       "difficulty": 2,
       "imageUrl": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/F1_Hockenheimring_1992_Nigel_Mansell_007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
