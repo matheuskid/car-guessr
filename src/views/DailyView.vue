@@ -2,39 +2,49 @@
 import { ref, onMounted } from 'vue'
 import GameView from './GameView.vue'
 import VehicleTechnicalInfo from '../components/VehicleTechnicalInfo.vue'
+import DailyCalendar from '../components/DailyCalendar.vue'
 import dailyData from '../data/daily_challenges.json'
 import { useI18n } from '../i18n/useI18n.js'
+import { useRouter } from 'vue-router'
 
 const { t } = useI18n()
+const router = useRouter()
 
 const dailyChallenge = ref(null)
 const isLoading = ref(true)
 const error = ref(null)
-const completedToday = ref(false)
+const completed = ref(false)
 const gameResults = ref(null)
 
-const todayStr = new Date().toISOString().split('T')[0]
-const storageKey = `car-guessr-daily-${todayStr}`
+const showCalendar = ref(false)
+const targetDateStr = ref('')
 
-const fetchDailyChallenge = () => {
+const fetchChallengeByDate = (dateStr) => {
   try {
     isLoading.value = true
+    error.value = null
+    completed.value = false
+    gameResults.value = null
+    dailyChallenge.value = null
+    targetDateStr.value = dateStr
     
-    // Find challenge for today
-    const challenge = dailyData.find(c => c.date === todayStr)
+    // Find challenge for date
+    const challenge = dailyData.find(c => c.date === dateStr)
     
     if (!challenge) {
-      throw new Error(t('daily.noChallenge', { date: todayStr }))
+      throw new Error(t('daily.noChallenge', { date: dateStr }))
     }
     
     dailyChallenge.value = challenge
     
     // Check if already completed
+    const storageKey = `car-guessr-daily-${dateStr}`
     const savedData = localStorage.getItem(storageKey)
     if (savedData) {
       gameResults.value = JSON.parse(savedData)
-      completedToday.value = true
+      completed.value = true
     }
+    showCalendar.value = false
   } catch (err) {
     console.error('Error loading daily challenge:', err)
     error.value = err.message || t('daily.loadError')
@@ -43,19 +53,49 @@ const fetchDailyChallenge = () => {
   }
 }
 
+const loadToday = () => {
+  const now = new Date()
+  const tzOffset = now.getTimezoneOffset() * 60000
+  const todayStr = new Date(now.getTime() - tzOffset).toISOString().split('T')[0]
+  fetchChallengeByDate(todayStr)
+}
+
 const handleGameOver = (results) => {
   gameResults.value = results
-  completedToday.value = true
+  completed.value = true
+  const storageKey = `car-guessr-daily-${targetDateStr.value}`
   localStorage.setItem(storageKey, JSON.stringify(results))
 }
 
+const handleSelectDate = (dateStr) => {
+  fetchChallengeByDate(dateStr)
+}
+
+const openCalendar = () => {
+  showCalendar.value = true
+}
+
+const closeCalendar = () => {
+  if (dailyChallenge.value) {
+    showCalendar.value = false
+  } else {
+    router.push('/')
+  }
+}
+
 onMounted(() => {
-  fetchDailyChallenge()
+  loadToday()
 })
 </script>
 
 <template>
-  <div v-if="isLoading" class="flex-1 flex items-center justify-center bg-slate-900 text-white">
+  <DailyCalendar 
+    v-if="showCalendar" 
+    @select-date="handleSelectDate"
+    @close="closeCalendar"
+  />
+
+  <div v-else-if="isLoading" class="flex-1 flex items-center justify-center bg-slate-900 text-white">
     <div class="animate-spin rounded-full h-12 w-12 border-t-2 border-b-2 border-white"></div>
   </div>
 
@@ -63,16 +103,21 @@ onMounted(() => {
     <div class="max-w-md w-full text-center space-y-6">
       <h2 class="text-3xl font-black uppercase text-red-500">{{ t('daily.error') }}</h2>
       <p class="text-slate-400">{{ error }}</p>
-      <router-link to="/" class="inline-block px-8 py-3 bg-white text-slate-900 font-bold rounded-full hover:bg-blue-500 transition-all">
-        {{ t('daily.backToMenu') }}
-      </router-link>
+      <div class="flex flex-col sm:flex-row gap-4 justify-center">
+        <button @click="openCalendar" class="inline-block px-8 py-3 bg-blue-600 text-white font-bold rounded-full hover:bg-blue-500 transition-all">
+          {{ t('daily.viewCalendar') }}
+        </button>
+        <router-link to="/" class="inline-block px-8 py-3 bg-white text-slate-900 font-bold rounded-full hover:bg-slate-200 transition-all">
+          {{ t('daily.backToMenu') }}
+        </router-link>
+      </div>
     </div>
   </div>
 
   <template v-else>
     <!-- Game Mode -->
     <GameView 
-      v-if="!completedToday" 
+      v-if="!completed" 
       :target-vehicle="dailyChallenge.vehicle" 
       :is-daily="true"
       @game-over="handleGameOver"
@@ -85,7 +130,7 @@ onMounted(() => {
           <h2 class="text-5xl font-black uppercase tracking-tighter" :class="gameResults.victory ? 'text-green-500' : 'text-red-500'">
             {{ gameResults.victory ? t('daily.challengeComplete') : t('daily.gameOver') }}
           </h2>
-          <p class="text-slate-400 text-lg">{{ t('daily.completedToday', { date: todayStr }) }}</p>
+          <p class="text-slate-400 text-lg">{{ t('daily.completedToday', { date: targetDateStr }) }}</p>
         </div>
 
         <div class="bg-slate-800/50 backdrop-blur-md rounded-3xl p-8 border border-white/10 shadow-2xl">
@@ -128,7 +173,10 @@ onMounted(() => {
         </div>
 
         <div class="flex flex-col sm:flex-row gap-4 justify-center">
-          <router-link to="/" class="px-8 py-4 bg-white text-slate-900 font-black rounded-xl hover:bg-blue-500 hover:text-white transition-all uppercase tracking-wider text-sm text-center">
+          <button @click="openCalendar" class="px-8 py-4 bg-blue-600 text-white font-black rounded-xl hover:bg-blue-500 transition-all uppercase tracking-wider text-sm text-center">
+            {{ t('daily.viewCalendar') }}
+          </button>
+          <router-link to="/" class="px-8 py-4 bg-transparent border-2 border-white/20 text-slate-300 font-black rounded-xl hover:bg-white/10 transition-colors uppercase tracking-wider text-sm text-center">
             {{ t('daily.backToMenu') }}
           </router-link>
         </div>

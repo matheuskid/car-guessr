@@ -94,6 +94,12 @@ export default {
       victory: 'VICTORY',
       defeat: 'DEFEAT',
       viewMyGame: 'View my game',
+      viewCalendar: 'View Calendar',
+      calendarTitle: 'Daily Challenges',
+      weekdays: ['SUN', 'MON', 'TUE', 'WED', 'THU', 'FRI', 'SAT'],
+      months: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'],
+      playMissed: 'Play Missed Challenge',
+      viewResult: 'View Result',
     },
 
     // -- Guess Input --
@@ -226,6 +232,12 @@ export default {
       victory: 'VITÓRIA',
       defeat: 'DERROTA',
       viewMyGame: 'Ver meu jogo',
+      viewCalendar: 'Ver Calendário',
+      calendarTitle: 'Desafios Diários',
+      weekdays: ['DOM', 'SEG', 'TER', 'QUA', 'QUI', 'SEX', 'SÁB'],
+      months: ['Janeiro', 'Fevereiro', 'Março', 'Abril', 'Maio', 'Junho', 'Julho', 'Agosto', 'Setembro', 'Outubro', 'Novembro', 'Dezembro'],
+      playMissed: 'Jogar Desafio Perdido',
+      viewResult: 'Ver Resultado',
     },
 
     // -- Guess Input --

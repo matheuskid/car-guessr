@@ -5428,29 +5428,41 @@
         ]
       },
       {
-        "name": "F399",
+        "name": "F1",
         "variants": [
+          {
+            "name": "F2002",
+            "year": 2002,
+            "gen": "",
+            "market": "",
+            "difficulty": 2,
+            "imageUrls": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Usgp_2002_ims_barrichello_ferrari.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Rick Dikeman",
+                "license": "CC BY-SA 3.0"
+              }
+            ]
+          },
           {
             "name": "F399",
             "year": 1999,
             "gen": "",
             "market": "",
             "difficulty": 2,
+            "imageUrls": []
+          },
+          {
+            "name": "125 F1",
+            "year": 1950,
+            "gen": "",
+            "market": "",
+            "difficulty": 3,
             "imageUrls": [
               {
-                "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Ferrari_F399_front_Museo_Ferrari.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-                "author": "Morio",
-                "license": "CC BY-SA 3.0"
-              },
-              {
-                "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Ferrari_F399_front-right_Museo_Ferrari.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-                "author": "Morio",
-                "license": "CC BY-SA 3.0"
-              },
-              {
-                "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Michael_Schumacher_Ferrari_F399_Petersen_Automotive_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-                "author": "TaurusEmerald",
-                "license": "CC BY-SA 4.0"
+                "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Ferrari_166_F2_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Jitesh Jagadish from Dubai, United Arab Emirates",
+                "license": "CC BY 2.0"
               }
             ]
           }
@@ -8931,6 +8943,30 @@
                 "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Lancia_Stratos_%2849817653007%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
                 "author": "Pedro Ribeiro Simões from Lisboa, Portugal",
                 "license": "CC BY 2.0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "D50",
+        "variants": [
+          {
+            "name": "D50",
+            "year": 1955,
+            "gen": "",
+            "market": "",
+            "difficulty": 3,
+            "imageUrls": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Lancia_D50_%2835334107110%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Neil",
+                "license": "CC BY 2.0"
+              },
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/D50_025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Unknown authorUnknown author",
+                "license": "Public domain"
               }
             ]
           }
@@ -15201,7 +15237,7 @@
   },
   {
     "make": "British Racing Motors",
-    "country": "",
+    "country": "UK",
     "models": [
       {
         "name": "BRM P160B",
@@ -15256,6 +15292,31 @@
               {
                 "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/F1_Hockenheimring_1992_Nigel_Mansell_007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
                 "author": "Auge=mit",
+                "license": "CC BY-SA 4.0"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "make": "NASCAR",
+    "country": "",
+    "models": [
+      {
+        "name": "NASCAR",
+        "variants": [
+          {
+            "name": "Pontiac Grand Prix #20",
+            "year": 1999,
+            "gen": "4th Gen",
+            "market": "",
+            "difficulty": 2,
+            "imageUrls": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/TonyStewart1999DoubleCar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Doctorindy",
                 "license": "CC BY-SA 4.0"
               }
             ]
