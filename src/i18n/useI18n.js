@@ -26,10 +26,14 @@ export function useI18n() {
       value = value[part]
     }
 
-    if (typeof value !== 'string') return key
+    if (value === undefined) return key
 
-    // Replace {param} placeholders
-    return value.replace(/\{(\w+)\}/g, (_, k) => params[k] ?? `{${k}}`)
+    if (typeof value === 'string') {
+      // Replace {param} placeholders
+      return value.replace(/\{(\w+)\}/g, (_, k) => params[k] ?? `{${k}}`)
+    }
+
+    return value
   }
 
   const toggleLocale = () => {
